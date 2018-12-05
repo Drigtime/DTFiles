@@ -10,10 +10,10 @@ Object.values(quests).forEach((quest)=>{
         questSteps[step].objectiveIds.forEach((objective)=>{
           if (questObjectives[objective].parameters.length === 3) {
             if (questObjectives[objective].parameters[0] === 1625) {
-              if (items[questObjectives[objective].parameters[1]].nameId === "Oeuf de Dragoeuf Noir") {
-                console.log(step, objective, questObjectives[objective].parameters[1]);
-              }
-                // console.log(npc[questObjectives[objective].parameters[0]].nameId, items[questObjectives[objective].parameters[1]].nameId, questObjectives[objective].parameters[2]);
+              // if (items[questObjectives[objective].parameters[1]].nameId === "Oeuf de Dragoeuf Noir") {
+                // console.log(step, objective, questObjectives[objective].parameters[1]);
+              // }
+              console.log(npc[questObjectives[objective].parameters[0]].nameId, items[questObjectives[objective].parameters[1]].nameId, questObjectives[objective].parameters[2]);
             }
           }
         })
