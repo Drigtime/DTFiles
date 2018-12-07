@@ -4,19 +4,23 @@ const questObjectives = require('./D2O/QuestObjectives.json')
 const items = require('./D2O/Items.json')
 const npc = require('./D2O/Npcs')
 
-Object.values(quests).forEach((quest)=>{
-  if (quest.categoryId == 31) {
-      quest.stepIds.forEach((step)=>{
-        questSteps[step].objectiveIds.forEach((objective)=>{
-          if (questObjectives[objective].parameters.length === 3) {
-            if (questObjectives[objective].parameters[0] === 1625) {
-              // if (items[questObjectives[objective].parameters[1]].nameId === "Oeuf de Dragoeuf Noir") {
-                // console.log(step, objective, questObjectives[objective].parameters[1]);
-              // }
-              console.log(npc[questObjectives[objective].parameters[0]].nameId, items[questObjectives[objective].parameters[1]].nameId, questObjectives[objective].parameters[2]);
-            }
-          }
-        })
+Object.values(quests).forEach((quest) => {
+  if (quest.categoryId == 31 && quest.id == 989) {
+    quest.stepIds.forEach((step) => {
+      questSteps[step].objectiveIds.forEach((objective) => {
+        switch (questObjectives[objective]._type) {
+          case 'QuestObjectiveBringItemToNpc':
+            console.log(`Give ${items[questObjectives[objective].parameters[1]].nameId}(${questObjectives[objective].parameters[1]}) x ${questObjectives[objective].parameters[2]} to ${npc[questObjectives[objective].parameters[0]].nameId}(${questObjectives[objective].parameters[0]})`);
+            break;
+          case 'QuestObjectiveFreeForm':
+            console.log(`Go prey`);
+            break;
+          case 'QuestObjectiveGoToNpc':
+            console.log(`Talk to ${npc[questObjectives[objective].parameters[0]].nameId}(${questObjectives[objective].parameters[0]})`);
+            break;
+          default:
+        }
       })
+    })
   }
 })
