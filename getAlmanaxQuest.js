@@ -20,9 +20,14 @@ req(
           if (quest.categoryId == 31 && quest.nameId.match(npcid.nameId)) {
             quest.stepIds.forEach(step => {
               console.log(`Reward ${Math.round(questSteps[step].kamasRatio * 43978)} K`);
+              let almanaxInfo = {}
               questSteps[step].objectiveIds.forEach(objective => {
                 switch (questObjectives[objective]._type) {
                   case 'QuestObjectiveBringItemToNpc':
+                    almanaxInfo.item = {
+                      id: questObjectives[objective].parameters[1],
+                      quannt: questObjectives[objective].parameters[2]
+                    }
                     console.log(
                       `Give ${items[questObjectives[objective].parameters[1]].nameId}(${questObjectives[objective].parameters[1]}) x ${
                       questObjectives[objective].parameters[2]
@@ -33,6 +38,7 @@ req(
                     console.log(`Go prey`);
                     break;
                   case 'QuestObjectiveGoToNpc':
+                    if (questObjectives[objective].parameters[0] !== 1625) almanaxInfo.meryde = questObjectives[objective].parameters[0]
                     console.log(
                       `Talk to ${npc[questObjectives[objective].parameters[0]].nameId}(${questObjectives[objective].parameters[0]})(${
                       npc[questObjectives[objective].parameters[0]].dialogReplies.length
@@ -42,6 +48,7 @@ req(
                   default:
                 }
               });
+              console.log(almanaxInfo);
             });
           }
         });
