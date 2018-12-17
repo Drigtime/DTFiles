@@ -125,7 +125,7 @@ const classes = [
 classes.forEach((cls) => {
   request({
     method: 'POST',
-    url: 'https://proxyconnection.touch.dofus.com/data/map?lang=fr&v=1.35.2',
+    url: 'https://proxyconnection.touch.dofus.com/data/map?lang=fr&v=1.37.2',
     Headers: {
       "Content-Type": "application/json"
     },

@@ -8,7 +8,7 @@ Object.keys(D2O).forEach(map => {
         if (!exists) {
             request({
                 method: 'GET',
-                url: `https://ankama.akamaized.net/games/dofus-tablette/assets/2.22.1/maps/${map}.json`,
+                url: `https://ankama.akamaized.net/games/dofus-tablette/assets/2.24.6/maps/${map}.json`,
                 Headers: {
                     "Content-Type": "application/json"
                 }
