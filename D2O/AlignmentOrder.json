@@ -1,1 +1,12 @@
-{"0":{"id":0,"nameId":"Neutre","sideId":0},"1":{"id":1,"nameId":"Nouvelles recrues de Bonta","sideId":1},"2":{"id":2,"nameId":"Ordre du Coeur Vaillant","sideId":1},"3":{"id":3,"nameId":"Ordre de l'Esprit Salvateur","sideId":1},"4":{"id":4,"nameId":"Ordre de l'Oeil Attentif","sideId":1},"5":{"id":5,"nameId":"Nouvelles recrues de Brakmar","sideId":2},"6":{"id":6,"nameId":"Ordre du Coeur Saignant","sideId":2},"7":{"id":7,"nameId":"Ordre de l'Esprit Malsain","sideId":2},"8":{"id":8,"nameId":"Ordre de l'Oeil Putride","sideId":2},"9":{"id":9,"nameId":"Clan de Sériane-Kerm","sideId":3}}
+{
+  "0": { "id": 0, "nameId": "Neutre", "sideId": 0 },
+  "1": { "id": 1, "nameId": "Nouvelles recrues de Bonta", "sideId": 1 },
+  "2": { "id": 2, "nameId": "Ordre du Coeur Vaillant", "sideId": 1 },
+  "3": { "id": 3, "nameId": "Ordre de l'Esprit Salvateur", "sideId": 1 },
+  "4": { "id": 4, "nameId": "Ordre de l'Oeil Attentif", "sideId": 1 },
+  "5": { "id": 5, "nameId": "Nouvelles recrues de Brakmar", "sideId": 2 },
+  "6": { "id": 6, "nameId": "Ordre du Coeur Saignant", "sideId": 2 },
+  "7": { "id": 7, "nameId": "Ordre de l'Esprit Malsain", "sideId": 2 },
+  "8": { "id": 8, "nameId": "Ordre de l'Oeil Putride", "sideId": 2 },
+  "9": { "id": 9, "nameId": "Clan de Sériane-Kerm", "sideId": 3 }
+}

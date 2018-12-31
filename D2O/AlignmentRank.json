@@ -1,1 +1,353 @@
-{"0":{"id":0,"orderId":0,"nameId":"Neutre","descriptionId":"-","minimumAlignment":0,"objectsStolen":0,"gifts":[]},"1":{"id":1,"orderId":1,"nameId":"Néophyte","descriptionId":"Les nouvelles recrues ont fait le choix de protéger la veuve et l'orphelin. Toutefois, leur formation débutant à peine, elles n'ont pas encore choisi de spécialisation. Leur désir et leurs aptitudes permettront de les orienter par la suite.","minimumAlignment":0,"objectsStolen":0,"gifts":[]},"2":{"id":2,"orderId":2,"nameId":"Disciple de Menalt","descriptionId":"Désireux de développer leurs aptitudes guerrières, les disciples de Menalt doivent prouver leur courage et leur force au cours d'entraînements longs et douloureux.","minimumAlignment":20,"objectsStolen":0,"gifts":[]},"3":{"id":3,"orderId":2,"nameId":"Ecuyer","descriptionId":"Un Ecuyer digne de ce nom n'a cure des courbatures ; il le montrera chaque jour au cours d'entraînements très longs et très douloureux.","minimumAlignment":40,"objectsStolen":0,"gifts":[]},"4":{"id":4,"orderId":2,"nameId":"Chevalier de l'Espoir","descriptionId":"-","minimumAlignment":60,"objectsStolen":0,"gifts":[]},"5":{"id":5,"orderId":2,"nameId":"Champion Merveilleux","descriptionId":"-","minimumAlignment":80,"objectsStolen":0,"gifts":[]},"6":{"id":6,"orderId":2,"nameId":"Héros Légendaire","descriptionId":"-","minimumAlignment":100,"objectsStolen":1,"gifts":[]},"7":{"id":7,"orderId":3,"nameId":"Disciple de Jiva","descriptionId":"Désireux de développer leurs pouvoirs magiques, les disciples de Jiva doivent découvrir en eux-mêmes la force spirituelle qui doit les guider dans l'apprentissage de la magie.","minimumAlignment":20,"objectsStolen":0,"gifts":[]},"8":{"id":8,"orderId":3,"nameId":"Apprenti Éclairé","descriptionId":"Celui ou celle qui se revendique Apprenti Éclairé devra mériter ce titre honorifique, en soignant blessés et mourants au plus fort des batailles.","minimumAlignment":40,"objectsStolen":0,"gifts":[]},"9":{"id":9,"orderId":3,"nameId":"Adepte des Ecrits","descriptionId":"-","minimumAlignment":60,"objectsStolen":0,"gifts":[]},"10":{"id":10,"orderId":3,"nameId":"Maître des Parchemins","descriptionId":"-","minimumAlignment":80,"objectsStolen":0,"gifts":[]},"11":{"id":11,"orderId":3,"nameId":"Gardien du Savoir","descriptionId":"-","minimumAlignment":100,"objectsStolen":1,"gifts":[]},"13":{"id":13,"orderId":4,"nameId":"Disciple de Silvosse","descriptionId":"Désireux de développer leurs qualités d'espion, les disciples de Silvosse doivent apprendre à récolter des informations utiles et à ne pas se faire repérer.","minimumAlignment":20,"objectsStolen":0,"gifts":[]},"14":{"id":14,"orderId":4,"nameId":"Espion Silencieux","descriptionId":"Se proclamer espion n'est rien. Immobile comme le chêne, silencieux comme la pierre, seul un Espion Silencieux éprouvé saura écouter tout ce qui se meut ici-bas.","minimumAlignment":40,"objectsStolen":0,"gifts":[]},"15":{"id":15,"orderId":4,"nameId":"Chasseur de Renégats","descriptionId":"-","minimumAlignment":60,"objectsStolen":0,"gifts":[]},"16":{"id":16,"orderId":4,"nameId":"Assassin Suprême","descriptionId":"-","minimumAlignment":80,"objectsStolen":0,"gifts":[]},"17":{"id":17,"orderId":4,"nameId":"Maître des Illusions","descriptionId":"-","minimumAlignment":100,"objectsStolen":1,"gifts":[]},"18":{"id":18,"orderId":5,"nameId":"Néophyte","descriptionId":"Les nouvelles recrues sont issues de la fange la plus immonde qui soit. Même si leur fourberie est déjà grande, leur niaiserie n'en fait pas des ennemis redoutables. La formation et les spécialisations qu'ils vont suivre devraient y remédier.","minimumAlignment":0,"objectsStolen":0,"gifts":[]},"19":{"id":19,"orderId":6,"nameId":"Disciple de Djaul","descriptionId":"Animés par l'amour de la haine, les disciples de Djaul doivent apprendre qu'en combat, il n'y a pas d'ennemis, seulement des têtes à fracasser.","minimumAlignment":20,"objectsStolen":0,"gifts":[]},"20":{"id":20,"orderId":6,"nameId":"Surineur","descriptionId":"Etre surineur à la solde de Djaul requiert de grandes qualités physiques et une immoralité à toute épreuve.","minimumAlignment":40,"objectsStolen":0,"gifts":[]},"21":{"id":21,"orderId":6,"nameId":"Chevalier du Désespoir","descriptionId":"-","minimumAlignment":60,"objectsStolen":0,"gifts":[]},"22":{"id":22,"orderId":6,"nameId":"Champion du Chaos","descriptionId":"-","minimumAlignment":80,"objectsStolen":0,"gifts":[]},"23":{"id":23,"orderId":6,"nameId":"Héros de l'Apocalypse","descriptionId":"-","minimumAlignment":100,"objectsStolen":1,"gifts":[]},"24":{"id":24,"orderId":7,"nameId":"Disciple d'Hécate","descriptionId":"Animés par le vice, les disciples d'Hécate doivent justifier de leurs bonnes connaissances dans l'assortiment des ingrédients mortifères.","minimumAlignment":20,"objectsStolen":0,"gifts":[]},"25":{"id":25,"orderId":7,"nameId":"Apprenti Sombre","descriptionId":"Celui ou celle qui se revendique Apprenti devra mériter ce titre honorifique, en ensorcelant des vivants, des morts et même des morts-vivants.","minimumAlignment":40,"objectsStolen":0,"gifts":[]},"26":{"id":26,"orderId":7,"nameId":"Adepte des Douleurs","descriptionId":"-","minimumAlignment":60,"objectsStolen":0,"gifts":[]},"27":{"id":27,"orderId":7,"nameId":"Maître des Sévices","descriptionId":"-","minimumAlignment":80,"objectsStolen":0,"gifts":[]},"28":{"id":28,"orderId":7,"nameId":"Gardien des Tortures","descriptionId":"-","minimumAlignment":100,"objectsStolen":1,"gifts":[]},"29":{"id":29,"orderId":8,"nameId":"Disciple de Brumaire","descriptionId":"Animés par un goût immodéré pour le glauque, les disciples de Brumaire doivent démontrer leur capacité à collecter des informations et à désinformer.","minimumAlignment":20,"objectsStolen":0,"gifts":[]},"30":{"id":30,"orderId":8,"nameId":"Espion Sombre","descriptionId":"Drapé dans son manteau de ténèbres, l'Espion sombre saura faire couler les larmes et saigner les lames, et non l'inverse.","minimumAlignment":40,"objectsStolen":0,"gifts":[]},"31":{"id":31,"orderId":8,"nameId":"Chasseur d'Ames","descriptionId":"-","minimumAlignment":60,"objectsStolen":0,"gifts":[]},"32":{"id":32,"orderId":8,"nameId":"Psychopathe","descriptionId":"-","minimumAlignment":80,"objectsStolen":0,"gifts":[]},"33":{"id":33,"orderId":8,"nameId":"Maître des Ombres","descriptionId":"-","minimumAlignment":100,"objectsStolen":1,"gifts":[]},"34":{"id":34,"orderId":9,"nameId":"Néophyte","descriptionId":"-","minimumAlignment":0,"objectsStolen":0,"gifts":[]},"36":{"id":36,"orderId":9,"nameId":"Apprenti Mercenaire","descriptionId":"-","minimumAlignment":20,"objectsStolen":0,"gifts":[2,3,4,5,6,13]},"37":{"id":37,"orderId":9,"nameId":"Mercenaire","descriptionId":"-","minimumAlignment":40,"objectsStolen":0,"gifts":[2,3,4,5,6,13]},"38":{"id":38,"orderId":9,"nameId":"Grand Mercenaire","descriptionId":"-","minimumAlignment":60,"objectsStolen":0,"gifts":[2,3,4,5,6,8,13]},"39":{"id":39,"orderId":9,"nameId":"Maître Mercenaire","descriptionId":"-","minimumAlignment":80,"objectsStolen":0,"gifts":[2,3,4,5,6,8,11,13]},"40":{"id":40,"orderId":9,"nameId":"Grand Maître Mercenaire","descriptionId":"-","minimumAlignment":100,"objectsStolen":0,"gifts":[2,3,4,5,6,8,11,13]}}
+{
+  "0": {
+    "id": 0,
+    "orderId": 0,
+    "nameId": "Neutre",
+    "descriptionId": "-",
+    "minimumAlignment": 0,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "1": {
+    "id": 1,
+    "orderId": 1,
+    "nameId": "Néophyte",
+    "descriptionId": "Les nouvelles recrues ont fait le choix de protéger la veuve et l'orphelin. Toutefois, leur formation débutant à peine, elles n'ont pas encore choisi de spécialisation. Leur désir et leurs aptitudes permettront de les orienter par la suite.",
+    "minimumAlignment": 0,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "2": {
+    "id": 2,
+    "orderId": 2,
+    "nameId": "Disciple de Menalt",
+    "descriptionId": "Désireux de développer leurs aptitudes guerrières, les disciples de Menalt doivent prouver leur courage et leur force au cours d'entraînements longs et douloureux.",
+    "minimumAlignment": 20,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "3": {
+    "id": 3,
+    "orderId": 2,
+    "nameId": "Ecuyer",
+    "descriptionId": "Un Ecuyer digne de ce nom n'a cure des courbatures ; il le montrera chaque jour au cours d'entraînements très longs et très douloureux.",
+    "minimumAlignment": 40,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "4": {
+    "id": 4,
+    "orderId": 2,
+    "nameId": "Chevalier de l'Espoir",
+    "descriptionId": "-",
+    "minimumAlignment": 60,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "5": {
+    "id": 5,
+    "orderId": 2,
+    "nameId": "Champion Merveilleux",
+    "descriptionId": "-",
+    "minimumAlignment": 80,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "6": {
+    "id": 6,
+    "orderId": 2,
+    "nameId": "Héros Légendaire",
+    "descriptionId": "-",
+    "minimumAlignment": 100,
+    "objectsStolen": 1,
+    "gifts": []
+  },
+  "7": {
+    "id": 7,
+    "orderId": 3,
+    "nameId": "Disciple de Jiva",
+    "descriptionId": "Désireux de développer leurs pouvoirs magiques, les disciples de Jiva doivent découvrir en eux-mêmes la force spirituelle qui doit les guider dans l'apprentissage de la magie.",
+    "minimumAlignment": 20,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "8": {
+    "id": 8,
+    "orderId": 3,
+    "nameId": "Apprenti Éclairé",
+    "descriptionId": "Celui ou celle qui se revendique Apprenti Éclairé devra mériter ce titre honorifique, en soignant blessés et mourants au plus fort des batailles.",
+    "minimumAlignment": 40,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "9": {
+    "id": 9,
+    "orderId": 3,
+    "nameId": "Adepte des Ecrits",
+    "descriptionId": "-",
+    "minimumAlignment": 60,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "10": {
+    "id": 10,
+    "orderId": 3,
+    "nameId": "Maître des Parchemins",
+    "descriptionId": "-",
+    "minimumAlignment": 80,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "11": {
+    "id": 11,
+    "orderId": 3,
+    "nameId": "Gardien du Savoir",
+    "descriptionId": "-",
+    "minimumAlignment": 100,
+    "objectsStolen": 1,
+    "gifts": []
+  },
+  "13": {
+    "id": 13,
+    "orderId": 4,
+    "nameId": "Disciple de Silvosse",
+    "descriptionId": "Désireux de développer leurs qualités d'espion, les disciples de Silvosse doivent apprendre à récolter des informations utiles et à ne pas se faire repérer.",
+    "minimumAlignment": 20,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "14": {
+    "id": 14,
+    "orderId": 4,
+    "nameId": "Espion Silencieux",
+    "descriptionId": "Se proclamer espion n'est rien. Immobile comme le chêne, silencieux comme la pierre, seul un Espion Silencieux éprouvé saura écouter tout ce qui se meut ici-bas.",
+    "minimumAlignment": 40,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "15": {
+    "id": 15,
+    "orderId": 4,
+    "nameId": "Chasseur de Renégats",
+    "descriptionId": "-",
+    "minimumAlignment": 60,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "16": {
+    "id": 16,
+    "orderId": 4,
+    "nameId": "Assassin Suprême",
+    "descriptionId": "-",
+    "minimumAlignment": 80,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "17": {
+    "id": 17,
+    "orderId": 4,
+    "nameId": "Maître des Illusions",
+    "descriptionId": "-",
+    "minimumAlignment": 100,
+    "objectsStolen": 1,
+    "gifts": []
+  },
+  "18": {
+    "id": 18,
+    "orderId": 5,
+    "nameId": "Néophyte",
+    "descriptionId": "Les nouvelles recrues sont issues de la fange la plus immonde qui soit. Même si leur fourberie est déjà grande, leur niaiserie n'en fait pas des ennemis redoutables. La formation et les spécialisations qu'ils vont suivre devraient y remédier.",
+    "minimumAlignment": 0,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "19": {
+    "id": 19,
+    "orderId": 6,
+    "nameId": "Disciple de Djaul",
+    "descriptionId": "Animés par l'amour de la haine, les disciples de Djaul doivent apprendre qu'en combat, il n'y a pas d'ennemis, seulement des têtes à fracasser.",
+    "minimumAlignment": 20,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "20": {
+    "id": 20,
+    "orderId": 6,
+    "nameId": "Surineur",
+    "descriptionId": "Etre surineur à la solde de Djaul requiert de grandes qualités physiques et une immoralité à toute épreuve.",
+    "minimumAlignment": 40,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "21": {
+    "id": 21,
+    "orderId": 6,
+    "nameId": "Chevalier du Désespoir",
+    "descriptionId": "-",
+    "minimumAlignment": 60,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "22": {
+    "id": 22,
+    "orderId": 6,
+    "nameId": "Champion du Chaos",
+    "descriptionId": "-",
+    "minimumAlignment": 80,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "23": {
+    "id": 23,
+    "orderId": 6,
+    "nameId": "Héros de l'Apocalypse",
+    "descriptionId": "-",
+    "minimumAlignment": 100,
+    "objectsStolen": 1,
+    "gifts": []
+  },
+  "24": {
+    "id": 24,
+    "orderId": 7,
+    "nameId": "Disciple d'Hécate",
+    "descriptionId": "Animés par le vice, les disciples d'Hécate doivent justifier de leurs bonnes connaissances dans l'assortiment des ingrédients mortifères.",
+    "minimumAlignment": 20,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "25": {
+    "id": 25,
+    "orderId": 7,
+    "nameId": "Apprenti Sombre",
+    "descriptionId": "Celui ou celle qui se revendique Apprenti devra mériter ce titre honorifique, en ensorcelant des vivants, des morts et même des morts-vivants.",
+    "minimumAlignment": 40,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "26": {
+    "id": 26,
+    "orderId": 7,
+    "nameId": "Adepte des Douleurs",
+    "descriptionId": "-",
+    "minimumAlignment": 60,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "27": {
+    "id": 27,
+    "orderId": 7,
+    "nameId": "Maître des Sévices",
+    "descriptionId": "-",
+    "minimumAlignment": 80,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "28": {
+    "id": 28,
+    "orderId": 7,
+    "nameId": "Gardien des Tortures",
+    "descriptionId": "-",
+    "minimumAlignment": 100,
+    "objectsStolen": 1,
+    "gifts": []
+  },
+  "29": {
+    "id": 29,
+    "orderId": 8,
+    "nameId": "Disciple de Brumaire",
+    "descriptionId": "Animés par un goût immodéré pour le glauque, les disciples de Brumaire doivent démontrer leur capacité à collecter des informations et à désinformer.",
+    "minimumAlignment": 20,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "30": {
+    "id": 30,
+    "orderId": 8,
+    "nameId": "Espion Sombre",
+    "descriptionId": "Drapé dans son manteau de ténèbres, l'Espion sombre saura faire couler les larmes et saigner les lames, et non l'inverse.",
+    "minimumAlignment": 40,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "31": {
+    "id": 31,
+    "orderId": 8,
+    "nameId": "Chasseur d'Ames",
+    "descriptionId": "-",
+    "minimumAlignment": 60,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "32": {
+    "id": 32,
+    "orderId": 8,
+    "nameId": "Psychopathe",
+    "descriptionId": "-",
+    "minimumAlignment": 80,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "33": {
+    "id": 33,
+    "orderId": 8,
+    "nameId": "Maître des Ombres",
+    "descriptionId": "-",
+    "minimumAlignment": 100,
+    "objectsStolen": 1,
+    "gifts": []
+  },
+  "34": {
+    "id": 34,
+    "orderId": 9,
+    "nameId": "Néophyte",
+    "descriptionId": "-",
+    "minimumAlignment": 0,
+    "objectsStolen": 0,
+    "gifts": []
+  },
+  "36": {
+    "id": 36,
+    "orderId": 9,
+    "nameId": "Apprenti Mercenaire",
+    "descriptionId": "-",
+    "minimumAlignment": 20,
+    "objectsStolen": 0,
+    "gifts": [2, 3, 4, 5, 6, 13]
+  },
+  "37": {
+    "id": 37,
+    "orderId": 9,
+    "nameId": "Mercenaire",
+    "descriptionId": "-",
+    "minimumAlignment": 40,
+    "objectsStolen": 0,
+    "gifts": [2, 3, 4, 5, 6, 13]
+  },
+  "38": {
+    "id": 38,
+    "orderId": 9,
+    "nameId": "Grand Mercenaire",
+    "descriptionId": "-",
+    "minimumAlignment": 60,
+    "objectsStolen": 0,
+    "gifts": [2, 3, 4, 5, 6, 8, 13]
+  },
+  "39": {
+    "id": 39,
+    "orderId": 9,
+    "nameId": "Maître Mercenaire",
+    "descriptionId": "-",
+    "minimumAlignment": 80,
+    "objectsStolen": 0,
+    "gifts": [2, 3, 4, 5, 6, 8, 11, 13]
+  },
+  "40": {
+    "id": 40,
+    "orderId": 9,
+    "nameId": "Grand Maître Mercenaire",
+    "descriptionId": "-",
+    "minimumAlignment": 100,
+    "objectsStolen": 0,
+    "gifts": [2, 3, 4, 5, 6, 8, 11, 13]
+  }
+}

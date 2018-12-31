@@ -1,1 +1,6 @@
-{"0":{"id":0,"nameId":"Neutre","canConquest":true},"1":{"id":1,"nameId":"Bontarien","canConquest":true},"2":{"id":2,"nameId":"Brakmarien","canConquest":true},"3":{"id":3,"nameId":"Mercenaire","canConquest":false}}
+{
+  "0": { "id": 0, "nameId": "Neutre", "canConquest": true },
+  "1": { "id": 1, "nameId": "Bontarien", "canConquest": true },
+  "2": { "id": 2, "nameId": "Brakmarien", "canConquest": true },
+  "3": { "id": 3, "nameId": "Mercenaire", "canConquest": false }
+}

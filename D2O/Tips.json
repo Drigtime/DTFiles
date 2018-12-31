@@ -1,1 +1,226 @@
-{"1":{"id":1,"descId":"En utilisant l'attitude \"s'asseoir\", votre personnage regagnera 2 fois plus rapidement ses points de vie. Vous pouvez également utiliser la commande \"/sit\" dans le chat."},"2":{"id":2,"descId":"Utiliser flèche du haut du clavier dans la zone de chat permet de retrouver les derniers messages envoyés."},"3":{"id":3,"descId":"Le raccourci \"Maj + é\" permet de voir les personnages et les monstres cachés derrière les décors."},"4":{"id":4,"descId":"Passer son tour après avoir joué accélère considérablement le déroulement d'un combat."},"5":{"id":5,"descId":"Le raccourci \"Ctrl + flèche droite\", dans la zone de chat permet de ne saisir que les premières lettres du nom d'un personnage présent sur la même carte que le vôtre."},"6":{"id":6,"descId":"Le raccourci \"Page Prec.\" ou \"Page. Up\" dans la zone de chat permet de revenir dans l'historique des destinataires privés."},"7":{"id":7,"descId":"Le raccourci \"/help\" ou \"/h\" dans la zone de chat fait apparaître une liste des commandes utilisables."},"8":{"id":8,"descId":"Les guildes d'une alliance peuvent s'entraider pour la défense de leurs Percepteurs."},"9":{"id":9,"descId":"Les personnages qui possèdent un point d'exclamation au dessus de leur tête ont une ou plusieurs quêtes à proposer."},"10":{"id":10,"descId":"Vous pouvez redistribuer vos points de caractéristiques gratuitement jusqu'au niveau 30 dans Incarnam."},"11":{"id":11,"descId":"Vous pouvez utiliser des objets avec des bonus de pods, faire progresser vos métiers ou investir des points de force pour que votre personnage puisse porter plus d'objets."},"12":{"id":12,"descId":"Plus votre personnage possède d'objets d'une même panoplie, plus les bonus apportés par la panoplie sont importants."},"13":{"id":13,"descId":"Il est nécessaire d'activer son mode \"Alliance versus Alliance (AvA) pour participer aux conquêtes de territoires."},"14":{"id":14,"descId":"La diversité des classes au sein d'un groupe maximise son efficacité et sa polyvalence."},"15":{"id":15,"descId":"Les attitudes supplémentaires peuvent s'obtenir en finissant des donjons ou des quêtes."},"16":{"id":16,"descId":"Les hôtels de vente sont le meilleur moyen de vendre ses objets."},"17":{"id":17,"descId":"Les personnages qui font partie d'une alliance bénéficient d'un bonus d'expérience et de butin dans les zones que leur alliance contrôle."},"18":{"id":18,"descId":"Les temples de classe offrent la possibilité de réattribuer les points de caractéristiques, de sorts et d'affronter des Dopeuls."},"19":{"id":19,"descId":"Les groupes de monstres qui possèdent des étoiles jaunes ou oranges apportent un bonus d'expérience et de butin."},"20":{"id":20,"descId":"Les métiers de récolte sont adaptés aux personnages qui commencent un premier métier."},"21":{"id":21,"descId":"Les armes et les sorts de zone occasionnent plus de dommages sur la case centrale."},"22":{"id":22,"descId":"Lors des transferts d'objets, en maintenant enfoncée la touche \"Ctrl\", il est possible de transférer tous les objets sélectionnés avec un double clic de souris."},"23":{"id":23,"descId":"Plus le niveau de votre groupe est proche de celui du groupe de monstres, plus vous gagnerez de points d'expérience."},"24":{"id":24,"descId":"Les transporteurs Brigandins permettent de se déplacer gratuitement si votre alliance contrôle le village des Brigandins."},"25":{"id":25,"descId":"La banque permet de déposer des objets dans un coffre et de pouvoir y accéder depuis toutes les banques du jeu."},"26":{"id":26,"descId":"La création d'une guilde nécessite une guildalogemme qui peut être obtenue dans les temples de classe."},"27":{"id":27,"descId":"Les boucliers ne protègent que des dommages infligés par les autres personnages joueurs."},"28":{"id":28,"descId":"Les alliances peuvent conquérir les villages de conquête et exploiter leurs ressources et avantages."},"29":{"id":29,"descId":"Votre personnage peut gagner des points d'honneur uniquement lors des combats joueurs contre joueurs équilibrés."},"30":{"id":30,"descId":"Les sorts spéciaux de chaque classe s'obtiennent dans les temples de classe."},"31":{"id":31,"descId":"Les familiers perdent 1 point de vie par combat perdu contre les monstres. Pensez à leur donner des poudres d'Eniripsa après chaque perte de point de vie."},"32":{"id":32,"descId":"Les poudres d'Eniripsa pour soigner les familiers peuvent s'obtenir au Chanil."},"33":{"id":33,"descId":"Maîtriser plusieurs attaques d'éléments différents permet d'être plus polyvalent en combat."},"34":{"id":34,"descId":"Les pierres d'âmes permettent de capturer les groupes de monstres et de les réaffronter en arène."},"35":{"id":35,"descId":"Il peut être plus efficace d'avoir plusieurs sorts à des grades faibles qu'un seul sort à un grade élevé."},"36":{"id":36,"descId":"Les bibliothèques et les livres permettent de connaître l'Histoire des Dofus, de la contrée d'Amakna et de ses alentours."},"37":{"id":37,"descId":"Certains objets nécessitent un taux de prospection élevé pour être obtenus en affrontant des monstres. Plus votre groupe comprend de personnages, plus la prospection du groupe est élevée."},"38":{"id":38,"descId":"Vous pouvez compenser l'absence d'Eniripsa dans votre groupe en utilisant des armes qui soignent ou des classes de soigneurs alternatifs comme les Sadidas, les Ecaflips ou les Osamodas par exemple."},"39":{"id":39,"descId":"Si vous déconnectez votre personnage dans une taverne, dans sa maison ou dans un temple de classe, il récupérera son énergie 2 fois plus rapidement."},"40":{"id":40,"descId":"Vous pouvez obtenir un trousseau de clefs de donjons en vous rendant dans votre temple de classe."},"41":{"id":41,"descId":"Les challenges apportent des bonus de butin et d'expérience qui permettent de progresser plus rapidement."},"42":{"id":42,"descId":"Le système de recherche de groupe permet de trouver plus facilement d'autres joueurs pour organiser des donjons."},"43":{"id":43,"descId":"Le système d'équipement rapide permet de changer plusieurs équipements en un seul clic."},"45":{"id":45,"descId":"Il est possible d'enchaîner les récoltes de ressources plus rapidement en utilisant le raccourci \"Shift + clic\"."},"46":{"id":46,"descId":"Le raccourci \"Shift + clic\" permet de créer des étapes lors des déplacements sur une même carte."},"47":{"id":47,"descId":"Il est possible d'effectuer des combats ou d'autres activités pendant la recherche automatique d'un combat de Kolizéum."},"48":{"id":48,"descId":"Les combats de Kolizéum permettent de gagner des récompenses journalières en Kolizétons et Kamas."},"49":{"id":49,"descId":"La touche \"P\" permet d'afficher les noms de tous les personnages présents sur la carte."},"50":{"id":50,"descId":"Le raccourci \"Ctrl + D\" permet d'ouvrir directement l'inventaire de sa monture."},"51":{"id":51,"descId":"Le raccourci \"Shift + D\" permet de monter et de descendre de sa monture."},"52":{"id":52,"descId":"Chaque personnage peut bénéficier d'un bonus d'expérience (de 100 à 300%) s'il existe sur le même compte et sur le même serveur un ou plusieurs personnages de niveau supérieur."},"53":{"id":53,"descId":"Il est possible de s'abonner gratuitement en achetant des Ogrines contre des Kamas sur la bourse aux Ogrines."},"54":{"id":54,"descId":"Pour accélérer la recherche des combats de Kolizéum, il est conseillé de s'inscrire en composition d'équipe aléatoire."},"55":{"id":55,"descId":"La cote de Kolizéum d'un personnage est une estimation de son efficacité. Cette cote tend à se stabiliser et n'évolue pas tant que le personnage ne devient pas plus efficace."},"56":{"id":56,"descId":"Faire partie d'une guilde permet d'obtenir l'étendard de guilde. Faire partie d'une alliance permet d'obtenir l'étendard d'alliance."},"57":{"id":57,"descId":"Le serveur Héroïque propose des gains de butin et d'expérience multipliés par 3 mais lorsqu'un personnage meurt, il perd ses équipements et recommence au niveau 1 !"}}
+{
+  "1": {
+    "id": 1,
+    "descId": "En utilisant l'attitude \"s'asseoir\", votre personnage regagnera 2 fois plus rapidement ses points de vie. Vous pouvez également utiliser la commande \"/sit\" dans le chat."
+  },
+  "2": {
+    "id": 2,
+    "descId": "Utiliser flèche du haut du clavier dans la zone de chat permet de retrouver les derniers messages envoyés."
+  },
+  "3": {
+    "id": 3,
+    "descId": "Le raccourci \"Maj + é\" permet de voir les personnages et les monstres cachés derrière les décors."
+  },
+  "4": {
+    "id": 4,
+    "descId": "Passer son tour après avoir joué accélère considérablement le déroulement d'un combat."
+  },
+  "5": {
+    "id": 5,
+    "descId": "Le raccourci \"Ctrl + flèche droite\", dans la zone de chat permet de ne saisir que les premières lettres du nom d'un personnage présent sur la même carte que le vôtre."
+  },
+  "6": {
+    "id": 6,
+    "descId": "Le raccourci \"Page Prec.\" ou \"Page. Up\" dans la zone de chat permet de revenir dans l'historique des destinataires privés."
+  },
+  "7": {
+    "id": 7,
+    "descId": "Le raccourci \"/help\" ou \"/h\" dans la zone de chat fait apparaître une liste des commandes utilisables."
+  },
+  "8": {
+    "id": 8,
+    "descId": "Les guildes d'une alliance peuvent s'entraider pour la défense de leurs Percepteurs."
+  },
+  "9": {
+    "id": 9,
+    "descId": "Les personnages qui possèdent un point d'exclamation au dessus de leur tête ont une ou plusieurs quêtes à proposer."
+  },
+  "10": {
+    "id": 10,
+    "descId": "Vous pouvez redistribuer vos points de caractéristiques gratuitement jusqu'au niveau 30 dans Incarnam."
+  },
+  "11": {
+    "id": 11,
+    "descId": "Vous pouvez utiliser des objets avec des bonus de pods, faire progresser vos métiers ou investir des points de force pour que votre personnage puisse porter plus d'objets."
+  },
+  "12": {
+    "id": 12,
+    "descId": "Plus votre personnage possède d'objets d'une même panoplie, plus les bonus apportés par la panoplie sont importants."
+  },
+  "13": {
+    "id": 13,
+    "descId": "Il est nécessaire d'activer son mode \"Alliance versus Alliance (AvA) pour participer aux conquêtes de territoires."
+  },
+  "14": {
+    "id": 14,
+    "descId": "La diversité des classes au sein d'un groupe maximise son efficacité et sa polyvalence."
+  },
+  "15": {
+    "id": 15,
+    "descId": "Les attitudes supplémentaires peuvent s'obtenir en finissant des donjons ou des quêtes."
+  },
+  "16": {
+    "id": 16,
+    "descId": "Les hôtels de vente sont le meilleur moyen de vendre ses objets."
+  },
+  "17": {
+    "id": 17,
+    "descId": "Les personnages qui font partie d'une alliance bénéficient d'un bonus d'expérience et de butin dans les zones que leur alliance contrôle."
+  },
+  "18": {
+    "id": 18,
+    "descId": "Les temples de classe offrent la possibilité de réattribuer les points de caractéristiques, de sorts et d'affronter des Dopeuls."
+  },
+  "19": {
+    "id": 19,
+    "descId": "Les groupes de monstres qui possèdent des étoiles jaunes ou oranges apportent un bonus d'expérience et de butin."
+  },
+  "20": {
+    "id": 20,
+    "descId": "Les métiers de récolte sont adaptés aux personnages qui commencent un premier métier."
+  },
+  "21": {
+    "id": 21,
+    "descId": "Les armes et les sorts de zone occasionnent plus de dommages sur la case centrale."
+  },
+  "22": {
+    "id": 22,
+    "descId": "Lors des transferts d'objets, en maintenant enfoncée la touche \"Ctrl\", il est possible de transférer tous les objets sélectionnés avec un double clic de souris."
+  },
+  "23": {
+    "id": 23,
+    "descId": "Plus le niveau de votre groupe est proche de celui du groupe de monstres, plus vous gagnerez de points d'expérience."
+  },
+  "24": {
+    "id": 24,
+    "descId": "Les transporteurs Brigandins permettent de se déplacer gratuitement si votre alliance contrôle le village des Brigandins."
+  },
+  "25": {
+    "id": 25,
+    "descId": "La banque permet de déposer des objets dans un coffre et de pouvoir y accéder depuis toutes les banques du jeu."
+  },
+  "26": {
+    "id": 26,
+    "descId": "La création d'une guilde nécessite une guildalogemme qui peut être obtenue dans les temples de classe."
+  },
+  "27": {
+    "id": 27,
+    "descId": "Les boucliers ne protègent que des dommages infligés par les autres personnages joueurs."
+  },
+  "28": {
+    "id": 28,
+    "descId": "Les alliances peuvent conquérir les villages de conquête et exploiter leurs ressources et avantages."
+  },
+  "29": {
+    "id": 29,
+    "descId": "Votre personnage peut gagner des points d'honneur uniquement lors des combats joueurs contre joueurs équilibrés."
+  },
+  "30": {
+    "id": 30,
+    "descId": "Les sorts spéciaux de chaque classe s'obtiennent dans les temples de classe."
+  },
+  "31": {
+    "id": 31,
+    "descId": "Les familiers perdent 1 point de vie par combat perdu contre les monstres. Pensez à leur donner des poudres d'Eniripsa après chaque perte de point de vie."
+  },
+  "32": {
+    "id": 32,
+    "descId": "Les poudres d'Eniripsa pour soigner les familiers peuvent s'obtenir au Chanil."
+  },
+  "33": {
+    "id": 33,
+    "descId": "Maîtriser plusieurs attaques d'éléments différents permet d'être plus polyvalent en combat."
+  },
+  "34": {
+    "id": 34,
+    "descId": "Les pierres d'âmes permettent de capturer les groupes de monstres et de les réaffronter en arène."
+  },
+  "35": {
+    "id": 35,
+    "descId": "Il peut être plus efficace d'avoir plusieurs sorts à des grades faibles qu'un seul sort à un grade élevé."
+  },
+  "36": {
+    "id": 36,
+    "descId": "Les bibliothèques et les livres permettent de connaître l'Histoire des Dofus, de la contrée d'Amakna et de ses alentours."
+  },
+  "37": {
+    "id": 37,
+    "descId": "Certains objets nécessitent un taux de prospection élevé pour être obtenus en affrontant des monstres. Plus votre groupe comprend de personnages, plus la prospection du groupe est élevée."
+  },
+  "38": {
+    "id": 38,
+    "descId": "Vous pouvez compenser l'absence d'Eniripsa dans votre groupe en utilisant des armes qui soignent ou des classes de soigneurs alternatifs comme les Sadidas, les Ecaflips ou les Osamodas par exemple."
+  },
+  "39": {
+    "id": 39,
+    "descId": "Si vous déconnectez votre personnage dans une taverne, dans sa maison ou dans un temple de classe, il récupérera son énergie 2 fois plus rapidement."
+  },
+  "40": {
+    "id": 40,
+    "descId": "Vous pouvez obtenir un trousseau de clefs de donjons en vous rendant dans votre temple de classe."
+  },
+  "41": {
+    "id": 41,
+    "descId": "Les challenges apportent des bonus de butin et d'expérience qui permettent de progresser plus rapidement."
+  },
+  "42": {
+    "id": 42,
+    "descId": "Le système de recherche de groupe permet de trouver plus facilement d'autres joueurs pour organiser des donjons."
+  },
+  "43": {
+    "id": 43,
+    "descId": "Le système d'équipement rapide permet de changer plusieurs équipements en un seul clic."
+  },
+  "45": {
+    "id": 45,
+    "descId": "Il est possible d'enchaîner les récoltes de ressources plus rapidement en utilisant le raccourci \"Shift + clic\"."
+  },
+  "46": {
+    "id": 46,
+    "descId": "Le raccourci \"Shift + clic\" permet de créer des étapes lors des déplacements sur une même carte."
+  },
+  "47": {
+    "id": 47,
+    "descId": "Il est possible d'effectuer des combats ou d'autres activités pendant la recherche automatique d'un combat de Kolizéum."
+  },
+  "48": {
+    "id": 48,
+    "descId": "Les combats de Kolizéum permettent de gagner des récompenses journalières en Kolizétons et Kamas."
+  },
+  "49": {
+    "id": 49,
+    "descId": "La touche \"P\" permet d'afficher les noms de tous les personnages présents sur la carte."
+  },
+  "50": {
+    "id": 50,
+    "descId": "Le raccourci \"Ctrl + D\" permet d'ouvrir directement l'inventaire de sa monture."
+  },
+  "51": {
+    "id": 51,
+    "descId": "Le raccourci \"Shift + D\" permet de monter et de descendre de sa monture."
+  },
+  "52": {
+    "id": 52,
+    "descId": "Chaque personnage peut bénéficier d'un bonus d'expérience (de 100 à 300%) s'il existe sur le même compte et sur le même serveur un ou plusieurs personnages de niveau supérieur."
+  },
+  "53": {
+    "id": 53,
+    "descId": "Il est possible de s'abonner gratuitement en achetant des Ogrines contre des Kamas sur la bourse aux Ogrines."
+  },
+  "54": {
+    "id": 54,
+    "descId": "Pour accélérer la recherche des combats de Kolizéum, il est conseillé de s'inscrire en composition d'équipe aléatoire."
+  },
+  "55": {
+    "id": 55,
+    "descId": "La cote de Kolizéum d'un personnage est une estimation de son efficacité. Cette cote tend à se stabiliser et n'évolue pas tant que le personnage ne devient pas plus efficace."
+  },
+  "56": {
+    "id": 56,
+    "descId": "Faire partie d'une guilde permet d'obtenir l'étendard de guilde. Faire partie d'une alliance permet d'obtenir l'étendard d'alliance."
+  },
+  "57": {
+    "id": 57,
+    "descId": "Le serveur Héroïque propose des gains de butin et d'expérience multipliés par 3 mais lorsqu'un personnage meurt, il perd ses équipements et recommence au niveau 1 !"
+  }
+}

@@ -1,1 +1,2264 @@
-{"1":{"id":1,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone des <b>Lacs Enchantés</b>.","npcId":1736},"2":{"id":2,"nameId":"Challenges augmentés et économie d'ingrédients","descId":"Les bonus apportés par les <b>challenges réussis</b> sont augmentés de 100 %. De plus, les artisans et les récolteurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":1754},"3":{"id":3,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Squelettes</b>.","npcId":1646},"4":{"id":4,"nameId":"Butin et XP sur les pirates","descId":"Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur tous les monstres considérés comme des <b>pirates</b>.","npcId":1645},"5":{"id":5,"nameId":"Gibier abondant","descId":"Les quantités de viande récupérées par les Chasseurs sur les <b>Kanigrous</b>, les <b>Crocodailles</b> et les <b>Koalaks</b> sont augmentées de 125 %.","npcId":1644},"6":{"id":6,"nameId":"Objets de qualité","descId":"La qualité des objets fabriqués dans la ville de <b>Brâkmar</b> est augmentée.","npcId":1643},"7":{"id":7,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>Bordure de Feudala</b>.","npcId":1642},"8":{"id":8,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>monstres des Plaines Herbeuses</b>.","npcId":1641},"9":{"id":9,"nameId":"Économie d'ingrédients","descId":"Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la <b>Campagne</b>.","npcId":1640},"10":{"id":10,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 150 % sur les <b>Crocodailles</b>.","npcId":1639},"11":{"id":11,"nameId":"Minerai abondant","descId":"Les quantités de <b>Dolomite</b> et d'<b>Obsidienne</b> récupérées par les Mineurs sont augmentées de 175 %.","npcId":1638},"12":{"id":12,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le <b>donjon des Firefoux</b>.","npcId":1637},"13":{"id":13,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Labyrinthe du Minotoror</b> : une étoile apparaît toutes les 5 minutes.","npcId":1636},"14":{"id":14,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone de <b>l'Arche d'Otomaï</b>.","npcId":1635},"15":{"id":15,"nameId":"Percepteurs avides","descId":"Le butin généré par les Percepteurs est augmenté de 300 % dans le donjon de la <b>Canopée du Kimbo</b>.","npcId":1634},"16":{"id":16,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les <b>Fantômes de Pandala</b>.","npcId":1622},"17":{"id":17,"nameId":"Bois abondant","descId":"Les quantités de <b>Bois de Chêne</b> récupérées par les Bûcherons sont augmentées de 150 %.","npcId":1623},"18":{"id":18,"nameId":"Quête répétable","descId":"Une quête répétable spéciale est disponible aujourd'hui près de la fontaine du <b>village d'Amakna</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.","npcId":1624},"19":{"id":19,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>Milifutaie</b>.","npcId":1629},"20":{"id":20,"nameId":"Économie d'ingrédients","descId":"Les <b>Poissonniers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1630},"21":{"id":21,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du <b>Laboratoire du Tynril</b>.","npcId":1631},"22":{"id":22,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>forêt des Abraknydes Sombres</b>.","npcId":1632},"23":{"id":23,"nameId":"Gibier abondant","descId":"Les quantités de viande récupérées par les Chasseurs de tous niveaux sont augmentées de 100 %.","npcId":1633},"24":{"id":24,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les <b>Firefoux</b>.","npcId":1647},"25":{"id":25,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Dorées</b> donnent naissance à un bébé supplémentaire.","npcId":1648},"26":{"id":26,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>monstres des Larmes d'Ouronigride</b>.","npcId":1649},"27":{"id":27,"nameId":"Expérience des quêtes","descId":"Les gains d'expérience sont augmentés de 100 % pour toutes les quêtes.","npcId":1650},"28":{"id":28,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de <b>Pandala Neutre</b> : une étoile apparaît toutes les 10 minutes.","npcId":1651},"29":{"id":29,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>forêt Maléfique</b>.","npcId":1652},"30":{"id":30,"nameId":"Cueillette abondante","descId":"Les quantités de <b>Fleurs de Chanvre</b> récupérées par les Alchimistes sont augmentées de 125 %.","npcId":1653},"31":{"id":31,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de la <b>Caverne du Koulosse</b>.","npcId":1654},"32":{"id":32,"nameId":"Économie d'ingrédients","descId":"Les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la <b>forêt des Pins Perdus</b>.","npcId":1655},"33":{"id":33,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les <b>Zoths</b>.","npcId":1656},"34":{"id":34,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des <b>poissons</b> de tous types est augmentée de 100 %.","npcId":1657},"35":{"id":35,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>presqu'île des Dragoeufs</b>.","npcId":1658},"36":{"id":36,"nameId":"Fabrication intensive","descId":"Les quantités d'objets fabriqués par les <b>Bouchers</b> sont augmentées de 25 %.","npcId":1659},"37":{"id":37,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Berceau</b>.","npcId":1660},"38":{"id":38,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone des <b>Landes de Sidimote</b> : une étoile apparaît toutes les 15 minutes.","npcId":1661},"39":{"id":39,"nameId":"Minerai abondant","descId":"Les quantités de <b>Fer</b> récupérées par les Mineurs sont augmentées de 150 %.","npcId":1662},"40":{"id":40,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>monstres de la forêt des Pins Perdus</b>.","npcId":1663},"41":{"id":41,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le <b>donjon Wabbit</b>.","npcId":1664},"42":{"id":42,"nameId":"Économie d'ingrédients","descId":"Les <b>Sculpteurs</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1665},"43":{"id":43,"nameId":"Récolte abondante","descId":"Les quantités de <b>Chanvre</b> récupérées par les Paysans sont augmentées de 125 %.","npcId":1666},"44":{"id":44,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les <b>Givrefoux</b>.","npcId":1667},"45":{"id":45,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone de la <b>forêt Enneigée</b>.","npcId":1668},"46":{"id":46,"nameId":"Cadeaux surprises","descId":"Des <b>Surprises de Trikortritt</b> ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des <b>Bonbons d'Halouine</b> ou bien de se retrouver transformé en <b>Petite Chauffe-Soutrille</b>.","npcId":1669},"47":{"id":47,"nameId":"Expérience des Dragodindes","descId":"Les gains d'expérience des montures Dragodindes sont augmentés de 200 %.","npcId":1670},"48":{"id":48,"nameId":"Butin et XP en slip","descId":"Les gains d'expérience lors des combats contre les monstres et les chances d'obtenir du butin sont augmentés de 50 % pour tous les aventuriers qui sont équipés d'un <b>slip</b>.","npcId":1671},"49":{"id":49,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon du <b>laboratoire de Brumen Tinctorias</b>.","npcId":1672},"50":{"id":50,"nameId":"Économie d'ingrédients","descId":"Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>Village d'Amakna</b>.","npcId":1673},"51":{"id":51,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les <b>Bandits</b> et les <b>Artisans Sombres</b>.","npcId":1674},"52":{"id":52,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone du <b>port de Givre</b>.","npcId":1675},"53":{"id":53,"nameId":"Bois abondant","descId":"Les quantités de <b>Bois de Châtaignier</b> récupérées par les Bûcherons sont augmentées de 125 %.","npcId":1676},"54":{"id":54,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>jungle Obscure</b>.","npcId":1677},"55":{"id":55,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>Bord de la forêt Maléfique</b>.","npcId":1678},"56":{"id":56,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Berceau d'Alma</b>.","npcId":1679},"57":{"id":57,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Orchidée</b> donnent naissance à un bébé supplémentaire.","npcId":1680},"58":{"id":58,"nameId":"Bénédiction de Miss Triste","descId":"<b>Miss Triste</b> attend les aventuriers qui veulent se refaire une laideur près de la fontaine du village d'Amakna. Sa bénédiction transforme temporairement en Crocodaille (effet qui disparaît quand un combat est lancé) et en Souffre-Douleur (bonus de 50 Puissance et 10 dommages fixes durant 15 combats).","npcId":1681},"59":{"id":59,"nameId":"Pêche abondante","descId":"Les quantités de <b>Poissons de mer géants</b> récupérées par les Pêcheurs sont augmentées de 150 %.","npcId":1682},"60":{"id":60,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Rats de Brâkmar</b>.","npcId":1683},"61":{"id":61,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les monstres <b>Dragodindes</b>.","npcId":1684},"62":{"id":62,"nameId":"Quête répétable","descId":"Une quête répétable spéciale est disponible aujourd'hui près de la statue du dieu Sram à <b>Astrub</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.","npcId":1685},"63":{"id":63,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les <b>monstres des Égouts</b>.","npcId":1686},"64":{"id":64,"nameId":"Gibier abondant","descId":"Les quantités de viande récupérées par les Chasseurs sur les créatures de <b>Frigost</b> qui vivent en dehors de la Bourgade sont augmentées de 150 %.","npcId":1687},"65":{"id":65,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les <b>monstres des Égouts</b>.","npcId":1688},"66":{"id":66,"nameId":"Économie d'ingrédients","descId":"Les <b>Bûcherons</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1689},"67":{"id":67,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>bordure de Brâkmar</b> : une étoile apparaît toutes les 10 minutes.","npcId":1690},"68":{"id":68,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les <b>monstres de l'Arbre Hakam</b>.","npcId":1691},"69":{"id":69,"nameId":"Percepteurs avides","descId":"Le butin généré par les Percepteurs est augmenté de 300 % dans le <b>donjon des Canidés</b>.","npcId":1692},"70":{"id":70,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Cimetière des Torturés</b>.","npcId":1693},"71":{"id":71,"nameId":"Récolte abondante","descId":"Les quantités d'<b>Avoine</b> récupérées par les Paysans sont augmentées de 125 %.","npcId":1694},"72":{"id":72,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>Boufmouths</b>.","npcId":1695},"73":{"id":73,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>Passage vers Brâkmar</b>.","npcId":1696},"74":{"id":74,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le donjon de la <b>Canopée du Kimbo</b>.","npcId":1697},"75":{"id":75,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone des <b>Larmes d'Ouronigride</b> : une étoile apparaît toutes les 10 minutes.","npcId":1698},"76":{"id":76,"nameId":"Minerai abondant","descId":"Les quantités de <b>Kobalte</b> récupérées par les mineurs sont augmentées de 150 %.","npcId":1699},"77":{"id":77,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>forêt Enneigée</b>.","npcId":1700},"78":{"id":78,"nameId":"Dragodindes Frénétiques","descId":"Les bonus apportés par les montures Dragodindes sont augmentés de 100 %.","npcId":1701},"79":{"id":79,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Bouftous</b>.","npcId":1702},"80":{"id":80,"nameId":"Économie d'ingrédients","descId":"Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de <b>Sufokia</b>.","npcId":1703},"81":{"id":81,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les <b>Mansots</b>.","npcId":1704},"82":{"id":82,"nameId":"Bois abondant","descId":"Les quantités de Bois récupérées par les <b>Bûcherons</b> de tous niveaux sont augmentées de 100 %.","npcId":1705},"83":{"id":83,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone des <b>Souterrains des Dragoeufs</b>.","npcId":1706},"84":{"id":84,"nameId":"Kolizétons","descId":"La quantité de jetons gagnée en Kolizéum est augmentée de 100 %.","npcId":1707},"85":{"id":85,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>Koalaks</b>.","npcId":1708},"86":{"id":86,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans les zones de la <b>plaine de Sakaï</b> et de la <b>forêt Enneigée</b>.","npcId":1709},"87":{"id":87,"nameId":"Cueillette abondante","descId":"Les quantités de <b>Perce-Neige</b> récupérées par les Alchimistes sont augmentées de 175 %.","npcId":1710},"88":{"id":88,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Ivoire</b> donnent naissance à un bébé supplémentaire.","npcId":1711},"89":{"id":89,"nameId":"Économie d'ingrédients","descId":"Les <b>Cordonniers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1712},"90":{"id":90,"nameId":"Quête répétable","descId":"Une quête répétable spéciale est disponible aujourd'hui près des portes de <b>Brâkmar</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.","npcId":1713},"91":{"id":91,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des <b>minerais</b> de tous types est augmentée de 100 %.","npcId":1714},"92":{"id":92,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le <b>donjon des Canidés</b>.","npcId":1715},"93":{"id":93,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>plaine des Porkass</b>.","npcId":1716},"94":{"id":94,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les <b>monstres de Nowel</b>.","npcId":1717},"95":{"id":95,"nameId":"Pêche abondante","descId":"Les quantités de <b>Gros poissons de mer</b> récupérées par les Pêcheurs sont augmentées de 150 %.","npcId":1718},"96":{"id":96,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans tous les donjons.","npcId":1719},"97":{"id":97,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>monstres de Nowel</b>.","npcId":1720},"98":{"id":98,"nameId":"Économie d'ingrédients","descId":"Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>territoire des Porcos</b>.","npcId":1721},"99":{"id":99,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Cimetière de Bonta</b>.","npcId":1722},"100":{"id":100,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans les zones du <b>Bateau Pirate</b> et de <b>l'île des Naufragés</b> : une étoile apparaît toutes les 5 minutes.","npcId":1723},"101":{"id":101,"nameId":"Gibier abondant","descId":"Les quantités de <b>Viande d'Oiseau</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Viande d'Oiseau.","npcId":1724},"102":{"id":102,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les <b>monstres de Nowel</b>.","npcId":1725},"103":{"id":103,"nameId":"Cadeaux surprises","descId":"Des <b>Cadeaux de Nowel</b> ont été ajoutés aux butins des monstres. Lorsqu'ils sont utilisés, ils permettent d'obtenir des ressources ou d'autres objets aléatoires.","npcId":1726},"104":{"id":104,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de <b>l'excavation du Mansot Royal</b>.","npcId":1727},"105":{"id":105,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les <b>monstres de Nowel</b>.","npcId":1728},"106":{"id":106,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans les zones du <b>Havre</b>, de la <b>Terre</b> et de la <b>Taïga de Nowel</b> : une étoile apparaît toutes les 15 minutes.","npcId":1729},"107":{"id":107,"nameId":"Récolte abondante","descId":"Les quantités de <b>Seigle</b> et de <b>Riz</b> récupérées par les Paysans sont augmentées de 125 %.","npcId":1730},"108":{"id":108,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>jungle Obscure</b>.","npcId":1731},"109":{"id":109,"nameId":"Expérience des métiers","descId":"Les gains d'expérience sont augmentés de 50 % pour les <b>métiers de fabrication de consommables</b> (Boulanger, Boucher, Bricoleur et Poissonnier).","npcId":1732},"110":{"id":110,"nameId":"Nouveau Calendrier Test","descId":"La qualité des objets fabriqués dans la ville de Brâkmar est augmentée de 10 %. Lors de la création d'un objet, le bonus est appliqué séparément pour chaque jet de caractéristique sans pouvoir dépasser la valeur plafond. Ainsi, un jet de 21 à 30 devient un jet de 22 à 30 (le bonus est calculé sur la différence entre la valeur minimum et maximum) avec des chances augmentées d'obtenir un 30.","npcId":1754},"113":{"id":113,"nameId":"Expérience des métiers","descId":"Les gains d'expérience sont augmentés de 50 % pour tous les métiers.","npcId":1737},"114":{"id":114,"nameId":"Cueillette abondante","descId":"Les quantités de <b>Fleurs de Lin</b> récupérées par les Alchimistes sont augmentées de 125 %.","npcId":1738},"115":{"id":115,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les <b>monstres des Crocs de verre</b>.","npcId":1739},"116":{"id":116,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de <b>Pandala Neutre</b>.","npcId":1740},"117":{"id":117,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans la <b>Bibliothèque du Maître Corbac</b>.","npcId":1741},"118":{"id":118,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les <b>monstres des Larmes d'Ouronigride</b>.","npcId":1742},"119":{"id":119,"nameId":"Pêche abondante","descId":"Les quantités de <b>Poissons de mer</b> de taille moyenne récupérées par les Pêcheurs sont augmentées de 150 %.","npcId":1743},"120":{"id":120,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Bergers Porkass</b>.","npcId":1744},"121":{"id":121,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Ebène</b> donnent naissance à un bébé supplémentaire.","npcId":1745},"122":{"id":122,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Sanctuaire des Dragoeufs</b> : une étoile apparaît toutes les 10 minutes.","npcId":1746},"123":{"id":123,"nameId":"Bonta et Brâkmar","descId":"Les récompenses en points d'expérience des <b>quêtes d'alignement</b> et des <b>quêtes des Ordres des cités</b> sont augmentées de 100 %. De plus, une quête répétable spéciale est disponible aujourd'hui à l'intérieur des <b>milices de Bonta ou de Brâkmar</b>. Réalisable à partir du niveau 10 par les personnages alignés, elle est indépendante de la quête d'offrande.","npcId":1747},"124":{"id":124,"nameId":"Récolte abondante","descId":"Les quantités de <b>Lin</b> récupérées par les Paysans sont augmentées de 125 %.","npcId":1748},"125":{"id":125,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les <b>monstres de la forêt Pétrifiée</b>.","npcId":1749},"126":{"id":126,"nameId":"Économie d'ingrédients","descId":"Les <b>Bijoutiers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1750},"127":{"id":127,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des <b>Champs de Glace</b>.","npcId":1751},"128":{"id":128,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Clairière de Brouce Boulgoure</b>.","npcId":1752},"129":{"id":129,"nameId":"Challenges augmentés et économie d'ingrédients","descId":"Les bonus apportés par les <b>challenges réussis</b> sont augmentés de 100 %. De plus, les artisans et les récolteurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":1754},"130":{"id":130,"nameId":"Challenges augmentés et économie d'ingrédients","descId":"Les bonus apportés par les <b>challenges réussis</b> sont augmentés de 100 %. De plus, les artisans et les récolteurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":1754},"131":{"id":131,"nameId":"Challenges augmentés et économie d'ingrédients","descId":"Les bonus apportés par les <b>challenges réussis</b> sont augmentés de 100 %. De plus, les artisans et les récolteurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":1754},"132":{"id":132,"nameId":"Apparition des ressources et des Archimonstres","descId":"La vitesse d'apparition des <b>Archimonstres</b> est augmentée de 200 %.  La vitesse d'apparition des <b>ressources</b> de tous types est augmentée de 100 %.","npcId":1770},"133":{"id":133,"nameId":"Économie d'ingrédients","descId":"Les <b>Boulangers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1771},"134":{"id":134,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Monstres de l'Arche d'Otomaï</b>.","npcId":1772},"135":{"id":135,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Monstres des Crocs de Verre</b>.","npcId":1773},"136":{"id":136,"nameId":"Bois abondant","descId":"Les quantités de <b>Bois d'If</b> et de <b>Bois de Bambou</b> récupérées par les Bûcherons sont augmentées de 150 %.","npcId":1774},"137":{"id":137,"nameId":"Quête répétable","descId":"Une quête répétable spéciale est disponible aujourd'hui près de l'atelier des boulangers du <b>village d'Amakna</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.","npcId":1775},"138":{"id":138,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Animaux de la forêt</b>.","npcId":1776},"139":{"id":139,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le <b>donjon Ensablé</b>.","npcId":1777},"140":{"id":140,"nameId":"Objets de qualité","descId":"La qualité des objets fabriqués dans la ville de <b>Bonta</b> est augmentée.","npcId":1778},"141":{"id":141,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Emeraude</b> donnent naissance à un bébé supplémentaire.","npcId":1779},"142":{"id":142,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone d'<b>Entraînement des Dopeuls</b>.","npcId":1780},"143":{"id":143,"nameId":"Minerai abondant","descId":"Les quantités d'<b>Argent</b> récupérées par les Mineurs sont augmentées de 150 %.","npcId":1781},"144":{"id":144,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Lac Gelé</b> : une étoile apparaît toutes les 15 minutes.","npcId":1782},"145":{"id":145,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Crevasse Perge</b>.","npcId":1783},"146":{"id":146,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>Tourbière Nauséabonde</b>.","npcId":1784},"147":{"id":147,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Fantômes</b>.","npcId":1785},"148":{"id":148,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les créatures de type <b>Araknes</b>.","npcId":1786},"149":{"id":149,"nameId":"Pêche abondante","descId":"Les quantités de <b>Gros poissons de rivière</b> récupérées par les Pêcheurs sont augmentées de 150 %.","npcId":1787},"150":{"id":150,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Pandissidans</b>.","npcId":1788},"151":{"id":151,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le <b>donjon des Rats de Bonta</b>.","npcId":1789},"152":{"id":152,"nameId":"Économie d'ingrédients","descId":"Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>Bord de la forêt Maléfique</b>.","npcId":1790},"153":{"id":153,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>Jungle Obscure</b> : une étoile apparaît toutes les 10 minutes.","npcId":1791},"154":{"id":154,"nameId":"Gibier abondant","descId":"Les quantités de <b>Chair d'insecte</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Chair d'Insecte.","npcId":1792},"155":{"id":155,"nameId":"Percepteurs avides","descId":"Le butin généré par les Percepteurs est augmenté de 300 % dans le <b>donjon du Chêne Mou</b>.","npcId":1793},"156":{"id":156,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Cimetière Primitif</b>.","npcId":1794},"157":{"id":157,"nameId":"Économie d'ingrédients","descId":"Les <b>Forgeurs d'armes</b> (dagues, épées, marteaux, pelles et haches) économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1795},"158":{"id":158,"nameId":"Récolte abondante","descId":"Les quantités de <b>Frostiz</b> récupérées par les Paysans sont augmentées de 150 %.","npcId":1796},"159":{"id":159,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Rats du Château d'Amakna</b>.","npcId":1797},"160":{"id":160,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Coin des Bouftous.","npcId":1798},"161":{"id":161,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone de la <b>Jungle Obscure</b>.","npcId":1799},"162":{"id":162,"nameId":"Cueillette abondante","descId":"Les quantités de <b>Feuilles de Menthe Sauvage</b> récupérées par les Alchimistes sont augmentées de 125 %.","npcId":1800},"163":{"id":163,"nameId":"Vitalité débordante","descId":"La régénération des <b>Points de Vie</b> est augmentée de 300 % (hors combat), et les <b>soins par consommables</b> sont augmentés de 100 %.","npcId":1801},"164":{"id":164,"nameId":"Butin et XP sur tous les Bouftous","descId":"Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur toutes les créatures considérées comme des <b>Bouftous</b>, y compris les Boufmouths et les Boufcouls.","npcId":1802},"165":{"id":165,"nameId":"Fabrication intensive","descId":"Pour chaque objet fabriqué, les <b>Poissonniers</b> ont 25 % de chances de créer un second objet.","npcId":1803},"166":{"id":166,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone des <b>Crocs de Verre</b>.","npcId":1804},"167":{"id":167,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de la <b>Caverne des Bulbes</b>.","npcId":1805},"168":{"id":168,"nameId":"Économie d'ingrédients","descId":"Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la <b>Plaine des Scarafeuilles</b>.","npcId":1806},"169":{"id":169,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de l'<b>île de Grobe</b> : une étoile apparaît toutes les 5 minutes.","npcId":1807},"170":{"id":170,"nameId":"Bois abondant","descId":"Les quantités de <b>Bois de Frêne</b> récupérées par les Bûcherons sont augmentées de 125 %.","npcId":1808},"171":{"id":171,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 150 % sur les <b>Kanigrous</b>.","npcId":1809},"172":{"id":172,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Rousses</b> donnent naissance à un bébé supplémentaire.","npcId":1810},"173":{"id":173,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Lac Gelé</b>.","npcId":1811},"174":{"id":174,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Mulous</b>.","npcId":1812},"175":{"id":175,"nameId":"Minerai abondant","descId":"Les quantités de <b>Cuivre</b> récupérées par les Mineurs sont augmentées de 150 %.","npcId":1813},"176":{"id":176,"nameId":"Expérience amoureuse","descId":"Tous les personnages atteints par la <b>Malédiction du Ballotin</b> voient leurs gains d'expérience augmentés de 100 % lors des combats contre les monstres.","npcId":1814},"177":{"id":177,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le <b>donjon du Chêne Mou</b>.","npcId":1815},"178":{"id":178,"nameId":"Économie d'ingrédients","descId":"Les <b>Chasseurs</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1816},"179":{"id":179,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Champignons</b>.","npcId":1817},"180":{"id":180,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Abraknydes</b>.","npcId":1818},"181":{"id":181,"nameId":"Pêche abondante","descId":"Les quantités de Poissons récupérées par les <b>Pêcheurs</b> de tous niveaux sont augmentées de 100 %.","npcId":1819},"182":{"id":182,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>Tronc de l'Arbre Hakam</b>.","npcId":1820},"183":{"id":183,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de <b>Gisgoul, le village dévasté</b>.","npcId":1821},"184":{"id":184,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Sanctuaire des Dragoeufs</b>.","npcId":1822},"185":{"id":185,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des ressources est augmentée de 150 % dans la zone des <b>Champs de Cania</b>.","npcId":1823},"186":{"id":186,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone des <b>Souterrains profonds d'Astrub</b> : une étoile apparaît toutes les 5 minutes.","npcId":1824},"187":{"id":187,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de l'<b>île de Grobe</b>.","npcId":1825},"188":{"id":188,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Minos</b>.","npcId":1826},"189":{"id":189,"nameId":"Gibier abondant","descId":"Les quantités de <b>Cuisses de Wabbit</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Cuisses de Wabbit.","npcId":1827},"190":{"id":190,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Plantes de Moon</b> et <b>Tortues de Moon</b>.","npcId":1828},"191":{"id":191,"nameId":"Butin et XP pour tous","descId":"Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 100 % lors des combats contre les monstres. De plus, les gains d'expérience sont augmentés de 50 % pour tous les métiers.","npcId":1829},"192":{"id":192,"nameId":"Cadeaux surprises","descId":"Des <b>Pochettes-Surprises</b> ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des <b>Beignets de Karnaval</b> ou bien de se retrouver déguisé en <b>Tofu Tout-Fou</b>.","npcId":1830},"193":{"id":193,"nameId":"Économie d'ingrédients","descId":"Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de <b>Brâkmar</b>.","npcId":1831},"194":{"id":194,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Vallée de la Morh'Kitu</b>.","npcId":1832},"195":{"id":195,"nameId":"Bois abondant","descId":"Les quantités de <b>Bois de Charme</b> et de <b>Bois de Bambou Sombre</b> récupérées par les Bûcherons sont augmentées de 150 %.","npcId":1833},"196":{"id":196,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>forêt Pétrifiée</b> : une étoile apparaît toutes les 10 minutes.","npcId":1834},"197":{"id":197,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les créatures de type <b>Pirates de Moon</b>.","npcId":1835},"198":{"id":198,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>Bourgade</b>.","npcId":1836},"199":{"id":199,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le donjon du <b>Repaire des Pandikazes</b>.","npcId":1837},"200":{"id":200,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Wabbits</b>.","npcId":1838},"201":{"id":201,"nameId":"Récolte abondante","descId":"Les quantités de <b>Houblon</b> récupérées par les Paysans sont augmentées de 125 %.","npcId":1839},"202":{"id":202,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Indigo</b> donnent naissance à un bébé supplémentaire.","npcId":1840},"203":{"id":203,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone de la <b>Tourbière sans fond</b>.","npcId":1841},"204":{"id":204,"nameId":"Économie d'ingrédients","descId":"Les <b>Pêcheurs</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1842},"205":{"id":205,"nameId":"Expérience Robillesque","descId":"Les gains d'expérience sont augmentés de 100 % sur tous les <b>gardiens de donjon</b>.","npcId":1843},"206":{"id":206,"nameId":"Cueillette abondante","descId":"Les quantités de <b>Trèfles à 5 Feuilles</b> récupérées par les Alchimistes sont augmentées de 125 %.","npcId":1844},"207":{"id":207,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Sangliers des Plaines</b>.","npcId":1845},"208":{"id":208,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Village des Zoths</b>.","npcId":1846},"209":{"id":209,"nameId":"Bénédiction du Fin Patraque","descId":"<b>Ayiri Chkofi</b> attend les aventuriers qui veulent boire un petit coup près de la taverne du village d'Amakna. Sa bénédiction transforme temporairement en Bulbinouze (effet qui disparaît quand un combat est lancé) et en Pilier de Comptoir (bonus de 5 % + 10 sur toutes les résistances durant 15 combats).","npcId":1847},"210":{"id":210,"nameId":"Expérience des métiers","descId":"Les gains d'expérience sont augmentés de 50 % pour les métiers de fabrication d'armes et d'équipements (Forgeurs et Sculpteurs d'armes, Bijoutier, Cordonnier, Tailleur et Forgeur de Boucliers).","npcId":1848},"211":{"id":211,"nameId":"Minerai abondant","descId":"Les quantités de <b>Manganèse</b> récupérées par les Mineurs sont augmentées de 150 %.","npcId":1849},"212":{"id":212,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de la <b>mine abandonnée de Sakaï</b>.","npcId":1850},"213":{"id":213,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 150 % sur les <b>Bouftous</b>.","npcId":1851},"214":{"id":214,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les <b>Craqueleurs des Plaines</b>.","npcId":1852},"215":{"id":215,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des <b>bois</b> de tous types est augmentée de 100 %.","npcId":1853},"216":{"id":216,"nameId":"Économie d'ingrédients","descId":"Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone des <b>Champs de Cania</b>.","npcId":1854},"217":{"id":217,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des <b>Cavernes Givrefoux</b>.","npcId":1855},"218":{"id":218,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>Ruche des Gloursons</b>.","npcId":1856},"219":{"id":219,"nameId":"Gibier abondant","descId":"Les quantités de <b>Chair de Larve</b> récupérées par les Chasseurs sont augmentées de 125 %. Ce bonus est valable pour toutes les qualités de Chair de Larve.","npcId":1857},"220":{"id":220,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les créatures de type <b>Boufmouths</b>.","npcId":1858},"221":{"id":221,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Berceau d'Alma</b> : une étoile apparaît toutes les 10 minutes.","npcId":1859},"222":{"id":222,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Kitsous</b>.","npcId":1860},"223":{"id":223,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Larves</b>.","npcId":1861},"224":{"id":224,"nameId":"Quête répétable","descId":"Une quête répétable spéciale est disponible aujourd'hui près du <b>sanctuaire des Zobals</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.","npcId":1862},"225":{"id":225,"nameId":"Butin et XP sur les créatures marines","descId":"Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur tous les monstres considérés comme des créatures marines (monstres des plages, crabes, corailleurs, crustorails, tortues de Moon, gélikan, Kralamoure Géant).","npcId":1863},"226":{"id":226,"nameId":"Pêche abondante","descId":"Les quantités de <b>Petits poissons de rivière</b> et de <b>mer</b> récupérées par les Pêcheurs sont augmentées de 125 %.","npcId":1864},"227":{"id":227,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de l'<b>île de Grobe</b>.","npcId":1865},"228":{"id":228,"nameId":"Économie d'ingrédients","descId":"Les <b>Forgeurs de Boucliers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1866},"229":{"id":229,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le <b>donjon des Craqueleurs</b>.","npcId":1867},"230":{"id":230,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Bois de Litneg</b>.","npcId":1868},"231":{"id":231,"nameId":"Récolte abondante","descId":"Les quantités d'<b>Orge</b> récupérées par les Paysans sont augmentées de 125 %.","npcId":1869},"232":{"id":232,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Tortues de Moon</b> et <b>Plantes de Moon</b>.","npcId":1870},"233":{"id":233,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du <b>Centre du Labyrinthe du Minotoror</b>.","npcId":1871},"234":{"id":234,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Pourpres</b> donnent naissance à un bébé supplémentaire.","npcId":1872},"235":{"id":235,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Lac de Cania</b> : une étoile apparaît toutes les 5 minutes.","npcId":1873},"236":{"id":236,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Fantômes de Pandala</b>.","npcId":1874},"237":{"id":237,"nameId":"Bois abondant","descId":"Les quantités de <b>Bois d'Ebène</b> et de <b>Bois de Kaliptus</b> récupérées par les Bûcherons sont augmentées de 150 %.","npcId":1875},"238":{"id":238,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Monstres du Village des Zoths</b>.","npcId":1876},"239":{"id":239,"nameId":"Fabrication intensive","descId":"Pour chaque objet fabriqué, les <b>Bricoleurs</b> ont 25 % de chances de créer un second objet.","npcId":1877},"240":{"id":240,"nameId":"Économie d'ingrédients","descId":"Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone d'<b>Astrub</b>, ainsi que dans les <b>champs</b> et la <b>forêt d'Astrub</b>.","npcId":1878},"241":{"id":241,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>péninsule des Gelées</b>.","npcId":1879},"242":{"id":242,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les créatures de type <b>Gloursons</b>.","npcId":1880},"243":{"id":243,"nameId":"Minerai abondant","descId":"Les quantités d'<b>Or</b> récupérées par les Mineurs sont augmentées de 150 %.","npcId":1881},"244":{"id":244,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Bordure de Feudala</b>.","npcId":1882},"245":{"id":245,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon du <b>Centre du Labyrinthe du Minotoror</b>.","npcId":1883},"246":{"id":246,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des ressources est augmentée de 150 % dans les zones de la <b>Rivière Kawaii</b> et du <b>Port de Madrestam</b>.","npcId":1884},"247":{"id":247,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Monstres des Tourbières</b>.","npcId":1885},"248":{"id":248,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>montagne des Craqueleurs</b>.","npcId":1886},"249":{"id":249,"nameId":"Gibier abondant","descId":"Les quantités de <b>Museaux</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Museaux.","npcId":1887},"250":{"id":250,"nameId":"Quêtes et kamas","descId":"Les gains de <b>kamas</b> sont augmentés de 100 % pour toutes les quêtes.","npcId":1888},"251":{"id":251,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>Route de Brâkmar</b> : une étoile apparaît toutes les 15 minutes.","npcId":1889},"252":{"id":252,"nameId":"Économie d'ingrédients","descId":"Les <b>Mineurs</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.","npcId":1890},"253":{"id":253,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Pious</b>.","npcId":1891},"254":{"id":254,"nameId":"Cueillette abondante","descId":"Les quantités de <b>Plantes</b> récupérées par les Alchimistes de tous niveaux sont augmentées de 100 %.","npcId":1892},"256":{"id":256,"nameId":"Fabrique Féérique","descId":"Pour chaque <b>Fée d'Artifice</b> fabriquée, les personnages ont 25 % de chances de créer une seconde Fée et 10 % de chances d'économiser des ingrédients. Ils peuvent aussi récupérer 2 fois plus de <b>Capsules Explosives</b> en combattant des Bworks Mages.","npcId":1923},"257":{"id":257,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le <b>donjon Fungus</b>.","npcId":1924},"258":{"id":258,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Monstres de l'Arbre Hakam</b>.","npcId":1925},"259":{"id":259,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 250 % sur les <b>Onis</b>.","npcId":1926},"260":{"id":260,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone des <b>Plaines Herbeuses</b>.","npcId":1927},"261":{"id":261,"nameId":"Bois abondant","descId":"Les quantités de <b>Bombu</b>, d'<b>Oliviolet</b> et d'<b>Érable</b> récupérées par les Bûcherons sont augmentées de 125 %.","npcId":1928},"262":{"id":262,"nameId":"Économie d'ingrédients","descId":"Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de <b>la Bourgade</b>, ainsi que dans les <b>Champs de Glace</b>.","npcId":1929},"263":{"id":263,"nameId":"Quête répétable","descId":"Une quête répétable spéciale est disponible aujourd'hui près du <b>château d'Amakna</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.","npcId":1930},"264":{"id":264,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Canyon Sauvage</b>.","npcId":1931},"265":{"id":265,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Turquoise</b> donnent naissance à un bébé supplémentaire.","npcId":1932},"266":{"id":266,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Plaine des Scarafeuilles</b>.","npcId":1933},"267":{"id":267,"nameId":"Récolte abondante","descId":"Les quantités de <b>Malt</b> récupérées par les Paysans sont augmentées de 125 %.","npcId":1934},"268":{"id":268,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du <b>Repaire de Skeunk</b>.","npcId":1935},"269":{"id":269,"nameId":"Objets de qualité","descId":"La qualité des objets fabriqués dans la ville d'<b>Astrub</b> est augmentée.","npcId":1936},"270":{"id":270,"nameId":"Cadeaux Surprises","descId":"Des <b>Boufballes Surprises</b> ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des <b>Bouf'gommes</b> de différents parfums.","npcId":1937},"271":{"id":271,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des <b>plantes</b> cueillies par les Alchimistes est augmentée de 100 %.","npcId":1938},"272":{"id":272,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Roissingues</b>.","npcId":1939},"273":{"id":273,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>forêt de Pandala</b> : une étoile apparaît toutes les 5 minutes.","npcId":1940},"274":{"id":274,"nameId":"Minerai abondant","descId":"Les quantités d'<b>Étain</b> et de <b>Silicate</b> récupérées par les Mineurs sont augmentées de 150 %.","npcId":1941},"275":{"id":275,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Dopeuls de temple</b>.","npcId":1942},"276":{"id":276,"nameId":"Économie d'ingrédients","descId":"Les <b>Tailleurs</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":1943},"277":{"id":277,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone des <b>Cavernes des Givrefoux</b>.","npcId":1944},"278":{"id":278,"nameId":"Pêche abondante","descId":"Les quantités de <b>Poissons de rivière géants</b> récupérées par les Pêcheurs sont augmentées de 150 %.","npcId":1945},"279":{"id":279,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le <b>donjon des Champs</b>.","npcId":1946},"280":{"id":280,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Feuillage de l'Arbre Hakam</b>.","npcId":1947},"281":{"id":281,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de l'<b>Élevage de Bouftous du Château d'Amakna</b>.","npcId":1948},"282":{"id":282,"nameId":"Fabrication intensive","descId":"Pour chaque objet fabriqué, les <b>Boulangers</b> ont 25 % de chances de créer un second objet.","npcId":1949},"283":{"id":283,"nameId":"Gibier abondant","descId":"Les quantités de viande récupérées par les Chasseurs sur les créatures de Frigost qui vivent dans <b>la Bourgade</b> sont augmentées de 125 %.","npcId":1950},"284":{"id":284,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>forêt de Kaliptus</b> : une étoile apparaît toutes les 5 minutes.","npcId":1951},"285":{"id":285,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Dragoeufs</b>.","npcId":1952},"286":{"id":286,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>forêt Pétrifiée</b>.","npcId":1953},"287":{"id":287,"nameId":"Gardiens de la nature","descId":"Les <b>protecteurs de ressources</b> ont 5 fois plus de chances d'apparaître pendant les activités de récolte.","npcId":1954},"288":{"id":288,"nameId":"Quête répétable","descId":"Une quête répétable spéciale est disponible aujourd'hui à l'est de l'atelier des bûcherons de la <b>forêt d'Amakna</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.","npcId":1955},"289":{"id":289,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les créatures de type <b>Monstres des plages</b>.","npcId":1956},"290":{"id":290,"nameId":"Économie d'ingrédients","descId":"Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>port de Madrestam</b>.","npcId":1957},"291":{"id":291,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Forgerons</b>.","npcId":1958},"292":{"id":292,"nameId":"Percepteurs zélés","descId":"Le butin généré par les Percepteurs est augmenté de 200 % dans toutes les zones.","npcId":1959},"293":{"id":293,"nameId":"Minerai abondant","descId":"Les quantités de minerai récupérées par les <b>Mineurs</b> de tous niveaux sont augmentées de 100 %.","npcId":1960},"294":{"id":294,"nameId":"Butin frigostien","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur le <b>Comte Harebourg</b> et ses 4 lieutenants, ainsi que sur leurs <b>créatures</b>.","npcId":1961},"295":{"id":295,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Givrefoux</b>.","npcId":1962},"296":{"id":296,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>forêt de Pandala</b>.","npcId":1963},"297":{"id":297,"nameId":"Cueillette abondante","descId":"Les quantités d'<b>Orchidée Freyesque</b> récupérées par les Alchimistes sont augmentées de 150 %.","npcId":1964},"298":{"id":298,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Amande</b> donnent naissance à un bébé supplémentaire.","npcId":1965},"299":{"id":299,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>plage de Moon</b>.","npcId":1966},"300":{"id":300,"nameId":"Objets de qualité","descId":"La qualité des objets fabriqués dans la ville de <b>la Bourgade</b> est augmentée.","npcId":1967},"301":{"id":301,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Caverne des Fungus</b>.","npcId":1968},"302":{"id":302,"nameId":"Économie d'ingrédients","descId":"Les <b>Bricoleurs</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":1969},"303":{"id":303,"nameId":"Bois abondant","descId":"Les quantités de <b>Merisier</b> récupérées par les Bûcherons sont augmentées de 125 %.","npcId":1970},"304":{"id":304,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>Village des Dragoeufs</b>.","npcId":1971},"305":{"id":305,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Bulbigs</b>. Le Bulbig Brozeur n'est pas concerné par ce bonus.","npcId":1972},"306":{"id":306,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le <b>donjon des Dragoeufs</b>.","npcId":1973},"307":{"id":307,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 250 % sur les <b>Kitsous Nufeus</b>.","npcId":1974},"308":{"id":308,"nameId":"Récolte abondante","descId":"Les quantités de <b>Blé</b> récupérées par les Paysans sont augmentées de 125 %.","npcId":1975},"309":{"id":309,"nameId":"Tarif réduit","descId":"Le coût d'utilisation des <b>Zaaps</b>, les <b>frais bancaires</b>  et les taxes des <b>Hôtels de vente</b> bénéficient d'une réduction de 50 %.","npcId":1976},"310":{"id":310,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>Plage de Corail</b> : une étoile apparaît toutes les 15 minutes.","npcId":1977},"311":{"id":311,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Feuillage de l'Arbre Hakam</b>.","npcId":1978},"312":{"id":312,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Plantes des Champs</b>.","npcId":1979},"313":{"id":313,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des ressources est augmentée de 150 % dans la zone des <b>Landes de Sidimote</b>.","npcId":1980},"314":{"id":314,"nameId":"Économie d'ingrédients","descId":"Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>village de Pandala</b>.","npcId":1981},"315":{"id":315,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de l'<b>Antre du Kralamoure Géant</b>.","npcId":1982},"316":{"id":316,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>forêt des Abraknydes</b> : une étoile apparaît toutes les 10 minutes.","npcId":1983},"317":{"id":317,"nameId":"Gibier abondant","descId":"Les quantités de <b>Cuisses de Boufton et de Bouftou</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Cuisses de Bouftou.","npcId":1984},"318":{"id":318,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de l'<b>île du Minotoror</b>.","npcId":1985},"319":{"id":319,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Chefs Crocodailles</b>.","npcId":2072},"320":{"id":320,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone de la <b>forêt d'Amakna</b>.","npcId":2073},"321":{"id":321,"nameId":"Économie d'ingrédients","descId":"Les <b>Alchimistes</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":2074},"322":{"id":322,"nameId":"Objets de qualité","descId":"La qualité des objets fabriqués dans le <b>village et la forêt d'Amakna</b> est augmentée.","npcId":2075},"323":{"id":323,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Kitsounes</b>.","npcId":2076},"324":{"id":324,"nameId":"Pêche abondante","descId":"Les quantités de <b>Poissons de rivière</b> de taille moyenne récupérées par les Pêcheurs sont augmentées de 150 %.","npcId":2077},"325":{"id":325,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des <b>Larmes d'Ouronigride</b>.","npcId":2078},"326":{"id":326,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 200 % sur les <b>Boufcouls</b> et les <b>Bouftous des Cavernes</b>.","npcId":2079},"327":{"id":327,"nameId":"Expérience des métiers","descId":"Les gains d'expérience sont augmentés de 50 % pour les <b>métiers de récolte</b>.","npcId":2080},"328":{"id":328,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de <b>Dragodindes Prune</b> donnent naissance à un bébé supplémentaire.","npcId":2081},"329":{"id":329,"nameId":"Minerai abondant","descId":"Les quantités de <b>Bauxite</b> récupérées par les Mineurs sont augmentées de 150 %.","npcId":2082},"330":{"id":330,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone des <b>Champs de Glace</b>.","npcId":2083},"331":{"id":331,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone des <b>Larmes d'Ouronigride</b>.","npcId":2084},"332":{"id":332,"nameId":"Expérience du Kolizéum","descId":"Les gains d'expérience sont augmentés de 100 % lors des combats du <b>Kolizéum</b>.","npcId":2085},"333":{"id":333,"nameId":"Gibier abondant","descId":"Les quantités de <b>Dragoviande</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Dragoviande.","npcId":2086},"334":{"id":334,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Monstres de Vulkania</b>.","npcId":2087},"335":{"id":335,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone des <b>Prairies d'Astrub</b> : une étoile apparaît toutes les 10 minutes.","npcId":2088},"336":{"id":336,"nameId":"Économie d'ingrédients","descId":"Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>Coin des Bouftous</b>.","npcId":2089},"337":{"id":337,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le donjon de la <b>Grotte Hesque</b>.","npcId":2090},"338":{"id":338,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des <b>céréales</b> récoltées par les <b>Paysans</b> est augmentée de 100 %.","npcId":2091},"339":{"id":339,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Village des Zoths</b>.","npcId":2092},"340":{"id":340,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les créatures de type <b>Monstres de la Bourgade</b>.","npcId":2093},"341":{"id":341,"nameId":"Familiers Frénétiques","descId":"Les bonus apportés par les familiers et les montiliers sont augmentés de 100 %.","npcId":2094},"342":{"id":342,"nameId":"Bois abondant","descId":"Les quantités de <b>Tremble</b>, de <b>Bambou Sacré</b> et d'<b>Orme</b> récupérées par les Bûcherons sont augmentées de 200 %.","npcId":2095},"343":{"id":343,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Cochons</b>.","npcId":2096},"344":{"id":344,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>forêt des Pins Perdus</b>.","npcId":2097},"345":{"id":345,"nameId":"Économie d'ingrédients","descId":"Les <b>Bouchers</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":2098},"346":{"id":346,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans les zones de la <b>forêt Enneigée</b> et de la <b>plaine de Sakaï</b> : une étoile apparaît toutes les 5 minutes.","npcId":2099},"347":{"id":347,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon du <b>Repaire de Daïgoro</b>.","npcId":2100},"348":{"id":348,"nameId":"Butin et XP dans la Maison Fantôme","descId":"Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 125 % dans le donjon de la <b>Maison Fantôme</b>.","npcId":2101},"349":{"id":349,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Monstres de Vulkania</b>.","npcId":2102},"350":{"id":350,"nameId":"Cueillette abondante","descId":"Les quantités d'<b>Edelweiss</b> et de <b>Graines de Pandouille</b> récupérées par les Alchimistes sont augmentées de 175 %.","npcId":2103},"351":{"id":351,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Tofus</b>.","npcId":2104},"352":{"id":352,"nameId":"Quête répétable","descId":"Une quête répétable spéciale est disponible aujourd'hui au sud des portes de Bonta. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.","npcId":2105},"353":{"id":353,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les créatures de type <b>Monstres de Vulkania</b>.","npcId":2106},"354":{"id":354,"nameId":"Pêche abondante","descId":"Les quantités de <b>Poissons de Frigost</b> récupérées par les Pêcheurs sont augmentées de 150 %.","npcId":2107},"355":{"id":355,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone des <b>Calanques d'Astrub</b>.","npcId":2108},"356":{"id":356,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon de l'<b>Antre du Blop Multicolore Royal</b>.","npcId":2109},"357":{"id":357,"nameId":"Économie d'ingrédients","descId":"Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de <b>Bonta</b>.","npcId":2110},"358":{"id":358,"nameId":"Récolte abondante","descId":"Les quantités de céréales récupérées par les Paysans de tous niveaux sont augmentées de 100 %.","npcId":2111},"359":{"id":359,"nameId":"Élevage de Dragodindes","descId":"Toutes les variétés de Dragodindes capables de se reproduire donnent naissance à un bébé supplémentaire.","npcId":2112},"360":{"id":360,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de l'<b>île de Grobe</b>.","npcId":2113},"361":{"id":361,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Kannibouls de l'île de Moon</b>.","npcId":2114},"362":{"id":362,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Monstres de Vulkania</b>.","npcId":2115},"363":{"id":363,"nameId":"Apparition des ressources","descId":"La vitesse d'apparition des ressources est augmentée de 150 % dans la zone de la <b>forêt d'Amakna</b>.","npcId":2116},"364":{"id":364,"nameId":"Étoiles défilantes","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée pour toutes les zones : une étoile apparaît toutes les 30 minutes.","npcId":2117},"365":{"id":365,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Pichon Frétillant</b>.","npcId":2118},"366":{"id":366,"nameId":"Minerai abondant","descId":"Les quantités de <b>Bronze</b> récupérées par les Mineurs sont augmentées de 150 %.","npcId":2119},"367":{"id":367,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Minos</b>.","npcId":2120},"368":{"id":368,"nameId":"Économie d'ingrédients","descId":"Les <b>Paysans</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.","npcId":2121},"369":{"id":369,"nameId":"Challenges augmentés","descId":"Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>plaine des Porkass</b>.","npcId":2122},"370":{"id":370,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans les zones des <b>forêts de Vulkania</b> : une étoile apparaît toutes les 10 minutes.","npcId":2123},"371":{"id":371,"nameId":"Gibier abondant","descId":"Les quantités de <b>Carrés de Porc</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Carrés de Porc.","npcId":2124},"372":{"id":372,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Mont Torrideau</b>.","npcId":2125},"373":{"id":373,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 125 % dans le <b>donjon du Bworker</b>.","npcId":2126},"374":{"id":374,"nameId":"Challenge supplémentaire","descId":"Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>champ des Ingalsses</b>.","npcId":2127},"375":{"id":375,"nameId":"Percepteurs avides","descId":"Le butin généré par les Percepteurs est augmenté de 300 % dans le <b>donjon des Dragoeufs</b>.","npcId":2128},"376":{"id":376,"nameId":"Points d'expérience","descId":"Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Monstres du Berceau d'Alma</b>.","npcId":2129},"377":{"id":377,"nameId":"Bois abondant","descId":"Les quantités de <b>Noyer</b> récupérées par les Bûcherons sont augmentées de 150 %.","npcId":2130},"378":{"id":378,"nameId":"Butin","descId":"Les chances d'obtenir du butin sont augmentées de 125 % dans le <b>donjon des Blops</b>.","npcId":2131},"379":{"id":379,"nameId":"Apparition des étoiles","descId":"La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du Labyrinthe du Dragon Cochon : une étoile apparaît toutes les 5 minutes.","npcId":2132},"380":{"id":380,"nameId":"Économie d'ingrédients","descId":"Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de la <b>forêt d'Amakna</b>.","npcId":2133}}
+{
+  "1": {
+    "id": 1,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone des <b>Lacs Enchantés</b>.",
+    "npcId": 1736
+  },
+  "2": {
+    "id": 2,
+    "nameId": "Challenges augmentés et économie d'ingrédients",
+    "descId": "Les bonus apportés par les <b>challenges réussis</b> sont augmentés de 100 %. De plus, les artisans et les récolteurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1754
+  },
+  "3": {
+    "id": 3,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Squelettes</b>.",
+    "npcId": 1646
+  },
+  "4": {
+    "id": 4,
+    "nameId": "Butin et XP sur les pirates",
+    "descId": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur tous les monstres considérés comme des <b>pirates</b>.",
+    "npcId": 1645
+  },
+  "5": {
+    "id": 5,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de viande récupérées par les Chasseurs sur les <b>Kanigrous</b>, les <b>Crocodailles</b> et les <b>Koalaks</b> sont augmentées de 125 %.",
+    "npcId": 1644
+  },
+  "6": {
+    "id": 6,
+    "nameId": "Objets de qualité",
+    "descId": "La qualité des objets fabriqués dans la ville de <b>Brâkmar</b> est augmentée.",
+    "npcId": 1643
+  },
+  "7": {
+    "id": 7,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>Bordure de Feudala</b>.",
+    "npcId": 1642
+  },
+  "8": {
+    "id": 8,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>monstres des Plaines Herbeuses</b>.",
+    "npcId": 1641
+  },
+  "9": {
+    "id": 9,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la <b>Campagne</b>.",
+    "npcId": 1640
+  },
+  "10": {
+    "id": 10,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 150 % sur les <b>Crocodailles</b>.",
+    "npcId": 1639
+  },
+  "11": {
+    "id": 11,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités de <b>Dolomite</b> et d'<b>Obsidienne</b> récupérées par les Mineurs sont augmentées de 175 %.",
+    "npcId": 1638
+  },
+  "12": {
+    "id": 12,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le <b>donjon des Firefoux</b>.",
+    "npcId": 1637
+  },
+  "13": {
+    "id": 13,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Labyrinthe du Minotoror</b> : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 1636
+  },
+  "14": {
+    "id": 14,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de <b>l'Arche d'Otomaï</b>.",
+    "npcId": 1635
+  },
+  "15": {
+    "id": 15,
+    "nameId": "Percepteurs avides",
+    "descId": "Le butin généré par les Percepteurs est augmenté de 300 % dans le donjon de la <b>Canopée du Kimbo</b>.",
+    "npcId": 1634
+  },
+  "16": {
+    "id": 16,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les <b>Fantômes de Pandala</b>.",
+    "npcId": 1622
+  },
+  "17": {
+    "id": 17,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Bois de Chêne</b> récupérées par les Bûcherons sont augmentées de 150 %.",
+    "npcId": 1623
+  },
+  "18": {
+    "id": 18,
+    "nameId": "Quête répétable",
+    "descId": "Une quête répétable spéciale est disponible aujourd'hui près de la fontaine du <b>village d'Amakna</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+    "npcId": 1624
+  },
+  "19": {
+    "id": 19,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>Milifutaie</b>.",
+    "npcId": 1629
+  },
+  "20": {
+    "id": 20,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Poissonniers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1630
+  },
+  "21": {
+    "id": 21,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du <b>Laboratoire du Tynril</b>.",
+    "npcId": 1631
+  },
+  "22": {
+    "id": 22,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>forêt des Abraknydes Sombres</b>.",
+    "npcId": 1632
+  },
+  "23": {
+    "id": 23,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de viande récupérées par les Chasseurs de tous niveaux sont augmentées de 100 %.",
+    "npcId": 1633
+  },
+  "24": {
+    "id": 24,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les <b>Firefoux</b>.",
+    "npcId": 1647
+  },
+  "25": {
+    "id": 25,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Dorées</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1648
+  },
+  "26": {
+    "id": 26,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>monstres des Larmes d'Ouronigride</b>.",
+    "npcId": 1649
+  },
+  "27": {
+    "id": 27,
+    "nameId": "Expérience des quêtes",
+    "descId": "Les gains d'expérience sont augmentés de 100 % pour toutes les quêtes.",
+    "npcId": 1650
+  },
+  "28": {
+    "id": 28,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de <b>Pandala Neutre</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 1651
+  },
+  "29": {
+    "id": 29,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>forêt Maléfique</b>.",
+    "npcId": 1652
+  },
+  "30": {
+    "id": 30,
+    "nameId": "Cueillette abondante",
+    "descId": "Les quantités de <b>Fleurs de Chanvre</b> récupérées par les Alchimistes sont augmentées de 125 %.",
+    "npcId": 1653
+  },
+  "31": {
+    "id": 31,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de la <b>Caverne du Koulosse</b>.",
+    "npcId": 1654
+  },
+  "32": {
+    "id": 32,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la <b>forêt des Pins Perdus</b>.",
+    "npcId": 1655
+  },
+  "33": {
+    "id": 33,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les <b>Zoths</b>.",
+    "npcId": 1656
+  },
+  "34": {
+    "id": 34,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des <b>poissons</b> de tous types est augmentée de 100 %.",
+    "npcId": 1657
+  },
+  "35": {
+    "id": 35,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>presqu'île des Dragoeufs</b>.",
+    "npcId": 1658
+  },
+  "36": {
+    "id": 36,
+    "nameId": "Fabrication intensive",
+    "descId": "Les quantités d'objets fabriqués par les <b>Bouchers</b> sont augmentées de 25 %.",
+    "npcId": 1659
+  },
+  "37": {
+    "id": 37,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Berceau</b>.",
+    "npcId": 1660
+  },
+  "38": {
+    "id": 38,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone des <b>Landes de Sidimote</b> : une étoile apparaît toutes les 15 minutes.",
+    "npcId": 1661
+  },
+  "39": {
+    "id": 39,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités de <b>Fer</b> récupérées par les Mineurs sont augmentées de 150 %.",
+    "npcId": 1662
+  },
+  "40": {
+    "id": 40,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>monstres de la forêt des Pins Perdus</b>.",
+    "npcId": 1663
+  },
+  "41": {
+    "id": 41,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le <b>donjon Wabbit</b>.",
+    "npcId": 1664
+  },
+  "42": {
+    "id": 42,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Sculpteurs</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1665
+  },
+  "43": {
+    "id": 43,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités de <b>Chanvre</b> récupérées par les Paysans sont augmentées de 125 %.",
+    "npcId": 1666
+  },
+  "44": {
+    "id": 44,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les <b>Givrefoux</b>.",
+    "npcId": 1667
+  },
+  "45": {
+    "id": 45,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de la <b>forêt Enneigée</b>.",
+    "npcId": 1668
+  },
+  "46": {
+    "id": 46,
+    "nameId": "Cadeaux surprises",
+    "descId": "Des <b>Surprises de Trikortritt</b> ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des <b>Bonbons d'Halouine</b> ou bien de se retrouver transformé en <b>Petite Chauffe-Soutrille</b>.",
+    "npcId": 1669
+  },
+  "47": {
+    "id": 47,
+    "nameId": "Expérience des Dragodindes",
+    "descId": "Les gains d'expérience des montures Dragodindes sont augmentés de 200 %.",
+    "npcId": 1670
+  },
+  "48": {
+    "id": 48,
+    "nameId": "Butin et XP en slip",
+    "descId": "Les gains d'expérience lors des combats contre les monstres et les chances d'obtenir du butin sont augmentés de 50 % pour tous les aventuriers qui sont équipés d'un <b>slip</b>.",
+    "npcId": 1671
+  },
+  "49": {
+    "id": 49,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon du <b>laboratoire de Brumen Tinctorias</b>.",
+    "npcId": 1672
+  },
+  "50": {
+    "id": 50,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>Village d'Amakna</b>.",
+    "npcId": 1673
+  },
+  "51": {
+    "id": 51,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les <b>Bandits</b> et les <b>Artisans Sombres</b>.",
+    "npcId": 1674
+  },
+  "52": {
+    "id": 52,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone du <b>port de Givre</b>.",
+    "npcId": 1675
+  },
+  "53": {
+    "id": 53,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Bois de Châtaignier</b> récupérées par les Bûcherons sont augmentées de 125 %.",
+    "npcId": 1676
+  },
+  "54": {
+    "id": 54,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>jungle Obscure</b>.",
+    "npcId": 1677
+  },
+  "55": {
+    "id": 55,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>Bord de la forêt Maléfique</b>.",
+    "npcId": 1678
+  },
+  "56": {
+    "id": 56,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Berceau d'Alma</b>.",
+    "npcId": 1679
+  },
+  "57": {
+    "id": 57,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Orchidée</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1680
+  },
+  "58": {
+    "id": 58,
+    "nameId": "Bénédiction de Miss Triste",
+    "descId": "<b>Miss Triste</b> attend les aventuriers qui veulent se refaire une laideur près de la fontaine du village d'Amakna. Sa bénédiction transforme temporairement en Crocodaille (effet qui disparaît quand un combat est lancé) et en Souffre-Douleur (bonus de 50 Puissance et 10 dommages fixes durant 15 combats).",
+    "npcId": 1681
+  },
+  "59": {
+    "id": 59,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de <b>Poissons de mer géants</b> récupérées par les Pêcheurs sont augmentées de 150 %.",
+    "npcId": 1682
+  },
+  "60": {
+    "id": 60,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Rats de Brâkmar</b>.",
+    "npcId": 1683
+  },
+  "61": {
+    "id": 61,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les monstres <b>Dragodindes</b>.",
+    "npcId": 1684
+  },
+  "62": {
+    "id": 62,
+    "nameId": "Quête répétable",
+    "descId": "Une quête répétable spéciale est disponible aujourd'hui près de la statue du dieu Sram à <b>Astrub</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+    "npcId": 1685
+  },
+  "63": {
+    "id": 63,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les <b>monstres des Égouts</b>.",
+    "npcId": 1686
+  },
+  "64": {
+    "id": 64,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de viande récupérées par les Chasseurs sur les créatures de <b>Frigost</b> qui vivent en dehors de la Bourgade sont augmentées de 150 %.",
+    "npcId": 1687
+  },
+  "65": {
+    "id": 65,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les <b>monstres des Égouts</b>.",
+    "npcId": 1688
+  },
+  "66": {
+    "id": 66,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Bûcherons</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1689
+  },
+  "67": {
+    "id": 67,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>bordure de Brâkmar</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 1690
+  },
+  "68": {
+    "id": 68,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les <b>monstres de l'Arbre Hakam</b>.",
+    "npcId": 1691
+  },
+  "69": {
+    "id": 69,
+    "nameId": "Percepteurs avides",
+    "descId": "Le butin généré par les Percepteurs est augmenté de 300 % dans le <b>donjon des Canidés</b>.",
+    "npcId": 1692
+  },
+  "70": {
+    "id": 70,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Cimetière des Torturés</b>.",
+    "npcId": 1693
+  },
+  "71": {
+    "id": 71,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités d'<b>Avoine</b> récupérées par les Paysans sont augmentées de 125 %.",
+    "npcId": 1694
+  },
+  "72": {
+    "id": 72,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>Boufmouths</b>.",
+    "npcId": 1695
+  },
+  "73": {
+    "id": 73,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>Passage vers Brâkmar</b>.",
+    "npcId": 1696
+  },
+  "74": {
+    "id": 74,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le donjon de la <b>Canopée du Kimbo</b>.",
+    "npcId": 1697
+  },
+  "75": {
+    "id": 75,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone des <b>Larmes d'Ouronigride</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 1698
+  },
+  "76": {
+    "id": 76,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités de <b>Kobalte</b> récupérées par les mineurs sont augmentées de 150 %.",
+    "npcId": 1699
+  },
+  "77": {
+    "id": 77,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>forêt Enneigée</b>.",
+    "npcId": 1700
+  },
+  "78": {
+    "id": 78,
+    "nameId": "Dragodindes Frénétiques",
+    "descId": "Les bonus apportés par les montures Dragodindes sont augmentés de 100 %.",
+    "npcId": 1701
+  },
+  "79": {
+    "id": 79,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Bouftous</b>.",
+    "npcId": 1702
+  },
+  "80": {
+    "id": 80,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de <b>Sufokia</b>.",
+    "npcId": 1703
+  },
+  "81": {
+    "id": 81,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les <b>Mansots</b>.",
+    "npcId": 1704
+  },
+  "82": {
+    "id": 82,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de Bois récupérées par les <b>Bûcherons</b> de tous niveaux sont augmentées de 100 %.",
+    "npcId": 1705
+  },
+  "83": {
+    "id": 83,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone des <b>Souterrains des Dragoeufs</b>.",
+    "npcId": 1706
+  },
+  "84": {
+    "id": 84,
+    "nameId": "Kolizétons",
+    "descId": "La quantité de jetons gagnée en Kolizéum est augmentée de 100 %.",
+    "npcId": 1707
+  },
+  "85": {
+    "id": 85,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>Koalaks</b>.",
+    "npcId": 1708
+  },
+  "86": {
+    "id": 86,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans les zones de la <b>plaine de Sakaï</b> et de la <b>forêt Enneigée</b>.",
+    "npcId": 1709
+  },
+  "87": {
+    "id": 87,
+    "nameId": "Cueillette abondante",
+    "descId": "Les quantités de <b>Perce-Neige</b> récupérées par les Alchimistes sont augmentées de 175 %.",
+    "npcId": 1710
+  },
+  "88": {
+    "id": 88,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Ivoire</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1711
+  },
+  "89": {
+    "id": 89,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Cordonniers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1712
+  },
+  "90": {
+    "id": 90,
+    "nameId": "Quête répétable",
+    "descId": "Une quête répétable spéciale est disponible aujourd'hui près des portes de <b>Brâkmar</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+    "npcId": 1713
+  },
+  "91": {
+    "id": 91,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des <b>minerais</b> de tous types est augmentée de 100 %.",
+    "npcId": 1714
+  },
+  "92": {
+    "id": 92,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le <b>donjon des Canidés</b>.",
+    "npcId": 1715
+  },
+  "93": {
+    "id": 93,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>plaine des Porkass</b>.",
+    "npcId": 1716
+  },
+  "94": {
+    "id": 94,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les <b>monstres de Nowel</b>.",
+    "npcId": 1717
+  },
+  "95": {
+    "id": 95,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de <b>Gros poissons de mer</b> récupérées par les Pêcheurs sont augmentées de 150 %.",
+    "npcId": 1718
+  },
+  "96": {
+    "id": 96,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans tous les donjons.",
+    "npcId": 1719
+  },
+  "97": {
+    "id": 97,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les <b>monstres de Nowel</b>.",
+    "npcId": 1720
+  },
+  "98": {
+    "id": 98,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>territoire des Porcos</b>.",
+    "npcId": 1721
+  },
+  "99": {
+    "id": 99,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Cimetière de Bonta</b>.",
+    "npcId": 1722
+  },
+  "100": {
+    "id": 100,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans les zones du <b>Bateau Pirate</b> et de <b>l'île des Naufragés</b> : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 1723
+  },
+  "101": {
+    "id": 101,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de <b>Viande d'Oiseau</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Viande d'Oiseau.",
+    "npcId": 1724
+  },
+  "102": {
+    "id": 102,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les <b>monstres de Nowel</b>.",
+    "npcId": 1725
+  },
+  "103": {
+    "id": 103,
+    "nameId": "Cadeaux surprises",
+    "descId": "Des <b>Cadeaux de Nowel</b> ont été ajoutés aux butins des monstres. Lorsqu'ils sont utilisés, ils permettent d'obtenir des ressources ou d'autres objets aléatoires.",
+    "npcId": 1726
+  },
+  "104": {
+    "id": 104,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de <b>l'excavation du Mansot Royal</b>.",
+    "npcId": 1727
+  },
+  "105": {
+    "id": 105,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les <b>monstres de Nowel</b>.",
+    "npcId": 1728
+  },
+  "106": {
+    "id": 106,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans les zones du <b>Havre</b>, de la <b>Terre</b> et de la <b>Taïga de Nowel</b> : une étoile apparaît toutes les 15 minutes.",
+    "npcId": 1729
+  },
+  "107": {
+    "id": 107,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités de <b>Seigle</b> et de <b>Riz</b> récupérées par les Paysans sont augmentées de 125 %.",
+    "npcId": 1730
+  },
+  "108": {
+    "id": 108,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>jungle Obscure</b>.",
+    "npcId": 1731
+  },
+  "109": {
+    "id": 109,
+    "nameId": "Expérience des métiers",
+    "descId": "Les gains d'expérience sont augmentés de 50 % pour les <b>métiers de fabrication de consommables</b> (Boulanger, Boucher, Bricoleur et Poissonnier).",
+    "npcId": 1732
+  },
+  "110": {
+    "id": 110,
+    "nameId": "Nouveau Calendrier Test",
+    "descId": "La qualité des objets fabriqués dans la ville de Brâkmar est augmentée de 10 %. Lors de la création d'un objet, le bonus est appliqué séparément pour chaque jet de caractéristique sans pouvoir dépasser la valeur plafond. Ainsi, un jet de 21 à 30 devient un jet de 22 à 30 (le bonus est calculé sur la différence entre la valeur minimum et maximum) avec des chances augmentées d'obtenir un 30.",
+    "npcId": 1754
+  },
+  "113": {
+    "id": 113,
+    "nameId": "Expérience des métiers",
+    "descId": "Les gains d'expérience sont augmentés de 50 % pour tous les métiers.",
+    "npcId": 1737
+  },
+  "114": {
+    "id": 114,
+    "nameId": "Cueillette abondante",
+    "descId": "Les quantités de <b>Fleurs de Lin</b> récupérées par les Alchimistes sont augmentées de 125 %.",
+    "npcId": 1738
+  },
+  "115": {
+    "id": 115,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les <b>monstres des Crocs de verre</b>.",
+    "npcId": 1739
+  },
+  "116": {
+    "id": 116,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de <b>Pandala Neutre</b>.",
+    "npcId": 1740
+  },
+  "117": {
+    "id": 117,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans la <b>Bibliothèque du Maître Corbac</b>.",
+    "npcId": 1741
+  },
+  "118": {
+    "id": 118,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les <b>monstres des Larmes d'Ouronigride</b>.",
+    "npcId": 1742
+  },
+  "119": {
+    "id": 119,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de <b>Poissons de mer</b> de taille moyenne récupérées par les Pêcheurs sont augmentées de 150 %.",
+    "npcId": 1743
+  },
+  "120": {
+    "id": 120,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Bergers Porkass</b>.",
+    "npcId": 1744
+  },
+  "121": {
+    "id": 121,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Ebène</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1745
+  },
+  "122": {
+    "id": 122,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Sanctuaire des Dragoeufs</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 1746
+  },
+  "123": {
+    "id": 123,
+    "nameId": "Bonta et Brâkmar",
+    "descId": "Les récompenses en points d'expérience des <b>quêtes d'alignement</b> et des <b>quêtes des Ordres des cités</b> sont augmentées de 100 %. De plus, une quête répétable spéciale est disponible aujourd'hui à l'intérieur des <b>milices de Bonta ou de Brâkmar</b>. Réalisable à partir du niveau 10 par les personnages alignés, elle est indépendante de la quête d'offrande.",
+    "npcId": 1747
+  },
+  "124": {
+    "id": 124,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités de <b>Lin</b> récupérées par les Paysans sont augmentées de 125 %.",
+    "npcId": 1748
+  },
+  "125": {
+    "id": 125,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les <b>monstres de la forêt Pétrifiée</b>.",
+    "npcId": 1749
+  },
+  "126": {
+    "id": 126,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Bijoutiers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1750
+  },
+  "127": {
+    "id": 127,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des <b>Champs de Glace</b>.",
+    "npcId": 1751
+  },
+  "128": {
+    "id": 128,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Clairière de Brouce Boulgoure</b>.",
+    "npcId": 1752
+  },
+  "129": {
+    "id": 129,
+    "nameId": "Challenges augmentés et économie d'ingrédients",
+    "descId": "Les bonus apportés par les <b>challenges réussis</b> sont augmentés de 100 %. De plus, les artisans et les récolteurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1754
+  },
+  "130": {
+    "id": 130,
+    "nameId": "Challenges augmentés et économie d'ingrédients",
+    "descId": "Les bonus apportés par les <b>challenges réussis</b> sont augmentés de 100 %. De plus, les artisans et les récolteurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1754
+  },
+  "131": {
+    "id": 131,
+    "nameId": "Challenges augmentés et économie d'ingrédients",
+    "descId": "Les bonus apportés par les <b>challenges réussis</b> sont augmentés de 100 %. De plus, les artisans et les récolteurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1754
+  },
+  "132": {
+    "id": 132,
+    "nameId": "Apparition des ressources et des Archimonstres",
+    "descId": "La vitesse d'apparition des <b>Archimonstres</b> est augmentée de 200 %.  La vitesse d'apparition des <b>ressources</b> de tous types est augmentée de 100 %.",
+    "npcId": 1770
+  },
+  "133": {
+    "id": 133,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Boulangers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1771
+  },
+  "134": {
+    "id": 134,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Monstres de l'Arche d'Otomaï</b>.",
+    "npcId": 1772
+  },
+  "135": {
+    "id": 135,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Monstres des Crocs de Verre</b>.",
+    "npcId": 1773
+  },
+  "136": {
+    "id": 136,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Bois d'If</b> et de <b>Bois de Bambou</b> récupérées par les Bûcherons sont augmentées de 150 %.",
+    "npcId": 1774
+  },
+  "137": {
+    "id": 137,
+    "nameId": "Quête répétable",
+    "descId": "Une quête répétable spéciale est disponible aujourd'hui près de l'atelier des boulangers du <b>village d'Amakna</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+    "npcId": 1775
+  },
+  "138": {
+    "id": 138,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Animaux de la forêt</b>.",
+    "npcId": 1776
+  },
+  "139": {
+    "id": 139,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le <b>donjon Ensablé</b>.",
+    "npcId": 1777
+  },
+  "140": {
+    "id": 140,
+    "nameId": "Objets de qualité",
+    "descId": "La qualité des objets fabriqués dans la ville de <b>Bonta</b> est augmentée.",
+    "npcId": 1778
+  },
+  "141": {
+    "id": 141,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Emeraude</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1779
+  },
+  "142": {
+    "id": 142,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone d'<b>Entraînement des Dopeuls</b>.",
+    "npcId": 1780
+  },
+  "143": {
+    "id": 143,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités d'<b>Argent</b> récupérées par les Mineurs sont augmentées de 150 %.",
+    "npcId": 1781
+  },
+  "144": {
+    "id": 144,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Lac Gelé</b> : une étoile apparaît toutes les 15 minutes.",
+    "npcId": 1782
+  },
+  "145": {
+    "id": 145,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Crevasse Perge</b>.",
+    "npcId": 1783
+  },
+  "146": {
+    "id": 146,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>Tourbière Nauséabonde</b>.",
+    "npcId": 1784
+  },
+  "147": {
+    "id": 147,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Fantômes</b>.",
+    "npcId": 1785
+  },
+  "148": {
+    "id": 148,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les créatures de type <b>Araknes</b>.",
+    "npcId": 1786
+  },
+  "149": {
+    "id": 149,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de <b>Gros poissons de rivière</b> récupérées par les Pêcheurs sont augmentées de 150 %.",
+    "npcId": 1787
+  },
+  "150": {
+    "id": 150,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Pandissidans</b>.",
+    "npcId": 1788
+  },
+  "151": {
+    "id": 151,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le <b>donjon des Rats de Bonta</b>.",
+    "npcId": 1789
+  },
+  "152": {
+    "id": 152,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>Bord de la forêt Maléfique</b>.",
+    "npcId": 1790
+  },
+  "153": {
+    "id": 153,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>Jungle Obscure</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 1791
+  },
+  "154": {
+    "id": 154,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de <b>Chair d'insecte</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Chair d'Insecte.",
+    "npcId": 1792
+  },
+  "155": {
+    "id": 155,
+    "nameId": "Percepteurs avides",
+    "descId": "Le butin généré par les Percepteurs est augmenté de 300 % dans le <b>donjon du Chêne Mou</b>.",
+    "npcId": 1793
+  },
+  "156": {
+    "id": 156,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Cimetière Primitif</b>.",
+    "npcId": 1794
+  },
+  "157": {
+    "id": 157,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Forgeurs d'armes</b> (dagues, épées, marteaux, pelles et haches) économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1795
+  },
+  "158": {
+    "id": 158,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités de <b>Frostiz</b> récupérées par les Paysans sont augmentées de 150 %.",
+    "npcId": 1796
+  },
+  "159": {
+    "id": 159,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Rats du Château d'Amakna</b>.",
+    "npcId": 1797
+  },
+  "160": {
+    "id": 160,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Coin des Bouftous.",
+    "npcId": 1798
+  },
+  "161": {
+    "id": 161,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de la <b>Jungle Obscure</b>.",
+    "npcId": 1799
+  },
+  "162": {
+    "id": 162,
+    "nameId": "Cueillette abondante",
+    "descId": "Les quantités de <b>Feuilles de Menthe Sauvage</b> récupérées par les Alchimistes sont augmentées de 125 %.",
+    "npcId": 1800
+  },
+  "163": {
+    "id": 163,
+    "nameId": "Vitalité débordante",
+    "descId": "La régénération des <b>Points de Vie</b> est augmentée de 300 % (hors combat), et les <b>soins par consommables</b> sont augmentés de 100 %.",
+    "npcId": 1801
+  },
+  "164": {
+    "id": 164,
+    "nameId": "Butin et XP sur tous les Bouftous",
+    "descId": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur toutes les créatures considérées comme des <b>Bouftous</b>, y compris les Boufmouths et les Boufcouls.",
+    "npcId": 1802
+  },
+  "165": {
+    "id": 165,
+    "nameId": "Fabrication intensive",
+    "descId": "Pour chaque objet fabriqué, les <b>Poissonniers</b> ont 25 % de chances de créer un second objet.",
+    "npcId": 1803
+  },
+  "166": {
+    "id": 166,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone des <b>Crocs de Verre</b>.",
+    "npcId": 1804
+  },
+  "167": {
+    "id": 167,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de la <b>Caverne des Bulbes</b>.",
+    "npcId": 1805
+  },
+  "168": {
+    "id": 168,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la <b>Plaine des Scarafeuilles</b>.",
+    "npcId": 1806
+  },
+  "169": {
+    "id": 169,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de l'<b>île de Grobe</b> : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 1807
+  },
+  "170": {
+    "id": 170,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Bois de Frêne</b> récupérées par les Bûcherons sont augmentées de 125 %.",
+    "npcId": 1808
+  },
+  "171": {
+    "id": 171,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 150 % sur les <b>Kanigrous</b>.",
+    "npcId": 1809
+  },
+  "172": {
+    "id": 172,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Rousses</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1810
+  },
+  "173": {
+    "id": 173,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Lac Gelé</b>.",
+    "npcId": 1811
+  },
+  "174": {
+    "id": 174,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Mulous</b>.",
+    "npcId": 1812
+  },
+  "175": {
+    "id": 175,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités de <b>Cuivre</b> récupérées par les Mineurs sont augmentées de 150 %.",
+    "npcId": 1813
+  },
+  "176": {
+    "id": 176,
+    "nameId": "Expérience amoureuse",
+    "descId": "Tous les personnages atteints par la <b>Malédiction du Ballotin</b> voient leurs gains d'expérience augmentés de 100 % lors des combats contre les monstres.",
+    "npcId": 1814
+  },
+  "177": {
+    "id": 177,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le <b>donjon du Chêne Mou</b>.",
+    "npcId": 1815
+  },
+  "178": {
+    "id": 178,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Chasseurs</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1816
+  },
+  "179": {
+    "id": 179,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Champignons</b>.",
+    "npcId": 1817
+  },
+  "180": {
+    "id": 180,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Abraknydes</b>.",
+    "npcId": 1818
+  },
+  "181": {
+    "id": 181,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de Poissons récupérées par les <b>Pêcheurs</b> de tous niveaux sont augmentées de 100 %.",
+    "npcId": 1819
+  },
+  "182": {
+    "id": 182,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>Tronc de l'Arbre Hakam</b>.",
+    "npcId": 1820
+  },
+  "183": {
+    "id": 183,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de <b>Gisgoul, le village dévasté</b>.",
+    "npcId": 1821
+  },
+  "184": {
+    "id": 184,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Sanctuaire des Dragoeufs</b>.",
+    "npcId": 1822
+  },
+  "185": {
+    "id": 185,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone des <b>Champs de Cania</b>.",
+    "npcId": 1823
+  },
+  "186": {
+    "id": 186,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone des <b>Souterrains profonds d'Astrub</b> : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 1824
+  },
+  "187": {
+    "id": 187,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de l'<b>île de Grobe</b>.",
+    "npcId": 1825
+  },
+  "188": {
+    "id": 188,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Minos</b>.",
+    "npcId": 1826
+  },
+  "189": {
+    "id": 189,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de <b>Cuisses de Wabbit</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Cuisses de Wabbit.",
+    "npcId": 1827
+  },
+  "190": {
+    "id": 190,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Plantes de Moon</b> et <b>Tortues de Moon</b>.",
+    "npcId": 1828
+  },
+  "191": {
+    "id": 191,
+    "nameId": "Butin et XP pour tous",
+    "descId": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 100 % lors des combats contre les monstres. De plus, les gains d'expérience sont augmentés de 50 % pour tous les métiers.",
+    "npcId": 1829
+  },
+  "192": {
+    "id": 192,
+    "nameId": "Cadeaux surprises",
+    "descId": "Des <b>Pochettes-Surprises</b> ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des <b>Beignets de Karnaval</b> ou bien de se retrouver déguisé en <b>Tofu Tout-Fou</b>.",
+    "npcId": 1830
+  },
+  "193": {
+    "id": 193,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de <b>Brâkmar</b>.",
+    "npcId": 1831
+  },
+  "194": {
+    "id": 194,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Vallée de la Morh'Kitu</b>.",
+    "npcId": 1832
+  },
+  "195": {
+    "id": 195,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Bois de Charme</b> et de <b>Bois de Bambou Sombre</b> récupérées par les Bûcherons sont augmentées de 150 %.",
+    "npcId": 1833
+  },
+  "196": {
+    "id": 196,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>forêt Pétrifiée</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 1834
+  },
+  "197": {
+    "id": 197,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les créatures de type <b>Pirates de Moon</b>.",
+    "npcId": 1835
+  },
+  "198": {
+    "id": 198,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>Bourgade</b>.",
+    "npcId": 1836
+  },
+  "199": {
+    "id": 199,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le donjon du <b>Repaire des Pandikazes</b>.",
+    "npcId": 1837
+  },
+  "200": {
+    "id": 200,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Wabbits</b>.",
+    "npcId": 1838
+  },
+  "201": {
+    "id": 201,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités de <b>Houblon</b> récupérées par les Paysans sont augmentées de 125 %.",
+    "npcId": 1839
+  },
+  "202": {
+    "id": 202,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Indigo</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1840
+  },
+  "203": {
+    "id": 203,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de la <b>Tourbière sans fond</b>.",
+    "npcId": 1841
+  },
+  "204": {
+    "id": 204,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Pêcheurs</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1842
+  },
+  "205": {
+    "id": 205,
+    "nameId": "Expérience Robillesque",
+    "descId": "Les gains d'expérience sont augmentés de 100 % sur tous les <b>gardiens de donjon</b>.",
+    "npcId": 1843
+  },
+  "206": {
+    "id": 206,
+    "nameId": "Cueillette abondante",
+    "descId": "Les quantités de <b>Trèfles à 5 Feuilles</b> récupérées par les Alchimistes sont augmentées de 125 %.",
+    "npcId": 1844
+  },
+  "207": {
+    "id": 207,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Sangliers des Plaines</b>.",
+    "npcId": 1845
+  },
+  "208": {
+    "id": 208,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Village des Zoths</b>.",
+    "npcId": 1846
+  },
+  "209": {
+    "id": 209,
+    "nameId": "Bénédiction du Fin Patraque",
+    "descId": "<b>Ayiri Chkofi</b> attend les aventuriers qui veulent boire un petit coup près de la taverne du village d'Amakna. Sa bénédiction transforme temporairement en Bulbinouze (effet qui disparaît quand un combat est lancé) et en Pilier de Comptoir (bonus de 5 % + 10 sur toutes les résistances durant 15 combats).",
+    "npcId": 1847
+  },
+  "210": {
+    "id": 210,
+    "nameId": "Expérience des métiers",
+    "descId": "Les gains d'expérience sont augmentés de 50 % pour les métiers de fabrication d'armes et d'équipements (Forgeurs et Sculpteurs d'armes, Bijoutier, Cordonnier, Tailleur et Forgeur de Boucliers).",
+    "npcId": 1848
+  },
+  "211": {
+    "id": 211,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités de <b>Manganèse</b> récupérées par les Mineurs sont augmentées de 150 %.",
+    "npcId": 1849
+  },
+  "212": {
+    "id": 212,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de la <b>mine abandonnée de Sakaï</b>.",
+    "npcId": 1850
+  },
+  "213": {
+    "id": 213,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 150 % sur les <b>Bouftous</b>.",
+    "npcId": 1851
+  },
+  "214": {
+    "id": 214,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les <b>Craqueleurs des Plaines</b>.",
+    "npcId": 1852
+  },
+  "215": {
+    "id": 215,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des <b>bois</b> de tous types est augmentée de 100 %.",
+    "npcId": 1853
+  },
+  "216": {
+    "id": 216,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone des <b>Champs de Cania</b>.",
+    "npcId": 1854
+  },
+  "217": {
+    "id": 217,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des <b>Cavernes Givrefoux</b>.",
+    "npcId": 1855
+  },
+  "218": {
+    "id": 218,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>Ruche des Gloursons</b>.",
+    "npcId": 1856
+  },
+  "219": {
+    "id": 219,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de <b>Chair de Larve</b> récupérées par les Chasseurs sont augmentées de 125 %. Ce bonus est valable pour toutes les qualités de Chair de Larve.",
+    "npcId": 1857
+  },
+  "220": {
+    "id": 220,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les créatures de type <b>Boufmouths</b>.",
+    "npcId": 1858
+  },
+  "221": {
+    "id": 221,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Berceau d'Alma</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 1859
+  },
+  "222": {
+    "id": 222,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Kitsous</b>.",
+    "npcId": 1860
+  },
+  "223": {
+    "id": 223,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Larves</b>.",
+    "npcId": 1861
+  },
+  "224": {
+    "id": 224,
+    "nameId": "Quête répétable",
+    "descId": "Une quête répétable spéciale est disponible aujourd'hui près du <b>sanctuaire des Zobals</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+    "npcId": 1862
+  },
+  "225": {
+    "id": 225,
+    "nameId": "Butin et XP sur les créatures marines",
+    "descId": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur tous les monstres considérés comme des créatures marines (monstres des plages, crabes, corailleurs, crustorails, tortues de Moon, gélikan, Kralamoure Géant).",
+    "npcId": 1863
+  },
+  "226": {
+    "id": 226,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de <b>Petits poissons de rivière</b> et de <b>mer</b> récupérées par les Pêcheurs sont augmentées de 125 %.",
+    "npcId": 1864
+  },
+  "227": {
+    "id": 227,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de l'<b>île de Grobe</b>.",
+    "npcId": 1865
+  },
+  "228": {
+    "id": 228,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Forgeurs de Boucliers</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1866
+  },
+  "229": {
+    "id": 229,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le <b>donjon des Craqueleurs</b>.",
+    "npcId": 1867
+  },
+  "230": {
+    "id": 230,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Bois de Litneg</b>.",
+    "npcId": 1868
+  },
+  "231": {
+    "id": 231,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités d'<b>Orge</b> récupérées par les Paysans sont augmentées de 125 %.",
+    "npcId": 1869
+  },
+  "232": {
+    "id": 232,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Tortues de Moon</b> et <b>Plantes de Moon</b>.",
+    "npcId": 1870
+  },
+  "233": {
+    "id": 233,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du <b>Centre du Labyrinthe du Minotoror</b>.",
+    "npcId": 1871
+  },
+  "234": {
+    "id": 234,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Pourpres</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1872
+  },
+  "235": {
+    "id": 235,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du <b>Lac de Cania</b> : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 1873
+  },
+  "236": {
+    "id": 236,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Fantômes de Pandala</b>.",
+    "npcId": 1874
+  },
+  "237": {
+    "id": 237,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Bois d'Ebène</b> et de <b>Bois de Kaliptus</b> récupérées par les Bûcherons sont augmentées de 150 %.",
+    "npcId": 1875
+  },
+  "238": {
+    "id": 238,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Monstres du Village des Zoths</b>.",
+    "npcId": 1876
+  },
+  "239": {
+    "id": 239,
+    "nameId": "Fabrication intensive",
+    "descId": "Pour chaque objet fabriqué, les <b>Bricoleurs</b> ont 25 % de chances de créer un second objet.",
+    "npcId": 1877
+  },
+  "240": {
+    "id": 240,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone d'<b>Astrub</b>, ainsi que dans les <b>champs</b> et la <b>forêt d'Astrub</b>.",
+    "npcId": 1878
+  },
+  "241": {
+    "id": 241,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>péninsule des Gelées</b>.",
+    "npcId": 1879
+  },
+  "242": {
+    "id": 242,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les créatures de type <b>Gloursons</b>.",
+    "npcId": 1880
+  },
+  "243": {
+    "id": 243,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités d'<b>Or</b> récupérées par les Mineurs sont augmentées de 150 %.",
+    "npcId": 1881
+  },
+  "244": {
+    "id": 244,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Bordure de Feudala</b>.",
+    "npcId": 1882
+  },
+  "245": {
+    "id": 245,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon du <b>Centre du Labyrinthe du Minotoror</b>.",
+    "npcId": 1883
+  },
+  "246": {
+    "id": 246,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des ressources est augmentée de 150 % dans les zones de la <b>Rivière Kawaii</b> et du <b>Port de Madrestam</b>.",
+    "npcId": 1884
+  },
+  "247": {
+    "id": 247,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Monstres des Tourbières</b>.",
+    "npcId": 1885
+  },
+  "248": {
+    "id": 248,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>montagne des Craqueleurs</b>.",
+    "npcId": 1886
+  },
+  "249": {
+    "id": 249,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de <b>Museaux</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Museaux.",
+    "npcId": 1887
+  },
+  "250": {
+    "id": 250,
+    "nameId": "Quêtes et kamas",
+    "descId": "Les gains de <b>kamas</b> sont augmentés de 100 % pour toutes les quêtes.",
+    "npcId": 1888
+  },
+  "251": {
+    "id": 251,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>Route de Brâkmar</b> : une étoile apparaît toutes les 15 minutes.",
+    "npcId": 1889
+  },
+  "252": {
+    "id": 252,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Mineurs</b> économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1890
+  },
+  "253": {
+    "id": 253,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Pious</b>.",
+    "npcId": 1891
+  },
+  "254": {
+    "id": 254,
+    "nameId": "Cueillette abondante",
+    "descId": "Les quantités de <b>Plantes</b> récupérées par les Alchimistes de tous niveaux sont augmentées de 100 %.",
+    "npcId": 1892
+  },
+  "256": {
+    "id": 256,
+    "nameId": "Fabrique Féérique",
+    "descId": "Pour chaque <b>Fée d'Artifice</b> fabriquée, les personnages ont 25 % de chances de créer une seconde Fée et 10 % de chances d'économiser des ingrédients. Ils peuvent aussi récupérer 2 fois plus de <b>Capsules Explosives</b> en combattant des Bworks Mages.",
+    "npcId": 1923
+  },
+  "257": {
+    "id": 257,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le <b>donjon Fungus</b>.",
+    "npcId": 1924
+  },
+  "258": {
+    "id": 258,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Monstres de l'Arbre Hakam</b>.",
+    "npcId": 1925
+  },
+  "259": {
+    "id": 259,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 250 % sur les <b>Onis</b>.",
+    "npcId": 1926
+  },
+  "260": {
+    "id": 260,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone des <b>Plaines Herbeuses</b>.",
+    "npcId": 1927
+  },
+  "261": {
+    "id": 261,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Bombu</b>, d'<b>Oliviolet</b> et d'<b>Érable</b> récupérées par les Bûcherons sont augmentées de 125 %.",
+    "npcId": 1928
+  },
+  "262": {
+    "id": 262,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de <b>la Bourgade</b>, ainsi que dans les <b>Champs de Glace</b>.",
+    "npcId": 1929
+  },
+  "263": {
+    "id": 263,
+    "nameId": "Quête répétable",
+    "descId": "Une quête répétable spéciale est disponible aujourd'hui près du <b>château d'Amakna</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+    "npcId": 1930
+  },
+  "264": {
+    "id": 264,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Canyon Sauvage</b>.",
+    "npcId": 1931
+  },
+  "265": {
+    "id": 265,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Turquoise</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1932
+  },
+  "266": {
+    "id": 266,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Plaine des Scarafeuilles</b>.",
+    "npcId": 1933
+  },
+  "267": {
+    "id": 267,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités de <b>Malt</b> récupérées par les Paysans sont augmentées de 125 %.",
+    "npcId": 1934
+  },
+  "268": {
+    "id": 268,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du <b>Repaire de Skeunk</b>.",
+    "npcId": 1935
+  },
+  "269": {
+    "id": 269,
+    "nameId": "Objets de qualité",
+    "descId": "La qualité des objets fabriqués dans la ville d'<b>Astrub</b> est augmentée.",
+    "npcId": 1936
+  },
+  "270": {
+    "id": 270,
+    "nameId": "Cadeaux Surprises",
+    "descId": "Des <b>Boufballes Surprises</b> ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des <b>Bouf'gommes</b> de différents parfums.",
+    "npcId": 1937
+  },
+  "271": {
+    "id": 271,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des <b>plantes</b> cueillies par les Alchimistes est augmentée de 100 %.",
+    "npcId": 1938
+  },
+  "272": {
+    "id": 272,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Roissingues</b>.",
+    "npcId": 1939
+  },
+  "273": {
+    "id": 273,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>forêt de Pandala</b> : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 1940
+  },
+  "274": {
+    "id": 274,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités d'<b>Étain</b> et de <b>Silicate</b> récupérées par les Mineurs sont augmentées de 150 %.",
+    "npcId": 1941
+  },
+  "275": {
+    "id": 275,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Dopeuls de temple</b>.",
+    "npcId": 1942
+  },
+  "276": {
+    "id": 276,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Tailleurs</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1943
+  },
+  "277": {
+    "id": 277,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone des <b>Cavernes des Givrefoux</b>.",
+    "npcId": 1944
+  },
+  "278": {
+    "id": 278,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de <b>Poissons de rivière géants</b> récupérées par les Pêcheurs sont augmentées de 150 %.",
+    "npcId": 1945
+  },
+  "279": {
+    "id": 279,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le <b>donjon des Champs</b>.",
+    "npcId": 1946
+  },
+  "280": {
+    "id": 280,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Feuillage de l'Arbre Hakam</b>.",
+    "npcId": 1947
+  },
+  "281": {
+    "id": 281,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de l'<b>Élevage de Bouftous du Château d'Amakna</b>.",
+    "npcId": 1948
+  },
+  "282": {
+    "id": 282,
+    "nameId": "Fabrication intensive",
+    "descId": "Pour chaque objet fabriqué, les <b>Boulangers</b> ont 25 % de chances de créer un second objet.",
+    "npcId": 1949
+  },
+  "283": {
+    "id": 283,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de viande récupérées par les Chasseurs sur les créatures de Frigost qui vivent dans <b>la Bourgade</b> sont augmentées de 125 %.",
+    "npcId": 1950
+  },
+  "284": {
+    "id": 284,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>forêt de Kaliptus</b> : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 1951
+  },
+  "285": {
+    "id": 285,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Dragoeufs</b>.",
+    "npcId": 1952
+  },
+  "286": {
+    "id": 286,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>forêt Pétrifiée</b>.",
+    "npcId": 1953
+  },
+  "287": {
+    "id": 287,
+    "nameId": "Gardiens de la nature",
+    "descId": "Les <b>protecteurs de ressources</b> ont 5 fois plus de chances d'apparaître pendant les activités de récolte.",
+    "npcId": 1954
+  },
+  "288": {
+    "id": 288,
+    "nameId": "Quête répétable",
+    "descId": "Une quête répétable spéciale est disponible aujourd'hui à l'est de l'atelier des bûcherons de la <b>forêt d'Amakna</b>. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+    "npcId": 1955
+  },
+  "289": {
+    "id": 289,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les créatures de type <b>Monstres des plages</b>.",
+    "npcId": 1956
+  },
+  "290": {
+    "id": 290,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>port de Madrestam</b>.",
+    "npcId": 1957
+  },
+  "291": {
+    "id": 291,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Forgerons</b>.",
+    "npcId": 1958
+  },
+  "292": {
+    "id": 292,
+    "nameId": "Percepteurs zélés",
+    "descId": "Le butin généré par les Percepteurs est augmenté de 200 % dans toutes les zones.",
+    "npcId": 1959
+  },
+  "293": {
+    "id": 293,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités de minerai récupérées par les <b>Mineurs</b> de tous niveaux sont augmentées de 100 %.",
+    "npcId": 1960
+  },
+  "294": {
+    "id": 294,
+    "nameId": "Butin frigostien",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur le <b>Comte Harebourg</b> et ses 4 lieutenants, ainsi que sur leurs <b>créatures</b>.",
+    "npcId": 1961
+  },
+  "295": {
+    "id": 295,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Givrefoux</b>.",
+    "npcId": 1962
+  },
+  "296": {
+    "id": 296,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>forêt de Pandala</b>.",
+    "npcId": 1963
+  },
+  "297": {
+    "id": 297,
+    "nameId": "Cueillette abondante",
+    "descId": "Les quantités d'<b>Orchidée Freyesque</b> récupérées par les Alchimistes sont augmentées de 150 %.",
+    "npcId": 1964
+  },
+  "298": {
+    "id": 298,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Amande</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 1965
+  },
+  "299": {
+    "id": 299,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la <b>plage de Moon</b>.",
+    "npcId": 1966
+  },
+  "300": {
+    "id": 300,
+    "nameId": "Objets de qualité",
+    "descId": "La qualité des objets fabriqués dans la ville de <b>la Bourgade</b> est augmentée.",
+    "npcId": 1967
+  },
+  "301": {
+    "id": 301,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>Caverne des Fungus</b>.",
+    "npcId": 1968
+  },
+  "302": {
+    "id": 302,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Bricoleurs</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 1969
+  },
+  "303": {
+    "id": 303,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Merisier</b> récupérées par les Bûcherons sont augmentées de 125 %.",
+    "npcId": 1970
+  },
+  "304": {
+    "id": 304,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>Village des Dragoeufs</b>.",
+    "npcId": 1971
+  },
+  "305": {
+    "id": 305,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Bulbigs</b>. Le Bulbig Brozeur n'est pas concerné par ce bonus.",
+    "npcId": 1972
+  },
+  "306": {
+    "id": 306,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le <b>donjon des Dragoeufs</b>.",
+    "npcId": 1973
+  },
+  "307": {
+    "id": 307,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 250 % sur les <b>Kitsous Nufeus</b>.",
+    "npcId": 1974
+  },
+  "308": {
+    "id": 308,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités de <b>Blé</b> récupérées par les Paysans sont augmentées de 125 %.",
+    "npcId": 1975
+  },
+  "309": {
+    "id": 309,
+    "nameId": "Tarif réduit",
+    "descId": "Le coût d'utilisation des <b>Zaaps</b>, les <b>frais bancaires</b>  et les taxes des <b>Hôtels de vente</b> bénéficient d'une réduction de 50 %.",
+    "npcId": 1976
+  },
+  "310": {
+    "id": 310,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>Plage de Corail</b> : une étoile apparaît toutes les 15 minutes.",
+    "npcId": 1977
+  },
+  "311": {
+    "id": 311,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Feuillage de l'Arbre Hakam</b>.",
+    "npcId": 1978
+  },
+  "312": {
+    "id": 312,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Plantes des Champs</b>.",
+    "npcId": 1979
+  },
+  "313": {
+    "id": 313,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone des <b>Landes de Sidimote</b>.",
+    "npcId": 1980
+  },
+  "314": {
+    "id": 314,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>village de Pandala</b>.",
+    "npcId": 1981
+  },
+  "315": {
+    "id": 315,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de l'<b>Antre du Kralamoure Géant</b>.",
+    "npcId": 1982
+  },
+  "316": {
+    "id": 316,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone de la <b>forêt des Abraknydes</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 1983
+  },
+  "317": {
+    "id": 317,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de <b>Cuisses de Boufton et de Bouftou</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Cuisses de Bouftou.",
+    "npcId": 1984
+  },
+  "318": {
+    "id": 318,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de l'<b>île du Minotoror</b>.",
+    "npcId": 1985
+  },
+  "319": {
+    "id": 319,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 150 % sur les <b>Chefs Crocodailles</b>.",
+    "npcId": 2072
+  },
+  "320": {
+    "id": 320,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de la <b>forêt d'Amakna</b>.",
+    "npcId": 2073
+  },
+  "321": {
+    "id": 321,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Alchimistes</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 2074
+  },
+  "322": {
+    "id": 322,
+    "nameId": "Objets de qualité",
+    "descId": "La qualité des objets fabriqués dans le <b>village et la forêt d'Amakna</b> est augmentée.",
+    "npcId": 2075
+  },
+  "323": {
+    "id": 323,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le <b>donjon des Kitsounes</b>.",
+    "npcId": 2076
+  },
+  "324": {
+    "id": 324,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de <b>Poissons de rivière</b> de taille moyenne récupérées par les Pêcheurs sont augmentées de 150 %.",
+    "npcId": 2077
+  },
+  "325": {
+    "id": 325,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des <b>Larmes d'Ouronigride</b>.",
+    "npcId": 2078
+  },
+  "326": {
+    "id": 326,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 200 % sur les <b>Boufcouls</b> et les <b>Bouftous des Cavernes</b>.",
+    "npcId": 2079
+  },
+  "327": {
+    "id": 327,
+    "nameId": "Expérience des métiers",
+    "descId": "Les gains d'expérience sont augmentés de 50 % pour les <b>métiers de récolte</b>.",
+    "npcId": 2080
+  },
+  "328": {
+    "id": 328,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de <b>Dragodindes Prune</b> donnent naissance à un bébé supplémentaire.",
+    "npcId": 2081
+  },
+  "329": {
+    "id": 329,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités de <b>Bauxite</b> récupérées par les Mineurs sont augmentées de 150 %.",
+    "npcId": 2082
+  },
+  "330": {
+    "id": 330,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone des <b>Champs de Glace</b>.",
+    "npcId": 2083
+  },
+  "331": {
+    "id": 331,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone des <b>Larmes d'Ouronigride</b>.",
+    "npcId": 2084
+  },
+  "332": {
+    "id": 332,
+    "nameId": "Expérience du Kolizéum",
+    "descId": "Les gains d'expérience sont augmentés de 100 % lors des combats du <b>Kolizéum</b>.",
+    "npcId": 2085
+  },
+  "333": {
+    "id": 333,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de <b>Dragoviande</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Dragoviande.",
+    "npcId": 2086
+  },
+  "334": {
+    "id": 334,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Monstres de Vulkania</b>.",
+    "npcId": 2087
+  },
+  "335": {
+    "id": 335,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone des <b>Prairies d'Astrub</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 2088
+  },
+  "336": {
+    "id": 336,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du <b>Coin des Bouftous</b>.",
+    "npcId": 2089
+  },
+  "337": {
+    "id": 337,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le donjon de la <b>Grotte Hesque</b>.",
+    "npcId": 2090
+  },
+  "338": {
+    "id": 338,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des <b>céréales</b> récoltées par les <b>Paysans</b> est augmentée de 100 %.",
+    "npcId": 2091
+  },
+  "339": {
+    "id": 339,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Village des Zoths</b>.",
+    "npcId": 2092
+  },
+  "340": {
+    "id": 340,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les créatures de type <b>Monstres de la Bourgade</b>.",
+    "npcId": 2093
+  },
+  "341": {
+    "id": 341,
+    "nameId": "Familiers Frénétiques",
+    "descId": "Les bonus apportés par les familiers et les montiliers sont augmentés de 100 %.",
+    "npcId": 2094
+  },
+  "342": {
+    "id": 342,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Tremble</b>, de <b>Bambou Sacré</b> et d'<b>Orme</b> récupérées par les Bûcherons sont augmentées de 200 %.",
+    "npcId": 2095
+  },
+  "343": {
+    "id": 343,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Cochons</b>.",
+    "npcId": 2096
+  },
+  "344": {
+    "id": 344,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone de la <b>forêt des Pins Perdus</b>.",
+    "npcId": 2097
+  },
+  "345": {
+    "id": 345,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Bouchers</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 2098
+  },
+  "346": {
+    "id": 346,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans les zones de la <b>forêt Enneigée</b> et de la <b>plaine de Sakaï</b> : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 2099
+  },
+  "347": {
+    "id": 347,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon du <b>Repaire de Daïgoro</b>.",
+    "npcId": 2100
+  },
+  "348": {
+    "id": 348,
+    "nameId": "Butin et XP dans la Maison Fantôme",
+    "descId": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 125 % dans le donjon de la <b>Maison Fantôme</b>.",
+    "npcId": 2101
+  },
+  "349": {
+    "id": 349,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Monstres de Vulkania</b>.",
+    "npcId": 2102
+  },
+  "350": {
+    "id": 350,
+    "nameId": "Cueillette abondante",
+    "descId": "Les quantités d'<b>Edelweiss</b> et de <b>Graines de Pandouille</b> récupérées par les Alchimistes sont augmentées de 175 %.",
+    "npcId": 2103
+  },
+  "351": {
+    "id": 351,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Tofus</b>.",
+    "npcId": 2104
+  },
+  "352": {
+    "id": 352,
+    "nameId": "Quête répétable",
+    "descId": "Une quête répétable spéciale est disponible aujourd'hui au sud des portes de Bonta. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+    "npcId": 2105
+  },
+  "353": {
+    "id": 353,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les créatures de type <b>Monstres de Vulkania</b>.",
+    "npcId": 2106
+  },
+  "354": {
+    "id": 354,
+    "nameId": "Pêche abondante",
+    "descId": "Les quantités de <b>Poissons de Frigost</b> récupérées par les Pêcheurs sont augmentées de 150 %.",
+    "npcId": 2107
+  },
+  "355": {
+    "id": 355,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone des <b>Calanques d'Astrub</b>.",
+    "npcId": 2108
+  },
+  "356": {
+    "id": 356,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon de l'<b>Antre du Blop Multicolore Royal</b>.",
+    "npcId": 2109
+  },
+  "357": {
+    "id": 357,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de <b>Bonta</b>.",
+    "npcId": 2110
+  },
+  "358": {
+    "id": 358,
+    "nameId": "Récolte abondante",
+    "descId": "Les quantités de céréales récupérées par les Paysans de tous niveaux sont augmentées de 100 %.",
+    "npcId": 2111
+  },
+  "359": {
+    "id": 359,
+    "nameId": "Élevage de Dragodindes",
+    "descId": "Toutes les variétés de Dragodindes capables de se reproduire donnent naissance à un bébé supplémentaire.",
+    "npcId": 2112
+  },
+  "360": {
+    "id": 360,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de l'<b>île de Grobe</b>.",
+    "npcId": 2113
+  },
+  "361": {
+    "id": 361,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Kannibouls de l'île de Moon</b>.",
+    "npcId": 2114
+  },
+  "362": {
+    "id": 362,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type <b>Monstres de Vulkania</b>.",
+    "npcId": 2115
+  },
+  "363": {
+    "id": 363,
+    "nameId": "Apparition des ressources",
+    "descId": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone de la <b>forêt d'Amakna</b>.",
+    "npcId": 2116
+  },
+  "364": {
+    "id": 364,
+    "nameId": "Étoiles défilantes",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée pour toutes les zones : une étoile apparaît toutes les 30 minutes.",
+    "npcId": 2117
+  },
+  "365": {
+    "id": 365,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 100 % dans la zone du <b>Pichon Frétillant</b>.",
+    "npcId": 2118
+  },
+  "366": {
+    "id": 366,
+    "nameId": "Minerai abondant",
+    "descId": "Les quantités de <b>Bronze</b> récupérées par les Mineurs sont augmentées de 150 %.",
+    "npcId": 2119
+  },
+  "367": {
+    "id": 367,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type <b>Minos</b>.",
+    "npcId": 2120
+  },
+  "368": {
+    "id": 368,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les <b>Paysans</b> ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+    "npcId": 2121
+  },
+  "369": {
+    "id": 369,
+    "nameId": "Challenges augmentés",
+    "descId": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la <b>plaine des Porkass</b>.",
+    "npcId": 2122
+  },
+  "370": {
+    "id": 370,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans les zones des <b>forêts de Vulkania</b> : une étoile apparaît toutes les 10 minutes.",
+    "npcId": 2123
+  },
+  "371": {
+    "id": 371,
+    "nameId": "Gibier abondant",
+    "descId": "Les quantités de <b>Carrés de Porc</b> récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Carrés de Porc.",
+    "npcId": 2124
+  },
+  "372": {
+    "id": 372,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du <b>Mont Torrideau</b>.",
+    "npcId": 2125
+  },
+  "373": {
+    "id": 373,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 125 % dans le <b>donjon du Bworker</b>.",
+    "npcId": 2126
+  },
+  "374": {
+    "id": 374,
+    "nameId": "Challenge supplémentaire",
+    "descId": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du <b>champ des Ingalsses</b>.",
+    "npcId": 2127
+  },
+  "375": {
+    "id": 375,
+    "nameId": "Percepteurs avides",
+    "descId": "Le butin généré par les Percepteurs est augmenté de 300 % dans le <b>donjon des Dragoeufs</b>.",
+    "npcId": 2128
+  },
+  "376": {
+    "id": 376,
+    "nameId": "Points d'expérience",
+    "descId": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type <b>Monstres du Berceau d'Alma</b>.",
+    "npcId": 2129
+  },
+  "377": {
+    "id": 377,
+    "nameId": "Bois abondant",
+    "descId": "Les quantités de <b>Noyer</b> récupérées par les Bûcherons sont augmentées de 150 %.",
+    "npcId": 2130
+  },
+  "378": {
+    "id": 378,
+    "nameId": "Butin",
+    "descId": "Les chances d'obtenir du butin sont augmentées de 125 % dans le <b>donjon des Blops</b>.",
+    "npcId": 2131
+  },
+  "379": {
+    "id": 379,
+    "nameId": "Apparition des étoiles",
+    "descId": "La vitesse d'apparition des étoiles sur les groupes de monstres est augmentée dans la zone du Labyrinthe du Dragon Cochon : une étoile apparaît toutes les 5 minutes.",
+    "npcId": 2132
+  },
+  "380": {
+    "id": 380,
+    "nameId": "Économie d'ingrédients",
+    "descId": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de la <b>forêt d'Amakna</b>.",
+    "npcId": 2133
+  }
+}

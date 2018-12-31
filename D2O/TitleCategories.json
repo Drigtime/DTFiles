@@ -1,1 +1,9 @@
-{"1":{"id":1,"nameId":"Divers"},"4":{"id":4,"nameId":"Artisans primordiaux"},"5":{"id":5,"nameId":"Communautaires"},"6":{"id":6,"nameId":"Héroïques"},"7":{"id":7,"nameId":"Evènementiel"},"8":{"id":8,"nameId":"Animations"},"9":{"id":9,"nameId":"Promotions"}}
+{
+  "1": { "id": 1, "nameId": "Divers" },
+  "4": { "id": 4, "nameId": "Artisans primordiaux" },
+  "5": { "id": 5, "nameId": "Communautaires" },
+  "6": { "id": 6, "nameId": "Héroïques" },
+  "7": { "id": 7, "nameId": "Evènementiel" },
+  "8": { "id": 8, "nameId": "Animations" },
+  "9": { "id": 9, "nameId": "Promotions" }
+}

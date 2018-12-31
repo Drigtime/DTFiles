@@ -1,1 +1,15 @@
-{"1":{"id":1,"nameId":"Divers"},"2":{"id":2,"nameId":"Classes"},"3":{"id":3,"nameId":"Lettres"},"4":{"id":4,"nameId":"Créatures"},"5":{"id":5,"nameId":"Végétaux"},"6":{"id":6,"nameId":"Astres"},"7":{"id":7,"nameId":"Croix"},"8":{"id":8,"nameId":"Ossements"},"9":{"id":9,"nameId":"Armes"},"10":{"id":10,"nameId":"Cœurs"},"11":{"id":11,"nameId":"Éléments"},"12":{"id":12,"nameId":"Musique"},"13":{"id":13,"nameId":"Admins"}}
+{
+  "1": { "id": 1, "nameId": "Divers" },
+  "2": { "id": 2, "nameId": "Classes" },
+  "3": { "id": 3, "nameId": "Lettres" },
+  "4": { "id": 4, "nameId": "Créatures" },
+  "5": { "id": 5, "nameId": "Végétaux" },
+  "6": { "id": 6, "nameId": "Astres" },
+  "7": { "id": 7, "nameId": "Croix" },
+  "8": { "id": 8, "nameId": "Ossements" },
+  "9": { "id": 9, "nameId": "Armes" },
+  "10": { "id": 10, "nameId": "Cœurs" },
+  "11": { "id": 11, "nameId": "Éléments" },
+  "12": { "id": 12, "nameId": "Musique" },
+  "13": { "id": 13, "nameId": "Admins" }
+}

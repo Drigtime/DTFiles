@@ -1,1 +1,1373 @@
-{"0":{"id":0,"nameId":"Neutre","preventsSpellCast":false,"preventsFight":false,"critical":true},"1":{"id":1,"nameId":"Saoul","preventsSpellCast":false,"preventsFight":true,"critical":false},"2":{"id":2,"nameId":"Chercheur d'âmes","preventsSpellCast":false,"preventsFight":false,"critical":false},"3":{"id":3,"nameId":"Porteur","preventsSpellCast":true,"preventsFight":true,"critical":false},"4":{"id":4,"nameId":"Peureux","preventsSpellCast":false,"preventsFight":false,"critical":true},"5":{"id":5,"nameId":"Désorienté","preventsSpellCast":false,"preventsFight":false,"critical":true},"6":{"id":6,"nameId":"Enraciné","preventsSpellCast":false,"preventsFight":false,"critical":false},"7":{"id":7,"nameId":"Pesanteur","preventsSpellCast":false,"preventsFight":false,"critical":true},"8":{"id":8,"nameId":"Porté","preventsSpellCast":false,"preventsFight":false,"critical":false},"9":{"id":9,"nameId":"Motivation Sylvestre","preventsSpellCast":false,"preventsFight":false,"critical":true},"10":{"id":10,"nameId":"Apprivoisement","preventsSpellCast":false,"preventsFight":false,"critical":false},"11":{"id":11,"nameId":"Chevauchant","preventsSpellCast":false,"preventsFight":false,"critical":true},"12":{"id":12,"nameId":"Pas sage","preventsSpellCast":false,"preventsFight":false,"critical":true},"13":{"id":13,"nameId":"Vraiment pas sage","preventsSpellCast":false,"preventsFight":false,"critical":true},"14":{"id":14,"nameId":"Enneigé","preventsSpellCast":false,"preventsFight":false,"critical":true},"15":{"id":15,"nameId":"Eveillé","preventsSpellCast":false,"preventsFight":false,"critical":true},"16":{"id":16,"nameId":"Fragilisé","preventsSpellCast":false,"preventsFight":false,"critical":true},"17":{"id":17,"nameId":"Séparé","preventsSpellCast":false,"preventsFight":false,"critical":true},"18":{"id":18,"nameId":"Gelé","preventsSpellCast":true,"preventsFight":true,"critical":true},"19":{"id":19,"nameId":"Fissuré","preventsSpellCast":true,"preventsFight":true,"critical":true},"26":{"id":26,"nameId":"Endormi","preventsSpellCast":false,"preventsFight":false,"critical":true},"27":{"id":27,"nameId":"Léopardo","preventsSpellCast":false,"preventsFight":false,"critical":true},"28":{"id":28,"nameId":"Libre","preventsSpellCast":false,"preventsFight":false,"critical":true},"29":{"id":29,"nameId":"Glyphe impaire","preventsSpellCast":false,"preventsFight":false,"critical":true},"30":{"id":30,"nameId":"Glyphe paire","preventsSpellCast":false,"preventsFight":false,"critical":true},"31":{"id":31,"nameId":"Encre primaire","preventsSpellCast":false,"preventsFight":false,"critical":true},"32":{"id":32,"nameId":"Encre secondaire","preventsSpellCast":false,"preventsFight":false,"critical":true},"33":{"id":33,"nameId":"Encre tertiaire","preventsSpellCast":false,"preventsFight":false,"critical":true},"34":{"id":34,"nameId":"Encre quaternaire","preventsSpellCast":false,"preventsFight":false,"critical":true},"35":{"id":35,"nameId":"Envie de tuer","preventsSpellCast":false,"preventsFight":false,"critical":true},"36":{"id":36,"nameId":"Envie de paralyser","preventsSpellCast":false,"preventsFight":false,"critical":true},"37":{"id":37,"nameId":"Envie de maudire","preventsSpellCast":false,"preventsFight":false,"critical":true},"38":{"id":38,"nameId":"Envie d'empoisonner","preventsSpellCast":false,"preventsFight":false,"critical":true},"39":{"id":39,"nameId":"Flou","preventsSpellCast":false,"preventsFight":false,"critical":true},"40":{"id":40,"nameId":"Corrompu","preventsSpellCast":false,"preventsFight":false,"critical":true},"41":{"id":41,"nameId":"Silencieux","preventsSpellCast":true,"preventsFight":false,"critical":false},"42":{"id":42,"nameId":"Affaibli","preventsSpellCast":false,"preventsFight":true,"critical":false},"43":{"id":43,"preventsSpellCast":false,"preventsFight":false,"critical":true},"44":{"id":44,"preventsSpellCast":false,"preventsFight":false,"critical":true},"46":{"id":46,"preventsSpellCast":false,"preventsFight":false,"critical":true},"47":{"id":47,"preventsSpellCast":false,"preventsFight":false,"critical":true},"48":{"id":48,"nameId":"Confus","preventsSpellCast":false,"preventsFight":false,"critical":false},"49":{"id":49,"nameId":"Goulifié","preventsSpellCast":false,"preventsFight":false,"critical":false},"50":{"id":50,"nameId":"Altruiste","preventsSpellCast":false,"preventsFight":false,"critical":false},"51":{"id":51,"preventsSpellCast":false,"preventsFight":false,"critical":false},"52":{"id":52,"preventsSpellCast":false,"preventsFight":false,"critical":false},"53":{"id":53,"preventsSpellCast":false,"preventsFight":false,"critical":false},"54":{"id":54,"preventsSpellCast":false,"preventsFight":false,"critical":false},"55":{"id":55,"nameId":"Retraité","preventsSpellCast":false,"preventsFight":false,"critical":true},"56":{"id":56,"nameId":"Invulnérable","preventsSpellCast":false,"preventsFight":false,"critical":true},"57":{"id":57,"nameId":"Compte à rebours - 2","preventsSpellCast":false,"preventsFight":false,"critical":false},"58":{"id":58,"nameId":"Compte à rebours - 1","preventsSpellCast":false,"preventsFight":false,"critical":false},"60":{"id":60,"nameId":"Dévoué","preventsSpellCast":false,"preventsFight":false,"critical":false},"61":{"id":61,"nameId":"Bagarreur","preventsSpellCast":false,"preventsFight":false,"critical":false},"63":{"id":63,"nameId":"Lourd","preventsSpellCast":false,"preventsFight":false,"critical":false},"64":{"id":64,"nameId":"Glyphangueur","preventsSpellCast":false,"preventsFight":false,"critical":false},"65":{"id":65,"nameId":"Oméga","preventsSpellCast":false,"preventsFight":false,"critical":false},"66":{"id":66,"nameId":"Alpha","preventsSpellCast":false,"preventsFight":false,"critical":false},"67":{"id":67,"nameId":"Bêta","preventsSpellCast":false,"preventsFight":false,"critical":false},"68":{"id":68,"nameId":"Gamma","preventsSpellCast":false,"preventsFight":false,"critical":false},"69":{"id":69,"nameId":"Delta","preventsSpellCast":false,"preventsFight":false,"critical":false},"70":{"id":70,"nameId":"Alpha de Kordis","preventsSpellCast":false,"preventsFight":false,"critical":false},"71":{"id":71,"nameId":"Bêta de Kordis","preventsSpellCast":false,"preventsFight":false,"critical":false},"72":{"id":72,"nameId":"Gamma de Kordis","preventsSpellCast":false,"preventsFight":false,"critical":false},"73":{"id":73,"nameId":"Enragé","preventsSpellCast":false,"preventsFight":false,"critical":false},"74":{"id":74,"nameId":"Zombi","preventsSpellCast":false,"preventsFight":false,"critical":false},"76":{"id":76,"nameId":"Insoignable","preventsSpellCast":false,"preventsFight":false,"critical":false},"77":{"id":77,"nameId":"Faiblesse","preventsSpellCast":false,"preventsFight":false,"critical":true},"78":{"id":78,"nameId":"Germe","preventsSpellCast":false,"preventsFight":false,"critical":false},"79":{"id":79,"nameId":"Seconde","preventsSpellCast":false,"preventsFight":false,"critical":false},"80":{"id":80,"nameId":"Tierce","preventsSpellCast":false,"preventsFight":false,"critical":false},"81":{"id":81,"nameId":"Quarte","preventsSpellCast":false,"preventsFight":false,"critical":false},"82":{"id":82,"nameId":"Quinte","preventsSpellCast":false,"preventsFight":false,"critical":false},"83":{"id":83,"nameId":"Sixte","preventsSpellCast":false,"preventsFight":false,"critical":false},"84":{"id":84,"nameId":"Septième","preventsSpellCast":false,"preventsFight":false,"critical":false},"85":{"id":85,"nameId":"Octave","preventsSpellCast":false,"preventsFight":false,"critical":false},"86":{"id":86,"nameId":"Fulguration","preventsSpellCast":false,"preventsFight":false,"critical":false},"87":{"id":87,"nameId":"Floutage","preventsSpellCast":false,"preventsFight":false,"critical":false},"88":{"id":88,"nameId":"Résuglours","preventsSpellCast":false,"preventsFight":false,"critical":false},"89":{"id":89,"nameId":"Flamboyant","preventsSpellCast":false,"preventsFight":false,"critical":false},"90":{"id":90,"nameId":"Ectoplasmique","preventsSpellCast":false,"preventsFight":false,"critical":false},"91":{"id":91,"nameId":"Ardent","preventsSpellCast":false,"preventsFight":false,"critical":false},"92":{"id":92,"nameId":"Kaboom","preventsSpellCast":false,"preventsFight":false,"critical":false},"93":{"id":93,"nameId":"Fonso Cacnoob","preventsSpellCast":false,"preventsFight":false,"critical":false},"94":{"id":94,"nameId":"Pacette Foinoube","preventsSpellCast":false,"preventsFight":false,"critical":false},"95":{"id":95,"nameId":"Intacleur","preventsSpellCast":false,"preventsFight":false,"critical":false},"96":{"id":96,"nameId":"Intaclable","preventsSpellCast":false,"preventsFight":false,"critical":false},"97":{"id":97,"nameId":"Indéplaçable","preventsSpellCast":false,"preventsFight":false,"critical":false},"98":{"id":98,"nameId":"Classe","preventsSpellCast":false,"preventsFight":false,"critical":false},"99":{"id":99,"nameId":"Psychopathe","preventsSpellCast":false,"preventsFight":false,"critical":false},"100":{"id":100,"nameId":"Pleutre","preventsSpellCast":false,"preventsFight":false,"critical":false},"101":{"id":101,"nameId":"Archer","preventsSpellCast":false,"preventsFight":false,"critical":false},"102":{"id":102,"nameId":"Gorgouillis","preventsSpellCast":false,"preventsFight":false,"critical":false},"103":{"id":103,"nameId":"Fortifié","preventsSpellCast":false,"preventsFight":false,"critical":false},"104":{"id":104,"nameId":"Rupture","preventsSpellCast":false,"preventsFight":false,"critical":false},"105":{"id":105,"nameId":"Tyrannisé","preventsSpellCast":false,"preventsFight":false,"critical":false},"106":{"id":106,"nameId":"Météoroïde","preventsSpellCast":false,"preventsFight":false,"critical":false},"107":{"id":107,"nameId":"Masse Critique","preventsSpellCast":false,"preventsFight":false,"critical":false},"108":{"id":108,"nameId":"Apocalypse","preventsSpellCast":false,"preventsFight":false,"critical":false},"109":{"id":109,"nameId":"Rubilax","preventsSpellCast":false,"preventsFight":false,"critical":false},"110":{"id":110,"nameId":"« L'Épée »","preventsSpellCast":false,"preventsFight":false,"critical":false},"111":{"id":111,"nameId":"Première Marque de Daïgoro","preventsSpellCast":false,"preventsFight":false,"critical":false},"112":{"id":112,"nameId":"Deuxième Marque de Daïgoro","preventsSpellCast":false,"preventsFight":false,"critical":false},"113":{"id":113,"nameId":"Troisième Marque de Daïgoro","preventsSpellCast":false,"preventsFight":false,"critical":false},"114":{"id":114,"nameId":"Quatrième Marque de Daïgoro","preventsSpellCast":false,"preventsFight":false,"critical":false},"115":{"id":115,"nameId":"Cinquième Marque de Daïgoro","preventsSpellCast":false,"preventsFight":true,"critical":false},"116":{"id":116,"nameId":"Vert de Terre","preventsSpellCast":false,"preventsFight":false,"critical":false},"117":{"id":117,"nameId":"Rose aux Flammes","preventsSpellCast":false,"preventsFight":false,"critical":false},"118":{"id":118,"nameId":"Azur Bain","preventsSpellCast":false,"preventsFight":false,"critical":false},"119":{"id":119,"nameId":"Ex Jaune Air","preventsSpellCast":false,"preventsFight":false,"critical":false},"120":{"id":120,"nameId":"Déplacé","preventsSpellCast":false,"preventsFight":false,"critical":false},"121":{"id":121,"nameId":"Charge","preventsSpellCast":false,"preventsFight":false,"critical":false},"122":{"id":122,"nameId":"Décharge","preventsSpellCast":false,"preventsFight":false,"critical":false},"123":{"id":123,"nameId":"Surcharge","preventsSpellCast":false,"preventsFight":false,"critical":false},"124":{"id":124,"nameId":"Grand Frère","preventsSpellCast":false,"preventsFight":false,"critical":false},"125":{"id":125,"nameId":"Petite Sœur","preventsSpellCast":false,"preventsFight":false,"critical":false},"126":{"id":126,"nameId":"Magnétor","preventsSpellCast":false,"preventsFight":false,"critical":false},"127":{"id":127,"nameId":"Terre","preventsSpellCast":false,"preventsFight":false,"critical":false},"128":{"id":128,"nameId":"Eau","preventsSpellCast":false,"preventsFight":false,"critical":false},"129":{"id":129,"nameId":"Feu","preventsSpellCast":false,"preventsFight":false,"critical":false},"130":{"id":130,"nameId":"Embuscade","preventsSpellCast":false,"preventsFight":false,"critical":false},"131":{"id":131,"nameId":"Secourisme","preventsSpellCast":false,"preventsFight":false,"critical":false},"132":{"id":132,"nameId":"Longue vue","preventsSpellCast":false,"preventsFight":false,"critical":false},"133":{"id":133,"nameId":"Cuirasse","preventsSpellCast":false,"preventsFight":false,"critical":false},"134":{"id":134,"nameId":"Evolution II","preventsSpellCast":false,"preventsFight":false,"critical":false},"135":{"id":135,"nameId":"Evolution III","preventsSpellCast":false,"preventsFight":false,"critical":false},"136":{"id":136,"nameId":"Endeuillé","preventsSpellCast":false,"preventsFight":false,"critical":false},"137":{"id":137,"nameId":"Kwaflamme","preventsSpellCast":false,"preventsFight":false,"critical":false},"138":{"id":138,"nameId":"Kwaglace","preventsSpellCast":false,"preventsFight":false,"critical":false},"139":{"id":139,"nameId":"Kwaterre","preventsSpellCast":false,"preventsFight":false,"critical":false},"140":{"id":140,"nameId":"Kwavent","preventsSpellCast":false,"preventsFight":false,"critical":false},"141":{"id":141,"nameId":"Kwaneutre","preventsSpellCast":false,"preventsFight":false,"critical":false},"142":{"id":142,"nameId":"Pandawushae","preventsSpellCast":false,"preventsFight":false,"critical":false},"143":{"id":143,"nameId":"Pandawushak","preventsSpellCast":false,"preventsFight":false,"critical":false},"144":{"id":144,"nameId":"Pandawushfe","preventsSpellCast":false,"preventsFight":false,"critical":false},"145":{"id":145,"nameId":"Pandawushte","preventsSpellCast":false,"preventsFight":false,"critical":false},"146":{"id":146,"nameId":"Pandawushne","preventsSpellCast":false,"preventsFight":false,"critical":false},"147":{"id":147,"nameId":"Courte vue","preventsSpellCast":false,"preventsFight":false,"critical":false},"148":{"id":148,"nameId":"Corselet","preventsSpellCast":false,"preventsFight":false,"critical":false},"149":{"id":149,"nameId":"Dingue","preventsSpellCast":false,"preventsFight":false,"critical":false},"150":{"id":150,"nameId":"Emberlificoté","preventsSpellCast":false,"preventsFight":false,"critical":false},"151":{"id":151,"nameId":"Précipité","preventsSpellCast":false,"preventsFight":true,"critical":false},"152":{"id":152,"nameId":"Peau lisse","preventsSpellCast":false,"preventsFight":false,"critical":false},"153":{"id":153,"nameId":"Surgelé","preventsSpellCast":false,"preventsFight":false,"critical":false},"154":{"id":154,"nameId":"Renaissance","preventsSpellCast":false,"preventsFight":false,"critical":false},"155":{"id":155,"nameId":"Zombidule","preventsSpellCast":false,"preventsFight":false,"critical":false},"156":{"id":156,"nameId":"Thermolacté","preventsSpellCast":false,"preventsFight":false,"critical":false},"157":{"id":157,"nameId":"Inébranlable","preventsSpellCast":false,"preventsFight":false,"critical":false},"158":{"id":158,"nameId":"Marionnette","preventsSpellCast":false,"preventsFight":false,"critical":false},"159":{"id":159,"nameId":"Acte 1","preventsSpellCast":false,"preventsFight":false,"critical":false},"160":{"id":160,"nameId":"Acte 2","preventsSpellCast":false,"preventsFight":false,"critical":false},"161":{"id":161,"nameId":"Acte 3","preventsSpellCast":false,"preventsFight":false,"critical":false},"162":{"id":162,"nameId":"Acte 4","preventsSpellCast":false,"preventsFight":false,"critical":false},"163":{"id":163,"nameId":"Acte 5","preventsSpellCast":false,"preventsFight":false,"critical":false},"164":{"id":164,"nameId":"Goules","preventsSpellCast":false,"preventsFight":false,"critical":false},"165":{"id":165,"nameId":"Affamé","preventsSpellCast":false,"preventsFight":false,"critical":false},"166":{"id":166,"nameId":"Famine","preventsSpellCast":false,"preventsFight":false,"critical":false},"167":{"id":167,"nameId":"Digestion","preventsSpellCast":false,"preventsFight":false,"critical":false},"168":{"id":168,"nameId":"Proie","preventsSpellCast":false,"preventsFight":false,"critical":false},"169":{"id":169,"nameId":"Mort Joueur vs goule","preventsSpellCast":false,"preventsFight":false,"critical":false},"170":{"id":170,"nameId":"Masticroc","preventsSpellCast":false,"preventsFight":false,"critical":false},"171":{"id":171,"nameId":"Invisible","preventsSpellCast":false,"preventsFight":false,"critical":false},"172":{"id":172,"nameId":"Etat générique 1","preventsSpellCast":false,"preventsFight":false,"critical":false},"173":{"id":173,"nameId":"Etat générique 2","preventsSpellCast":false,"preventsFight":false,"critical":false},"174":{"id":174,"nameId":"Etat générique 3","preventsSpellCast":false,"preventsFight":false,"critical":false},"175":{"id":175,"nameId":"Etat générique 4","preventsSpellCast":false,"preventsFight":false,"critical":false},"176":{"id":176,"nameId":"Parasité","preventsSpellCast":false,"preventsFight":false,"critical":false},"177":{"id":177,"nameId":"Fracturé","preventsSpellCast":false,"preventsFight":false,"critical":false},"178":{"id":178,"nameId":"Ninflexible","preventsSpellCast":false,"preventsFight":false,"critical":false},"179":{"id":179,"nameId":"Cyclope","preventsSpellCast":false,"preventsFight":false,"critical":false},"180":{"id":180,"nameId":"Déjection acide","preventsSpellCast":false,"preventsFight":false,"critical":false},"181":{"id":181,"nameId":"Triple oeil","preventsSpellCast":false,"preventsFight":false,"critical":false},"182":{"id":182,"nameId":"Déjection salissante","preventsSpellCast":false,"preventsFight":false,"critical":false},"183":{"id":183,"nameId":"Double oeil","preventsSpellCast":false,"preventsFight":false,"critical":false},"184":{"id":184,"nameId":"Déjection sanguine","preventsSpellCast":false,"preventsFight":false,"critical":false},"185":{"id":185,"nameId":"Rage","preventsSpellCast":false,"preventsFight":false,"critical":false},"186":{"id":186,"nameId":"Raage","preventsSpellCast":false,"preventsFight":false,"critical":false},"187":{"id":187,"nameId":"Rage Ouginak","preventsSpellCast":false,"preventsFight":false,"critical":false},"188":{"id":188,"nameId":"Proie","preventsSpellCast":false,"preventsFight":false,"critical":false},"189":{"id":189,"nameId":"Forme bestiale","preventsSpellCast":false,"preventsFight":false,"critical":false},"190":{"id":190,"nameId":"Combat roiproché","preventsSpellCast":false,"preventsFight":false,"critical":false},"191":{"id":191,"nameId":"Combat roidistance","preventsSpellCast":false,"preventsFight":false,"critical":false},"192":{"id":192,"nameId":"Invulnérabilité en Mêlée","preventsSpellCast":false,"preventsFight":false,"critical":false},"193":{"id":193,"nameId":"Invulnérabilité à Distance","preventsSpellCast":false,"preventsFight":false,"critical":false},"194":{"id":194,"nameId":"Pacifiste","preventsSpellCast":false,"preventsFight":false,"critical":false},"195":{"id":195,"nameId":"Rage Shushu 1","preventsSpellCast":false,"preventsFight":false,"critical":false},"196":{"id":196,"nameId":"Rage Shushu 2","preventsSpellCast":false,"preventsFight":false,"critical":false},"197":{"id":197,"nameId":"Rage Shushu 3","preventsSpellCast":false,"preventsFight":false,"critical":false},"198":{"id":198,"nameId":"Satisfaction Shushu","preventsSpellCast":false,"preventsFight":false,"critical":false},"199":{"id":199,"nameId":"Masque de piété","preventsSpellCast":false,"preventsFight":false,"critical":false},"200":{"id":200,"nameId":"Masque du désespoir","preventsSpellCast":false,"preventsFight":false,"critical":false},"201":{"id":201,"nameId":"Masque de la démence","preventsSpellCast":false,"preventsFight":false,"critical":false},"202":{"id":202,"nameId":"Shulshok","preventsSpellCast":false,"preventsFight":false,"critical":false},"203":{"id":203,"nameId":"Manipulé","preventsSpellCast":false,"preventsFight":false,"critical":false},"204":{"id":204,"nameId":"Manipulateur","preventsSpellCast":false,"preventsFight":false,"critical":false},"205":{"id":205,"nameId":"Terrestre","preventsSpellCast":false,"preventsFight":false,"critical":false},"206":{"id":206,"nameId":"Aquatique","preventsSpellCast":false,"preventsFight":false,"critical":false}}
+{
+  "0": {
+    "id": 0,
+    "nameId": "Neutre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "1": {
+    "id": 1,
+    "nameId": "Saoul",
+    "preventsSpellCast": false,
+    "preventsFight": true,
+    "critical": false
+  },
+  "2": {
+    "id": 2,
+    "nameId": "Chercheur d'âmes",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "3": {
+    "id": 3,
+    "nameId": "Porteur",
+    "preventsSpellCast": true,
+    "preventsFight": true,
+    "critical": false
+  },
+  "4": {
+    "id": 4,
+    "nameId": "Peureux",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "5": {
+    "id": 5,
+    "nameId": "Désorienté",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "6": {
+    "id": 6,
+    "nameId": "Enraciné",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "7": {
+    "id": 7,
+    "nameId": "Pesanteur",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "8": {
+    "id": 8,
+    "nameId": "Porté",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "9": {
+    "id": 9,
+    "nameId": "Motivation Sylvestre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "10": {
+    "id": 10,
+    "nameId": "Apprivoisement",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "11": {
+    "id": 11,
+    "nameId": "Chevauchant",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "12": {
+    "id": 12,
+    "nameId": "Pas sage",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "13": {
+    "id": 13,
+    "nameId": "Vraiment pas sage",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "14": {
+    "id": 14,
+    "nameId": "Enneigé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "15": {
+    "id": 15,
+    "nameId": "Eveillé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "16": {
+    "id": 16,
+    "nameId": "Fragilisé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "17": {
+    "id": 17,
+    "nameId": "Séparé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "18": {
+    "id": 18,
+    "nameId": "Gelé",
+    "preventsSpellCast": true,
+    "preventsFight": true,
+    "critical": true
+  },
+  "19": {
+    "id": 19,
+    "nameId": "Fissuré",
+    "preventsSpellCast": true,
+    "preventsFight": true,
+    "critical": true
+  },
+  "26": {
+    "id": 26,
+    "nameId": "Endormi",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "27": {
+    "id": 27,
+    "nameId": "Léopardo",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "28": {
+    "id": 28,
+    "nameId": "Libre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "29": {
+    "id": 29,
+    "nameId": "Glyphe impaire",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "30": {
+    "id": 30,
+    "nameId": "Glyphe paire",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "31": {
+    "id": 31,
+    "nameId": "Encre primaire",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "32": {
+    "id": 32,
+    "nameId": "Encre secondaire",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "33": {
+    "id": 33,
+    "nameId": "Encre tertiaire",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "34": {
+    "id": 34,
+    "nameId": "Encre quaternaire",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "35": {
+    "id": 35,
+    "nameId": "Envie de tuer",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "36": {
+    "id": 36,
+    "nameId": "Envie de paralyser",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "37": {
+    "id": 37,
+    "nameId": "Envie de maudire",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "38": {
+    "id": 38,
+    "nameId": "Envie d'empoisonner",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "39": {
+    "id": 39,
+    "nameId": "Flou",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "40": {
+    "id": 40,
+    "nameId": "Corrompu",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "41": {
+    "id": 41,
+    "nameId": "Silencieux",
+    "preventsSpellCast": true,
+    "preventsFight": false,
+    "critical": false
+  },
+  "42": {
+    "id": 42,
+    "nameId": "Affaibli",
+    "preventsSpellCast": false,
+    "preventsFight": true,
+    "critical": false
+  },
+  "43": {
+    "id": 43,
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "44": {
+    "id": 44,
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "46": {
+    "id": 46,
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "47": {
+    "id": 47,
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "48": {
+    "id": 48,
+    "nameId": "Confus",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "49": {
+    "id": 49,
+    "nameId": "Goulifié",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "50": {
+    "id": 50,
+    "nameId": "Altruiste",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "51": {
+    "id": 51,
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "52": {
+    "id": 52,
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "53": {
+    "id": 53,
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "54": {
+    "id": 54,
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "55": {
+    "id": 55,
+    "nameId": "Retraité",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "56": {
+    "id": 56,
+    "nameId": "Invulnérable",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "57": {
+    "id": 57,
+    "nameId": "Compte à rebours - 2",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "58": {
+    "id": 58,
+    "nameId": "Compte à rebours - 1",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "60": {
+    "id": 60,
+    "nameId": "Dévoué",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "61": {
+    "id": 61,
+    "nameId": "Bagarreur",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "63": {
+    "id": 63,
+    "nameId": "Lourd",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "64": {
+    "id": 64,
+    "nameId": "Glyphangueur",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "65": {
+    "id": 65,
+    "nameId": "Oméga",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "66": {
+    "id": 66,
+    "nameId": "Alpha",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "67": {
+    "id": 67,
+    "nameId": "Bêta",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "68": {
+    "id": 68,
+    "nameId": "Gamma",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "69": {
+    "id": 69,
+    "nameId": "Delta",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "70": {
+    "id": 70,
+    "nameId": "Alpha de Kordis",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "71": {
+    "id": 71,
+    "nameId": "Bêta de Kordis",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "72": {
+    "id": 72,
+    "nameId": "Gamma de Kordis",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "73": {
+    "id": 73,
+    "nameId": "Enragé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "74": {
+    "id": 74,
+    "nameId": "Zombi",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "76": {
+    "id": 76,
+    "nameId": "Insoignable",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "77": {
+    "id": 77,
+    "nameId": "Faiblesse",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": true
+  },
+  "78": {
+    "id": 78,
+    "nameId": "Germe",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "79": {
+    "id": 79,
+    "nameId": "Seconde",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "80": {
+    "id": 80,
+    "nameId": "Tierce",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "81": {
+    "id": 81,
+    "nameId": "Quarte",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "82": {
+    "id": 82,
+    "nameId": "Quinte",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "83": {
+    "id": 83,
+    "nameId": "Sixte",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "84": {
+    "id": 84,
+    "nameId": "Septième",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "85": {
+    "id": 85,
+    "nameId": "Octave",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "86": {
+    "id": 86,
+    "nameId": "Fulguration",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "87": {
+    "id": 87,
+    "nameId": "Floutage",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "88": {
+    "id": 88,
+    "nameId": "Résuglours",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "89": {
+    "id": 89,
+    "nameId": "Flamboyant",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "90": {
+    "id": 90,
+    "nameId": "Ectoplasmique",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "91": {
+    "id": 91,
+    "nameId": "Ardent",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "92": {
+    "id": 92,
+    "nameId": "Kaboom",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "93": {
+    "id": 93,
+    "nameId": "Fonso Cacnoob",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "94": {
+    "id": 94,
+    "nameId": "Pacette Foinoube",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "95": {
+    "id": 95,
+    "nameId": "Intacleur",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "96": {
+    "id": 96,
+    "nameId": "Intaclable",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "97": {
+    "id": 97,
+    "nameId": "Indéplaçable",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "98": {
+    "id": 98,
+    "nameId": "Classe",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "99": {
+    "id": 99,
+    "nameId": "Psychopathe",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "100": {
+    "id": 100,
+    "nameId": "Pleutre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "101": {
+    "id": 101,
+    "nameId": "Archer",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "102": {
+    "id": 102,
+    "nameId": "Gorgouillis",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "103": {
+    "id": 103,
+    "nameId": "Fortifié",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "104": {
+    "id": 104,
+    "nameId": "Rupture",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "105": {
+    "id": 105,
+    "nameId": "Tyrannisé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "106": {
+    "id": 106,
+    "nameId": "Météoroïde",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "107": {
+    "id": 107,
+    "nameId": "Masse Critique",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "108": {
+    "id": 108,
+    "nameId": "Apocalypse",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "109": {
+    "id": 109,
+    "nameId": "Rubilax",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "110": {
+    "id": 110,
+    "nameId": "« L'Épée »",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "111": {
+    "id": 111,
+    "nameId": "Première Marque de Daïgoro",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "112": {
+    "id": 112,
+    "nameId": "Deuxième Marque de Daïgoro",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "113": {
+    "id": 113,
+    "nameId": "Troisième Marque de Daïgoro",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "114": {
+    "id": 114,
+    "nameId": "Quatrième Marque de Daïgoro",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "115": {
+    "id": 115,
+    "nameId": "Cinquième Marque de Daïgoro",
+    "preventsSpellCast": false,
+    "preventsFight": true,
+    "critical": false
+  },
+  "116": {
+    "id": 116,
+    "nameId": "Vert de Terre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "117": {
+    "id": 117,
+    "nameId": "Rose aux Flammes",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "118": {
+    "id": 118,
+    "nameId": "Azur Bain",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "119": {
+    "id": 119,
+    "nameId": "Ex Jaune Air",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "120": {
+    "id": 120,
+    "nameId": "Déplacé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "121": {
+    "id": 121,
+    "nameId": "Charge",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "122": {
+    "id": 122,
+    "nameId": "Décharge",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "123": {
+    "id": 123,
+    "nameId": "Surcharge",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "124": {
+    "id": 124,
+    "nameId": "Grand Frère",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "125": {
+    "id": 125,
+    "nameId": "Petite Sœur",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "126": {
+    "id": 126,
+    "nameId": "Magnétor",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "127": {
+    "id": 127,
+    "nameId": "Terre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "128": {
+    "id": 128,
+    "nameId": "Eau",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "129": {
+    "id": 129,
+    "nameId": "Feu",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "130": {
+    "id": 130,
+    "nameId": "Embuscade",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "131": {
+    "id": 131,
+    "nameId": "Secourisme",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "132": {
+    "id": 132,
+    "nameId": "Longue vue",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "133": {
+    "id": 133,
+    "nameId": "Cuirasse",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "134": {
+    "id": 134,
+    "nameId": "Evolution II",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "135": {
+    "id": 135,
+    "nameId": "Evolution III",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "136": {
+    "id": 136,
+    "nameId": "Endeuillé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "137": {
+    "id": 137,
+    "nameId": "Kwaflamme",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "138": {
+    "id": 138,
+    "nameId": "Kwaglace",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "139": {
+    "id": 139,
+    "nameId": "Kwaterre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "140": {
+    "id": 140,
+    "nameId": "Kwavent",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "141": {
+    "id": 141,
+    "nameId": "Kwaneutre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "142": {
+    "id": 142,
+    "nameId": "Pandawushae",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "143": {
+    "id": 143,
+    "nameId": "Pandawushak",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "144": {
+    "id": 144,
+    "nameId": "Pandawushfe",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "145": {
+    "id": 145,
+    "nameId": "Pandawushte",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "146": {
+    "id": 146,
+    "nameId": "Pandawushne",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "147": {
+    "id": 147,
+    "nameId": "Courte vue",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "148": {
+    "id": 148,
+    "nameId": "Corselet",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "149": {
+    "id": 149,
+    "nameId": "Dingue",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "150": {
+    "id": 150,
+    "nameId": "Emberlificoté",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "151": {
+    "id": 151,
+    "nameId": "Précipité",
+    "preventsSpellCast": false,
+    "preventsFight": true,
+    "critical": false
+  },
+  "152": {
+    "id": 152,
+    "nameId": "Peau lisse",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "153": {
+    "id": 153,
+    "nameId": "Surgelé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "154": {
+    "id": 154,
+    "nameId": "Renaissance",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "155": {
+    "id": 155,
+    "nameId": "Zombidule",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "156": {
+    "id": 156,
+    "nameId": "Thermolacté",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "157": {
+    "id": 157,
+    "nameId": "Inébranlable",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "158": {
+    "id": 158,
+    "nameId": "Marionnette",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "159": {
+    "id": 159,
+    "nameId": "Acte 1",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "160": {
+    "id": 160,
+    "nameId": "Acte 2",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "161": {
+    "id": 161,
+    "nameId": "Acte 3",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "162": {
+    "id": 162,
+    "nameId": "Acte 4",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "163": {
+    "id": 163,
+    "nameId": "Acte 5",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "164": {
+    "id": 164,
+    "nameId": "Goules",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "165": {
+    "id": 165,
+    "nameId": "Affamé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "166": {
+    "id": 166,
+    "nameId": "Famine",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "167": {
+    "id": 167,
+    "nameId": "Digestion",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "168": {
+    "id": 168,
+    "nameId": "Proie",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "169": {
+    "id": 169,
+    "nameId": "Mort Joueur vs goule",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "170": {
+    "id": 170,
+    "nameId": "Masticroc",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "171": {
+    "id": 171,
+    "nameId": "Invisible",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "172": {
+    "id": 172,
+    "nameId": "Etat générique 1",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "173": {
+    "id": 173,
+    "nameId": "Etat générique 2",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "174": {
+    "id": 174,
+    "nameId": "Etat générique 3",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "175": {
+    "id": 175,
+    "nameId": "Etat générique 4",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "176": {
+    "id": 176,
+    "nameId": "Parasité",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "177": {
+    "id": 177,
+    "nameId": "Fracturé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "178": {
+    "id": 178,
+    "nameId": "Ninflexible",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "179": {
+    "id": 179,
+    "nameId": "Cyclope",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "180": {
+    "id": 180,
+    "nameId": "Déjection acide",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "181": {
+    "id": 181,
+    "nameId": "Triple oeil",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "182": {
+    "id": 182,
+    "nameId": "Déjection salissante",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "183": {
+    "id": 183,
+    "nameId": "Double oeil",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "184": {
+    "id": 184,
+    "nameId": "Déjection sanguine",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "185": {
+    "id": 185,
+    "nameId": "Rage",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "186": {
+    "id": 186,
+    "nameId": "Raage",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "187": {
+    "id": 187,
+    "nameId": "Rage Ouginak",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "188": {
+    "id": 188,
+    "nameId": "Proie",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "189": {
+    "id": 189,
+    "nameId": "Forme bestiale",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "190": {
+    "id": 190,
+    "nameId": "Combat roiproché",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "191": {
+    "id": 191,
+    "nameId": "Combat roidistance",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "192": {
+    "id": 192,
+    "nameId": "Invulnérabilité en Mêlée",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "193": {
+    "id": 193,
+    "nameId": "Invulnérabilité à Distance",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "194": {
+    "id": 194,
+    "nameId": "Pacifiste",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "195": {
+    "id": 195,
+    "nameId": "Rage Shushu 1",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "196": {
+    "id": 196,
+    "nameId": "Rage Shushu 2",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "197": {
+    "id": 197,
+    "nameId": "Rage Shushu 3",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "198": {
+    "id": 198,
+    "nameId": "Satisfaction Shushu",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "199": {
+    "id": 199,
+    "nameId": "Masque de piété",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "200": {
+    "id": 200,
+    "nameId": "Masque du désespoir",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "201": {
+    "id": 201,
+    "nameId": "Masque de la démence",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "202": {
+    "id": 202,
+    "nameId": "Shulshok",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "203": {
+    "id": 203,
+    "nameId": "Manipulé",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "204": {
+    "id": 204,
+    "nameId": "Manipulateur",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "205": {
+    "id": 205,
+    "nameId": "Terrestre",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  },
+  "206": {
+    "id": 206,
+    "nameId": "Aquatique",
+    "preventsSpellCast": false,
+    "preventsFight": false,
+    "critical": false
+  }
+}

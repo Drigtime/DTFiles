@@ -1,1 +1,578 @@
-{"13":{"id":13,"nameId":"Niveau 100","visible":true,"assetId":1,"iconId":0,"rarity":0,"order":1},"14":{"id":14,"nameId":"Niveau 160","visible":true,"assetId":2,"iconId":1,"rarity":0,"order":2},"15":{"id":15,"nameId":"Niveau 200","visible":true,"assetId":3,"iconId":2,"rarity":0,"order":3},"16":{"id":16,"nameId":"Score honorable","visible":true,"assetId":4,"iconId":0,"rarity":0,"order":4},"17":{"id":17,"nameId":"Score respectable","visible":true,"assetId":5,"iconId":1,"rarity":0,"order":5},"18":{"id":18,"nameId":"Score imposant","visible":true,"assetId":6,"iconId":2,"rarity":0,"order":6},"19":{"id":19,"nameId":"Explorateur honorable","visible":true,"assetId":7,"iconId":0,"rarity":0,"order":50},"22":{"id":22,"nameId":"Baroudeur honorable","visible":true,"assetId":10,"iconId":0,"rarity":0,"order":10},"23":{"id":23,"nameId":"Baroudeur respectable","visible":true,"assetId":11,"iconId":0,"rarity":0,"order":11},"24":{"id":24,"nameId":"Baroudeur imposant","visible":true,"assetId":12,"iconId":1,"rarity":0,"order":12},"25":{"id":25,"nameId":"Baroudeur vénérable","visible":true,"assetId":13,"iconId":1,"rarity":0,"order":13},"26":{"id":26,"nameId":"Vigilant","visible":true,"assetId":14,"iconId":0,"rarity":0,"order":14},"27":{"id":27,"nameId":"Batailleur honorable","visible":true,"assetId":15,"iconId":0,"rarity":0,"order":15},"28":{"id":28,"nameId":"Batailleur respectable","visible":true,"assetId":16,"iconId":0,"rarity":0,"order":16},"29":{"id":29,"nameId":"Batailleur imposant","visible":true,"assetId":17,"iconId":1,"rarity":0,"order":17},"30":{"id":30,"nameId":"Batailleur vénérable","visible":true,"assetId":18,"iconId":1,"rarity":0,"order":18},"31":{"id":31,"nameId":"Bagarreur imposant","visible":true,"assetId":21,"iconId":2,"rarity":0,"order":19},"32":{"id":32,"nameId":"Bagarreur honorable","visible":true,"assetId":19,"iconId":0,"rarity":0,"order":20},"33":{"id":33,"nameId":"Bagarreur respectable","visible":true,"assetId":20,"iconId":1,"rarity":0,"order":21},"34":{"id":34,"nameId":"Chalongeur honorable","visible":true,"assetId":22,"iconId":0,"rarity":0,"order":22},"35":{"id":35,"nameId":"Chalongeur respectable","visible":true,"assetId":23,"iconId":1,"rarity":0,"order":23},"36":{"id":36,"nameId":"Flocon honorable","visible":true,"assetId":24,"iconId":0,"rarity":0,"order":24},"37":{"id":37,"nameId":"Flocon respectable","visible":true,"assetId":25,"iconId":1,"rarity":0,"order":25},"38":{"id":38,"nameId":"Flocon imposant","visible":true,"assetId":26,"iconId":2,"rarity":0,"order":26},"39":{"id":39,"nameId":"Nouveau Sang","visible":false,"assetId":55,"iconId":0,"rarity":0,"order":27},"40":{"id":40,"nameId":"Aventurier respectable","visible":true,"assetId":29,"iconId":1,"rarity":0,"order":28},"41":{"id":41,"nameId":"Aventurier imposant","visible":true,"assetId":30,"iconId":2,"rarity":0,"order":29},"42":{"id":42,"nameId":"Dégivreur honorable","visible":true,"assetId":31,"iconId":0,"rarity":0,"order":30},"43":{"id":43,"nameId":"Dégivreur respectable","visible":true,"assetId":32,"iconId":1,"rarity":0,"order":31},"44":{"id":44,"nameId":"Dégivreur imposant","visible":true,"assetId":33,"iconId":2,"rarity":0,"order":32},"45":{"id":45,"nameId":"Artisan honorable","visible":true,"assetId":34,"iconId":0,"rarity":0,"order":33},"46":{"id":46,"nameId":"Dragomaître honorable","visible":true,"assetId":35,"iconId":0,"rarity":0,"order":34},"47":{"id":47,"nameId":"Dragomaître respectable","visible":true,"assetId":36,"iconId":1,"rarity":0,"order":35},"48":{"id":48,"nameId":"Dragomaître imposant","visible":true,"assetId":37,"iconId":2,"rarity":0,"order":36},"49":{"id":49,"nameId":"Baroudeur glorieux","visible":true,"assetId":38,"iconId":2,"rarity":0,"order":1},"50":{"id":50,"nameId":"Baroudeur éminent","visible":true,"assetId":39,"iconId":3,"rarity":0,"order":1},"51":{"id":51,"nameId":"Batailleur glorieux","visible":true,"assetId":40,"iconId":2,"rarity":0,"order":1},"52":{"id":52,"nameId":"Vulkanologue honorable","visible":true,"assetId":42,"iconId":0,"rarity":0,"order":37},"55":{"id":55,"nameId":"Cawotteur","visible":true,"assetId":45,"iconId":4,"rarity":0,"order":40},"58":{"id":58,"nameId":"Nécromant néophyte","visible":false,"assetId":51,"iconId":1,"rarity":0,"order":43},"59":{"id":59,"nameId":"Maitre nécromant","visible":false,"assetId":50,"iconId":2,"rarity":0,"order":44},"60":{"id":60,"nameId":"Citrouillard","visible":true,"assetId":60,"iconId":4,"rarity":0,"order":45},"61":{"id":61,"nameId":"Guerrier de Sidimote","visible":false,"assetId":61,"iconId":8,"rarity":0,"order":46},"62":{"id":62,"nameId":"Héros de Sidimote","visible":false,"assetId":62,"iconId":8,"rarity":0,"order":47},"63":{"id":63,"nameId":"Guerrier d'Otomaï","visible":false,"assetId":64,"iconId":13,"rarity":0,"order":48},"64":{"id":64,"nameId":"Héros d'Otomaï","visible":false,"assetId":63,"iconId":13,"rarity":0,"order":49},"65":{"id":65,"nameId":"Score remarquable","visible":true,"assetId":65,"iconId":3,"rarity":0,"order":7},"66":{"id":66,"nameId":"Amateur de tavernes","visible":false,"assetId":66,"iconId":10,"rarity":0,"order":51},"67":{"id":67,"nameId":"Fléau des tavernes","visible":false,"assetId":67,"iconId":10,"rarity":0,"order":52},"68":{"id":68,"nameId":"Ambassadeur d'Externam","visible":false,"assetId":68,"iconId":11,"rarity":0,"order":53},"69":{"id":69,"nameId":"Visiteur d'Externam","visible":false,"assetId":69,"iconId":11,"rarity":0,"order":54},"70":{"id":70,"nameId":"Pionnier de la rébellion","visible":false,"assetId":71,"iconId":14,"rarity":0,"order":55},"71":{"id":71,"nameId":"Recrue de la rébellion","visible":false,"assetId":70,"iconId":14,"rarity":0,"order":56},"72":{"id":72,"nameId":"Estival","visible":false,"assetId":72,"iconId":8,"rarity":0,"order":57},"73":{"id":73,"nameId":"Jurassique","visible":false,"assetId":73,"iconId":8,"rarity":0,"order":58},"74":{"id":74,"nameId":"Touriste de Moon","visible":false,"assetId":74,"iconId":1,"rarity":0,"order":59},"75":{"id":75,"nameId":"Bronze","visible":true,"assetId":81,"iconId":0,"rarity":0,"order":60},"76":{"id":76,"nameId":"Argent","visible":true,"assetId":82,"iconId":1,"rarity":0,"order":61},"77":{"id":77,"nameId":"Or","visible":true,"assetId":83,"iconId":2,"rarity":0,"order":62},"78":{"id":78,"nameId":"Cristal","visible":true,"assetId":84,"iconId":12,"rarity":0,"order":63},"79":{"id":79,"nameId":"Diamant","visible":true,"assetId":85,"iconId":9,"rarity":0,"order":64},"80":{"id":80,"nameId":"Légende","visible":true,"assetId":86,"iconId":3,"rarity":0,"order":65},"85":{"id":85,"nameId":"Chasseur de démons","visible":true,"assetId":79,"iconId":8,"rarity":0,"order":70},"87":{"id":87,"nameId":"Nowel","visible":false,"assetId":87,"iconId":10,"rarity":0,"order":72}}
+{
+  "13": {
+    "id": 13,
+    "nameId": "Niveau 100",
+    "visible": true,
+    "assetId": 1,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 1
+  },
+  "14": {
+    "id": 14,
+    "nameId": "Niveau 160",
+    "visible": true,
+    "assetId": 2,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 2
+  },
+  "15": {
+    "id": 15,
+    "nameId": "Niveau 200",
+    "visible": true,
+    "assetId": 3,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 3
+  },
+  "16": {
+    "id": 16,
+    "nameId": "Score honorable",
+    "visible": true,
+    "assetId": 4,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 4
+  },
+  "17": {
+    "id": 17,
+    "nameId": "Score respectable",
+    "visible": true,
+    "assetId": 5,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 5
+  },
+  "18": {
+    "id": 18,
+    "nameId": "Score imposant",
+    "visible": true,
+    "assetId": 6,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 6
+  },
+  "19": {
+    "id": 19,
+    "nameId": "Explorateur honorable",
+    "visible": true,
+    "assetId": 7,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 50
+  },
+  "22": {
+    "id": 22,
+    "nameId": "Baroudeur honorable",
+    "visible": true,
+    "assetId": 10,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 10
+  },
+  "23": {
+    "id": 23,
+    "nameId": "Baroudeur respectable",
+    "visible": true,
+    "assetId": 11,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 11
+  },
+  "24": {
+    "id": 24,
+    "nameId": "Baroudeur imposant",
+    "visible": true,
+    "assetId": 12,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 12
+  },
+  "25": {
+    "id": 25,
+    "nameId": "Baroudeur vénérable",
+    "visible": true,
+    "assetId": 13,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 13
+  },
+  "26": {
+    "id": 26,
+    "nameId": "Vigilant",
+    "visible": true,
+    "assetId": 14,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 14
+  },
+  "27": {
+    "id": 27,
+    "nameId": "Batailleur honorable",
+    "visible": true,
+    "assetId": 15,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 15
+  },
+  "28": {
+    "id": 28,
+    "nameId": "Batailleur respectable",
+    "visible": true,
+    "assetId": 16,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 16
+  },
+  "29": {
+    "id": 29,
+    "nameId": "Batailleur imposant",
+    "visible": true,
+    "assetId": 17,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 17
+  },
+  "30": {
+    "id": 30,
+    "nameId": "Batailleur vénérable",
+    "visible": true,
+    "assetId": 18,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 18
+  },
+  "31": {
+    "id": 31,
+    "nameId": "Bagarreur imposant",
+    "visible": true,
+    "assetId": 21,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 19
+  },
+  "32": {
+    "id": 32,
+    "nameId": "Bagarreur honorable",
+    "visible": true,
+    "assetId": 19,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 20
+  },
+  "33": {
+    "id": 33,
+    "nameId": "Bagarreur respectable",
+    "visible": true,
+    "assetId": 20,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 21
+  },
+  "34": {
+    "id": 34,
+    "nameId": "Chalongeur honorable",
+    "visible": true,
+    "assetId": 22,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 22
+  },
+  "35": {
+    "id": 35,
+    "nameId": "Chalongeur respectable",
+    "visible": true,
+    "assetId": 23,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 23
+  },
+  "36": {
+    "id": 36,
+    "nameId": "Flocon honorable",
+    "visible": true,
+    "assetId": 24,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 24
+  },
+  "37": {
+    "id": 37,
+    "nameId": "Flocon respectable",
+    "visible": true,
+    "assetId": 25,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 25
+  },
+  "38": {
+    "id": 38,
+    "nameId": "Flocon imposant",
+    "visible": true,
+    "assetId": 26,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 26
+  },
+  "39": {
+    "id": 39,
+    "nameId": "Nouveau Sang",
+    "visible": false,
+    "assetId": 55,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 27
+  },
+  "40": {
+    "id": 40,
+    "nameId": "Aventurier respectable",
+    "visible": true,
+    "assetId": 29,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 28
+  },
+  "41": {
+    "id": 41,
+    "nameId": "Aventurier imposant",
+    "visible": true,
+    "assetId": 30,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 29
+  },
+  "42": {
+    "id": 42,
+    "nameId": "Dégivreur honorable",
+    "visible": true,
+    "assetId": 31,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 30
+  },
+  "43": {
+    "id": 43,
+    "nameId": "Dégivreur respectable",
+    "visible": true,
+    "assetId": 32,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 31
+  },
+  "44": {
+    "id": 44,
+    "nameId": "Dégivreur imposant",
+    "visible": true,
+    "assetId": 33,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 32
+  },
+  "45": {
+    "id": 45,
+    "nameId": "Artisan honorable",
+    "visible": true,
+    "assetId": 34,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 33
+  },
+  "46": {
+    "id": 46,
+    "nameId": "Dragomaître honorable",
+    "visible": true,
+    "assetId": 35,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 34
+  },
+  "47": {
+    "id": 47,
+    "nameId": "Dragomaître respectable",
+    "visible": true,
+    "assetId": 36,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 35
+  },
+  "48": {
+    "id": 48,
+    "nameId": "Dragomaître imposant",
+    "visible": true,
+    "assetId": 37,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 36
+  },
+  "49": {
+    "id": 49,
+    "nameId": "Baroudeur glorieux",
+    "visible": true,
+    "assetId": 38,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 1
+  },
+  "50": {
+    "id": 50,
+    "nameId": "Baroudeur éminent",
+    "visible": true,
+    "assetId": 39,
+    "iconId": 3,
+    "rarity": 0,
+    "order": 1
+  },
+  "51": {
+    "id": 51,
+    "nameId": "Batailleur glorieux",
+    "visible": true,
+    "assetId": 40,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 1
+  },
+  "52": {
+    "id": 52,
+    "nameId": "Vulkanologue honorable",
+    "visible": true,
+    "assetId": 42,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 37
+  },
+  "55": {
+    "id": 55,
+    "nameId": "Cawotteur",
+    "visible": true,
+    "assetId": 45,
+    "iconId": 4,
+    "rarity": 0,
+    "order": 40
+  },
+  "58": {
+    "id": 58,
+    "nameId": "Nécromant néophyte",
+    "visible": false,
+    "assetId": 51,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 43
+  },
+  "59": {
+    "id": 59,
+    "nameId": "Maitre nécromant",
+    "visible": false,
+    "assetId": 50,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 44
+  },
+  "60": {
+    "id": 60,
+    "nameId": "Citrouillard",
+    "visible": true,
+    "assetId": 60,
+    "iconId": 4,
+    "rarity": 0,
+    "order": 45
+  },
+  "61": {
+    "id": 61,
+    "nameId": "Guerrier de Sidimote",
+    "visible": false,
+    "assetId": 61,
+    "iconId": 8,
+    "rarity": 0,
+    "order": 46
+  },
+  "62": {
+    "id": 62,
+    "nameId": "Héros de Sidimote",
+    "visible": false,
+    "assetId": 62,
+    "iconId": 8,
+    "rarity": 0,
+    "order": 47
+  },
+  "63": {
+    "id": 63,
+    "nameId": "Guerrier d'Otomaï",
+    "visible": false,
+    "assetId": 64,
+    "iconId": 13,
+    "rarity": 0,
+    "order": 48
+  },
+  "64": {
+    "id": 64,
+    "nameId": "Héros d'Otomaï",
+    "visible": false,
+    "assetId": 63,
+    "iconId": 13,
+    "rarity": 0,
+    "order": 49
+  },
+  "65": {
+    "id": 65,
+    "nameId": "Score remarquable",
+    "visible": true,
+    "assetId": 65,
+    "iconId": 3,
+    "rarity": 0,
+    "order": 7
+  },
+  "66": {
+    "id": 66,
+    "nameId": "Amateur de tavernes",
+    "visible": false,
+    "assetId": 66,
+    "iconId": 10,
+    "rarity": 0,
+    "order": 51
+  },
+  "67": {
+    "id": 67,
+    "nameId": "Fléau des tavernes",
+    "visible": false,
+    "assetId": 67,
+    "iconId": 10,
+    "rarity": 0,
+    "order": 52
+  },
+  "68": {
+    "id": 68,
+    "nameId": "Ambassadeur d'Externam",
+    "visible": false,
+    "assetId": 68,
+    "iconId": 11,
+    "rarity": 0,
+    "order": 53
+  },
+  "69": {
+    "id": 69,
+    "nameId": "Visiteur d'Externam",
+    "visible": false,
+    "assetId": 69,
+    "iconId": 11,
+    "rarity": 0,
+    "order": 54
+  },
+  "70": {
+    "id": 70,
+    "nameId": "Pionnier de la rébellion",
+    "visible": false,
+    "assetId": 71,
+    "iconId": 14,
+    "rarity": 0,
+    "order": 55
+  },
+  "71": {
+    "id": 71,
+    "nameId": "Recrue de la rébellion",
+    "visible": false,
+    "assetId": 70,
+    "iconId": 14,
+    "rarity": 0,
+    "order": 56
+  },
+  "72": {
+    "id": 72,
+    "nameId": "Estival",
+    "visible": false,
+    "assetId": 72,
+    "iconId": 8,
+    "rarity": 0,
+    "order": 57
+  },
+  "73": {
+    "id": 73,
+    "nameId": "Jurassique",
+    "visible": false,
+    "assetId": 73,
+    "iconId": 8,
+    "rarity": 0,
+    "order": 58
+  },
+  "74": {
+    "id": 74,
+    "nameId": "Touriste de Moon",
+    "visible": false,
+    "assetId": 74,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 59
+  },
+  "75": {
+    "id": 75,
+    "nameId": "Bronze",
+    "visible": true,
+    "assetId": 81,
+    "iconId": 0,
+    "rarity": 0,
+    "order": 60
+  },
+  "76": {
+    "id": 76,
+    "nameId": "Argent",
+    "visible": true,
+    "assetId": 82,
+    "iconId": 1,
+    "rarity": 0,
+    "order": 61
+  },
+  "77": {
+    "id": 77,
+    "nameId": "Or",
+    "visible": true,
+    "assetId": 83,
+    "iconId": 2,
+    "rarity": 0,
+    "order": 62
+  },
+  "78": {
+    "id": 78,
+    "nameId": "Cristal",
+    "visible": true,
+    "assetId": 84,
+    "iconId": 12,
+    "rarity": 0,
+    "order": 63
+  },
+  "79": {
+    "id": 79,
+    "nameId": "Diamant",
+    "visible": true,
+    "assetId": 85,
+    "iconId": 9,
+    "rarity": 0,
+    "order": 64
+  },
+  "80": {
+    "id": 80,
+    "nameId": "Légende",
+    "visible": true,
+    "assetId": 86,
+    "iconId": 3,
+    "rarity": 0,
+    "order": 65
+  },
+  "85": {
+    "id": 85,
+    "nameId": "Chasseur de démons",
+    "visible": true,
+    "assetId": 79,
+    "iconId": 8,
+    "rarity": 0,
+    "order": 70
+  },
+  "87": {
+    "id": 87,
+    "nameId": "Nowel",
+    "visible": false,
+    "assetId": 87,
+    "iconId": 10,
+    "rarity": 0,
+    "order": 72
+  }
+}

@@ -1,1 +1,75 @@
-{"0":{"id":0,"nameId":"Francophone","defaultCountries":["FR","CH","BE","LU"],"shortId":"fr"},"1":{"id":1,"nameId":"Anglophone","defaultCountries":["UK","IE","GB"],"shortId":"uk"},"2":{"id":2,"nameId":"Internationale","defaultCountries":["XX"],"shortId":"en"},"3":{"id":3,"nameId":"Allemande","defaultCountries":["DE","AT","LI"],"shortId":"de"},"4":{"id":4,"nameId":"Hispanophone","defaultCountries":["ES","AD","AR","CK","MX"],"shortId":"es"},"5":{"id":5,"nameId":"Russe","defaultCountries":["RU"],"shortId":"ru"},"6":{"id":6,"nameId":"Brésilienne","defaultCountries":["PT","BR"],"shortId":"pt"},"7":{"id":7,"nameId":"Néerlandaise","defaultCountries":["NL"],"shortId":"nl"},"8":{"id":8,"nameId":"Internationale","defaultCountries":["XX"],"shortId":"en"},"9":{"id":9,"nameId":"Italienne","defaultCountries":["IT"],"shortId":"it"},"10":{"id":10,"nameId":"Japonaise","defaultCountries":["JP"],"shortId":"ja"},"11":{"id":11,"nameId":"Amérique du Nord","defaultCountries":["US","CA"],"shortId":"na"},"99":{"id":99,"nameId":"Debug","defaultCountries":[],"shortId":"xx"}}
+{
+  "0": {
+    "id": 0,
+    "nameId": "Francophone",
+    "defaultCountries": ["FR", "CH", "BE", "LU"],
+    "shortId": "fr"
+  },
+  "1": {
+    "id": 1,
+    "nameId": "Anglophone",
+    "defaultCountries": ["UK", "IE", "GB"],
+    "shortId": "uk"
+  },
+  "2": {
+    "id": 2,
+    "nameId": "Internationale",
+    "defaultCountries": ["XX"],
+    "shortId": "en"
+  },
+  "3": {
+    "id": 3,
+    "nameId": "Allemande",
+    "defaultCountries": ["DE", "AT", "LI"],
+    "shortId": "de"
+  },
+  "4": {
+    "id": 4,
+    "nameId": "Hispanophone",
+    "defaultCountries": ["ES", "AD", "AR", "CK", "MX"],
+    "shortId": "es"
+  },
+  "5": {
+    "id": 5,
+    "nameId": "Russe",
+    "defaultCountries": ["RU"],
+    "shortId": "ru"
+  },
+  "6": {
+    "id": 6,
+    "nameId": "Brésilienne",
+    "defaultCountries": ["PT", "BR"],
+    "shortId": "pt"
+  },
+  "7": {
+    "id": 7,
+    "nameId": "Néerlandaise",
+    "defaultCountries": ["NL"],
+    "shortId": "nl"
+  },
+  "8": {
+    "id": 8,
+    "nameId": "Internationale",
+    "defaultCountries": ["XX"],
+    "shortId": "en"
+  },
+  "9": {
+    "id": 9,
+    "nameId": "Italienne",
+    "defaultCountries": ["IT"],
+    "shortId": "it"
+  },
+  "10": {
+    "id": 10,
+    "nameId": "Japonaise",
+    "defaultCountries": ["JP"],
+    "shortId": "ja"
+  },
+  "11": {
+    "id": 11,
+    "nameId": "Amérique du Nord",
+    "defaultCountries": ["US", "CA"],
+    "shortId": "na"
+  },
+  "99": { "id": 99, "nameId": "Debug", "defaultCountries": [], "shortId": "xx" }
+}

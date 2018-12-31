@@ -1,1 +1,1269 @@
-{"1":{"id":1,"nameMaleId":"Goule","nameFemaleId":"Goule","visible":false,"categoryId":9},"2":{"id":2,"nameMaleId":"Vampyre","nameFemaleId":"Vampyre","visible":false,"categoryId":9},"3":{"id":3,"nameMaleId":"Vampyre Sanglant","nameFemaleId":"Vampyre Sanglante","visible":false,"categoryId":9},"4":{"id":4,"nameMaleId":"Vampyre Maudyt","nameFemaleId":"Vampyre Maudyte","visible":false,"categoryId":9},"5":{"id":5,"nameMaleId":"Vampyre Ultyme","nameFemaleId":"Vampyre Ultyme","visible":false,"categoryId":9},"6":{"id":6,"nameMaleId":"Vampyre Démonyaque","nameFemaleId":"Vampyre Démonyaque","visible":false,"categoryId":9},"7":{"id":7,"nameMaleId":"Vampyre Runyque","nameFemaleId":"Vampyre Runyque","visible":false,"categoryId":9},"8":{"id":8,"nameMaleId":"Pourfendeur de Bworker","nameFemaleId":"Pourfendeuse de Bworker","visible":false,"categoryId":6},"9":{"id":9,"nameMaleId":"Pourfendeur du Sphincter Cell","nameFemaleId":"Pourfendeuse du Sphincter Cell","visible":false,"categoryId":6},"10":{"id":10,"nameMaleId":"Pourfendeur du Koulosse","nameFemaleId":"Pourfendeuse du Koulosse","visible":false,"categoryId":6},"11":{"id":11,"nameMaleId":"Pourfendeur du Wa Wabbit","nameFemaleId":"Pourfendeuse du Wa Wabbit","visible":false,"categoryId":6},"12":{"id":12,"nameMaleId":"Pourfendeur du Kimbo","nameFemaleId":"Pourfendeuse du Kimbo","visible":false,"categoryId":6},"13":{"id":13,"nameMaleId":"Pourfendeur du Minotoror","nameFemaleId":"Pourfendeuse du Minotoror","visible":false,"categoryId":6},"14":{"id":14,"nameMaleId":"Pourfendeur du Dragon Cochon","nameFemaleId":"Pourfendeuse du Dragon Cochon","visible":false,"categoryId":6},"15":{"id":15,"nameMaleId":"Pourfendeur du Chêne Mou","nameFemaleId":"Pourfendeuse du Chêne Mou","visible":false,"categoryId":6},"16":{"id":16,"nameMaleId":"Pourfendeur du Moon","nameFemaleId":"Pourfendeuse du Moon","visible":false,"categoryId":6},"17":{"id":17,"nameMaleId":"Pourfendeur du Dark Vlad","nameFemaleId":"Pourfendeuse du Dark Vlad","visible":false,"categoryId":6},"18":{"id":18,"nameMaleId":"Héros Bicentenaire","nameFemaleId":"Héroïne Bicentenaire","visible":false,"categoryId":5},"19":{"id":19,"nameMaleId":"Chevalier HispaÑique","nameFemaleId":"Chevalier HispaÑique","visible":false,"categoryId":5},"20":{"id":20,"nameMaleId":"Terreur de la Presqu'île","nameFemaleId":"Terreur de la Presqu'île","visible":true,"categoryId":7},"21":{"id":21,"nameMaleId":"Dékrokilliseur","nameFemaleId":"Dékrokilliseuse","visible":true,"categoryId":7},"22":{"id":22,"nameMaleId":"Bûcheron Primordial","nameFemaleId":"Bûcheronne Primordiale","visible":false,"categoryId":4},"23":{"id":23,"nameMaleId":"Forgeur d'Epées Primordial","nameFemaleId":"Forgeuse d'Epées Primordiale","visible":false,"categoryId":4},"24":{"id":24,"nameMaleId":"Sculpteur d'Arcs Primordial","nameFemaleId":"Sculpteuse d'Arcs Primordiale","visible":false,"categoryId":4},"25":{"id":25,"nameMaleId":"Forgeur de Marteaux Primordial","nameFemaleId":"Forgeuse de Marteaux Primordiale","visible":false,"categoryId":4},"26":{"id":26,"nameMaleId":"Cordonnier Primordial","nameFemaleId":"Cordonnière Primordiale","visible":false,"categoryId":4},"27":{"id":27,"nameMaleId":"Bijoutier Primordial","nameFemaleId":"Bijoutière Primordiale","visible":false,"categoryId":4},"28":{"id":28,"nameMaleId":"Forgeur de Dagues Primordial","nameFemaleId":"Forgeuse de Dagues Primordiale","visible":false,"categoryId":4},"29":{"id":29,"nameMaleId":"Sculpteur de Bâtons Primordial","nameFemaleId":"Sculpteuse de Bâtons Primordiale","visible":false,"categoryId":4},"30":{"id":30,"nameMaleId":"Sculpteur de Baguettes Primordial","nameFemaleId":"Sculpteuse de Baguettes Primordiale","visible":false,"categoryId":4},"31":{"id":31,"nameMaleId":"Forgeur de Pelles Primordial","nameFemaleId":"Forgeuse de Pelles Primordiale","visible":false,"categoryId":4},"32":{"id":32,"nameMaleId":"Mineur Primordial","nameFemaleId":"Mineuse Primordiale","visible":false,"categoryId":4},"33":{"id":33,"nameMaleId":"Boulanger Primordial","nameFemaleId":"Boulangère Primordiale","visible":false,"categoryId":4},"34":{"id":34,"nameMaleId":"Alchimiste Primordial","nameFemaleId":"Alchimiste Primordiale","visible":false,"categoryId":4},"35":{"id":35,"nameMaleId":"Tailleur Primordial","nameFemaleId":"Tailleuse Primordiale","visible":false,"categoryId":4},"36":{"id":36,"nameMaleId":"Paysan Primordial","nameFemaleId":"Paysanne Primordiale","visible":false,"categoryId":4},"37":{"id":37,"nameMaleId":"Forgeur de Haches Primordial","nameFemaleId":"Forgeuse de Haches Primordiale","visible":false,"categoryId":4},"38":{"id":38,"nameMaleId":"Pêcheur Primordial","nameFemaleId":"Pêcheuse Primordiale","visible":false,"categoryId":4},"39":{"id":39,"nameMaleId":"Chasseur Primordial","nameFemaleId":"Chasseuse Primordiale","visible":false,"categoryId":4},"40":{"id":40,"nameMaleId":"Forgemage de Dagues Primordial","nameFemaleId":"Forgemage de Dagues Primordiale","visible":false,"categoryId":4},"41":{"id":41,"nameMaleId":"Forgemage d'Epées Primordial","nameFemaleId":"Forgemage d'Epées Primordiale","visible":false,"categoryId":4},"42":{"id":42,"nameMaleId":"Forgemage de Marteaux Primordial","nameFemaleId":"Forgemage de Marteaux Primordiale","visible":false,"categoryId":4},"43":{"id":43,"nameMaleId":"Forgemage de Pelles Primordial","nameFemaleId":"Forgemage de Pelles Primordiale","visible":false,"categoryId":4},"44":{"id":44,"nameMaleId":"Forgemage de Haches Primordial","nameFemaleId":"Forgemage de Haches Primordiale","visible":false,"categoryId":4},"45":{"id":45,"nameMaleId":"Sculptemage d'Arcs Primordial","nameFemaleId":"Sculptemage d'Arcs Primordiale","visible":false,"categoryId":4},"46":{"id":46,"nameMaleId":"Sculptemage de Baguettes Primordial","nameFemaleId":"Sculptemage de Baguettes Primordiale","visible":false,"categoryId":4},"47":{"id":47,"nameMaleId":"Sculptemage de Bâtons Primordial","nameFemaleId":"Sculptemage de Bâtons Primordiale","visible":false,"categoryId":4},"48":{"id":48,"nameMaleId":"Boucher Primordial","nameFemaleId":"Bouchère Primordiale","visible":false,"categoryId":4},"49":{"id":49,"nameMaleId":"Poissonnier Primordial","nameFemaleId":"Poissonnière Primordiale","visible":false,"categoryId":4},"50":{"id":50,"nameMaleId":"Forgeur de Boucliers Primordial","nameFemaleId":"Forgeuse de Boucliers Primordiale","visible":false,"categoryId":4},"51":{"id":51,"nameMaleId":"Cordomage Primordial","nameFemaleId":"Cordomage Primordiale","visible":false,"categoryId":4},"52":{"id":52,"nameMaleId":"Joaillomage Primordial","nameFemaleId":"Joaillomage Primordials","visible":false,"categoryId":4},"53":{"id":53,"nameMaleId":"Costumage Primordial","nameFemaleId":"Costumage Primordiale","visible":false,"categoryId":4},"54":{"id":54,"nameMaleId":"Bricoleur Primordial","nameFemaleId":"Bricoleuse Primordiale","visible":false,"categoryId":4},"55":{"id":55,"nameMaleId":"Pourfendeur des congères","nameFemaleId":"Pourfendeuse des congères","visible":false,"categoryId":8},"56":{"id":56,"nameMaleId":"Nettoyeur de donjon","nameFemaleId":"Nettoyeuse de donjon","visible":false,"categoryId":8},"57":{"id":57,"nameMaleId":"Maudit par Az le Tech","nameFemaleId":"Maudite par Az le Tech","visible":false,"categoryId":1},"58":{"id":58,"nameMaleId":"Maître des Éléments","nameFemaleId":"Maîtresse des Éléments","visible":true,"categoryId":1},"59":{"id":59,"nameMaleId":"Grand Maître des Éléments","nameFemaleId":"Grande Maîtresse des Éléments","visible":true,"categoryId":1},"60":{"id":60,"nameMaleId":"Initié du S.L.I.P.","nameFemaleId":"Initiée du S.L.I.P.","visible":true,"categoryId":1},"61":{"id":61,"nameMaleId":"Conquérant de la Lumière","nameFemaleId":"Conquérante de la Lumière","visible":true,"categoryId":1},"62":{"id":62,"nameMaleId":"Popol le Poulpe","nameFemaleId":"Popol le Poulpe","visible":false,"categoryId":8},"63":{"id":63,"nameMaleId":"Noweliste","nameFemaleId":"Noweliste","visible":true,"categoryId":7},"64":{"id":64,"nameMaleId":"Ballotin","nameFemaleId":"Ballotin","visible":true,"categoryId":7},"65":{"id":65,"nameMaleId":"Ballotine","nameFemaleId":"Ballotine","visible":true,"categoryId":7},"66":{"id":66,"nameMaleId":"Coeur à prendre","nameFemaleId":"Coeur à prendre","visible":true,"categoryId":7},"67":{"id":67,"nameMaleId":"Grand Stratéglours","nameFemaleId":"Grande Stratéglourse","visible":false,"categoryId":8},"68":{"id":68,"nameMaleId":"Marcheur Dimensionnel","nameFemaleId":"Marcheuse Dimensionnelle","visible":false,"categoryId":9},"69":{"id":69,"nameMaleId":"Apprenti d'Otomaï","nameFemaleId":"Apprentie d'Otomaï","visible":true,"categoryId":1},"70":{"id":70,"nameMaleId":"Champion du Goultarminator 639","nameFemaleId":"Championne du Goultarminator 639","visible":false,"categoryId":8},"71":{"id":71,"nameMaleId":"Mister Amakna","nameFemaleId":"Mister Amakna","visible":false,"categoryId":8},"72":{"id":72,"nameMaleId":"Miss Amakna","nameFemaleId":"Miss Amakna","visible":false,"categoryId":8},"73":{"id":73,"nameMaleId":"Mister Monde des Douze","nameFemaleId":"Mister Monde des Douze","visible":false,"categoryId":8},"74":{"id":74,"nameMaleId":"Miss Monde des Douze","nameFemaleId":"Miss Monde des Douze","visible":false,"categoryId":8},"75":{"id":75,"nameMaleId":"Chasseur de Touristes","nameFemaleId":"Chasseuse de Touristes","visible":true,"categoryId":7},"76":{"id":76,"nameMaleId":"Chasseur de Krokilles","nameFemaleId":"Chasseuse de Krokilles","visible":true,"categoryId":7},"77":{"id":77,"nameMaleId":"Chasseur de Légendes","nameFemaleId":"Chasseuse de Légendes","visible":true,"categoryId":7},"78":{"id":78,"nameMaleId":"Héroe de HispaÑia","nameFemaleId":"Héroe de HispaÑia","visible":false,"categoryId":5},"80":{"id":80,"nameMaleId":"Marque-Page","nameFemaleId":"Marque-Page","visible":true,"categoryId":1},"81":{"id":81,"nameMaleId":"Champion du Goultarminator 640","nameFemaleId":"Championne du Goultarminator 640","visible":false,"categoryId":8},"82":{"id":82,"nameMaleId":"Champion du Goultarminator 641","nameFemaleId":"Championne du Goultarminator 641","visible":false,"categoryId":8},"83":{"id":83,"nameMaleId":"Terreur de Vulkania","nameFemaleId":"Terreur de Vulkania","visible":true,"categoryId":7},"84":{"id":84,"nameMaleId":"Noweliste Grandiloquent","nameFemaleId":"Noweliste Grandiloquente","visible":true,"categoryId":7},"85":{"id":85,"nameMaleId":"Noweliste Décadent","nameFemaleId":"Noweliste Décadente","visible":true,"categoryId":7},"86":{"id":86,"nameMaleId":"Disciple Pandawushuka","nameFemaleId":"Disciple Pandawushuka","visible":true,"categoryId":1},"87":{"id":87,"nameMaleId":"Champion Azur","nameFemaleId":"Championne Azur","visible":false,"categoryId":5},"89":{"id":89,"nameMaleId":"Protecteur des Profondeurs","nameFemaleId":"Protectrice des Profondeurs","visible":false,"categoryId":8},"90":{"id":90,"nameMaleId":"Pwâkificateur","nameFemaleId":"Pwâkificatrice","visible":true,"categoryId":8},"91":{"id":91,"nameMaleId":"Robill Adoptif","nameFemaleId":"Robill Adoptive","visible":true,"categoryId":1},"93":{"id":93,"nameMaleId":"Trouffion des Neiges","nameFemaleId":"Trouffion des Neiges","visible":true,"categoryId":1},"95":{"id":95,"nameMaleId":"Pilier de Comptoir","nameFemaleId":"Pilier de Comptoir","visible":false,"categoryId":5},"96":{"id":96,"nameMaleId":"Mini-Mister Amakna","nameFemaleId":"Mini-Mister Amakna","visible":false,"categoryId":8},"97":{"id":97,"nameMaleId":"Mini-Miss Amakna","nameFemaleId":"Mini-Miss Amakna","visible":false,"categoryId":8},"98":{"id":98,"nameMaleId":"Écumeur des 107 océans","nameFemaleId":"Écumeuse des 107 océans","visible":false,"categoryId":7},"99":{"id":99,"nameMaleId":"Farfouilleur d'Otomaï","nameFemaleId":"Farfouilleuse d'Otomaï","visible":false,"categoryId":9},"100":{"id":100,"nameMaleId":"Citrouillard","nameFemaleId":"Citrouillarde","visible":true,"categoryId":7},"101":{"id":101,"nameMaleId":"Champion du Goultarminator 642","nameFemaleId":"Championne du Goultarminator 642","visible":false,"categoryId":8},"102":{"id":102,"nameMaleId":"Chevalier Doré HispaÑique","nameFemaleId":"Chevalier Doré HispaÑique","visible":false,"categoryId":5},"103":{"id":103,"nameMaleId":"Ami de Kerubim","nameFemaleId":"Amie de Kerubim","visible":true,"categoryId":1},"109":{"id":109,"nameMaleId":"La Machine","nameFemaleId":"La Machine","visible":true,"categoryId":1},"110":{"id":110,"nameMaleId":"Accoucheur survolté","nameFemaleId":"Accoucheuse survoltée","visible":true,"categoryId":1},"111":{"id":111,"nameMaleId":"Colosse aux pieds graciles","nameFemaleId":"Colosse aux pieds graciles","visible":true,"categoryId":1},"112":{"id":112,"nameMaleId":"Aventurier de l'Avent","nameFemaleId":"Aventurière de l'Avent","visible":true,"categoryId":7},"113":{"id":113,"nameMaleId":"Émotif","nameFemaleId":"Émotive","visible":true,"categoryId":1},"114":{"id":114,"nameMaleId":"Tête Couronnée","nameFemaleId":"Tête Couronnée","visible":true,"categoryId":1},"115":{"id":115,"nameMaleId":"Moissonneur des Âmes","nameFemaleId":"Moissonneuse des Âmes","visible":true,"categoryId":1},"116":{"id":116,"nameMaleId":"Héros de l'Année","nameFemaleId":"Héroïne de l'Année","visible":true,"categoryId":1},"117":{"id":117,"nameMaleId":"Chasseur de Primes","nameFemaleId":"Chasseuse de Primes","visible":true,"categoryId":1},"118":{"id":118,"nameMaleId":"Chahuteur Clandestin","nameFemaleId":"Chahuteuse Clandestine","visible":true,"categoryId":1},"119":{"id":119,"nameMaleId":"Querelleur Clandestin","nameFemaleId":"Querelleuse Clandestine","visible":true,"categoryId":1},"120":{"id":120,"nameMaleId":"Bagarreur Clandestin","nameFemaleId":"Bagarreuse Clandestine","visible":true,"categoryId":1},"121":{"id":121,"nameMaleId":"Lutteur Clandestin","nameFemaleId":"Lutteuse Clandestine","visible":true,"categoryId":1},"124":{"id":124,"nameMaleId":"Lécheur de Bottes","nameFemaleId":"Lécheuse de Bottes","visible":true,"categoryId":1},"125":{"id":125,"nameMaleId":"Bouche-trou","nameFemaleId":"Bouche-trou","visible":true,"categoryId":1},"126":{"id":126,"nameMaleId":"Krosmonaute","nameFemaleId":"Krosmonaute","visible":true,"categoryId":1},"128":{"id":128,"nameMaleId":"Enquêteur","nameFemaleId":"Enquêteuse","visible":true,"categoryId":1},"129":{"id":129,"nameMaleId":"Chercheur de Vérité","nameFemaleId":"Chercheuse de Vérité","visible":true,"categoryId":1},"130":{"id":130,"nameMaleId":"Marabout","nameFemaleId":"Marabout","visible":true,"categoryId":1},"134":{"id":134,"nameMaleId":"Garde du Jour sans Fin","nameFemaleId":"Garde du Jour sans Fin","visible":true,"categoryId":1},"135":{"id":135,"nameMaleId":"Bienfaiteur de Frigost","nameFemaleId":"Bienfaitrice de Frigost","visible":true,"categoryId":1},"136":{"id":136,"nameMaleId":"Vengeur des Terres Gelées","nameFemaleId":"Vengeresse des Terres Gelées","visible":true,"categoryId":1},"139":{"id":139,"nameMaleId":"Poursuivant de Mythes","nameFemaleId":"Poursuivante de Mythes","visible":true,"categoryId":1},"140":{"id":140,"nameMaleId":"Jouet des Immortels","nameFemaleId":"Jouet des Immortels","visible":true,"categoryId":1},"142":{"id":142,"nameMaleId":"Larve de Dremoan","nameFemaleId":"Larve de Dremoan","visible":true,"categoryId":1},"143":{"id":143,"nameMaleId":"Collectionneur de trucs","nameFemaleId":"Collectionneuse de trucs","visible":true,"categoryId":1},"144":{"id":144,"nameMaleId":"Éclaireur d'Obscurité","nameFemaleId":"Éclaireuse d'Obscurité","visible":true,"categoryId":8},"145":{"id":145,"nameMaleId":"Cwoqueuw de Cawotte","nameFemaleId":"Cwoqueuse de Cawotte","visible":true,"categoryId":1},"146":{"id":146,"nameMaleId":"Nettoyeur de Shushu","nameFemaleId":"Nettoyeuse de Shushu","visible":true,"categoryId":1},"147":{"id":147,"nameMaleId":"Super-assistant","nameFemaleId":"Super-assistante","visible":true,"categoryId":1},"148":{"id":148,"nameMaleId":"Enguirlandeur","nameFemaleId":"Enguirlandeuse","visible":false,"categoryId":7},"150":{"id":150,"nameMaleId":"Toujours sur la brèche","nameFemaleId":"Toujours sur la brèche","visible":false,"categoryId":8},"151":{"id":151,"nameMaleId":"Dieu de l'arène","nameFemaleId":"Déesse de l'arène","visible":false,"categoryId":8},"152":{"id":152,"nameMaleId":"Agitateur du peuple","nameFemaleId":"Agitatrice du peuple","visible":false,"categoryId":8},"153":{"id":153,"nameMaleId":"Pas de rats, pas de chocolat","nameFemaleId":"Pas de rats, pas de chocolat","visible":false,"categoryId":8},"154":{"id":154,"nameMaleId":"Batailleur","nameFemaleId":"Batailleuse","visible":false,"categoryId":7},"155":{"id":155,"nameMaleId":"Protecteur de la Cité Blanche","nameFemaleId":"Protectrice de la Cité Blanche","visible":false,"categoryId":7},"156":{"id":156,"nameMaleId":"Protecteur de la Cité Sombre","nameFemaleId":"Protectrice de la Cité Sombre","visible":false,"categoryId":7},"157":{"id":157,"nameMaleId":"Dieu de rechange","nameFemaleId":"Déesse de rechange","visible":false,"categoryId":8},"158":{"id":158,"nameMaleId":"Traîne-potence","nameFemaleId":"Traîne-potence","visible":false,"categoryId":1},"159":{"id":159,"nameMaleId":"Community Helper","nameFemaleId":"Community Helper","visible":false,"categoryId":5},"160":{"id":160,"nameMaleId":"Nouveau Sang","nameFemaleId":"Nouveau Sang","visible":false,"categoryId":9},"161":{"id":161,"nameMaleId":"Bête de scène","nameFemaleId":"Bête de scène","visible":false,"categoryId":1},"162":{"id":162,"nameMaleId":"Grand Mestre","nameFemaleId":"Grande Mestra","visible":false,"categoryId":1},"163":{"id":163,"nameMaleId":"Pourfendeur du Maître Corbac","nameFemaleId":"Pourfendeuse du Maître Corbac","visible":false,"categoryId":6},"164":{"id":164,"nameMaleId":"Fléau des tavernes","nameFemaleId":"Fléau des tavernes","visible":false,"categoryId":7},"165":{"id":165,"nameMaleId":"Maître des Abîmes","nameFemaleId":"Maîtresse des Abîmes","visible":false,"categoryId":8},"166":{"id":166,"nameMaleId":"Combattant des Abîmes","nameFemaleId":"Combattante des Abîmes","visible":false,"categoryId":8},"167":{"id":167,"nameMaleId":"Rescapé des Abîmes","nameFemaleId":"Rescapée des Abîmes","visible":false,"categoryId":8},"168":{"id":168,"nameMaleId":"Arbitre","nameFemaleId":"Arbitre","visible":false,"categoryId":1},"169":{"id":169,"nameMaleId":"Casse l'écaille","nameFemaleId":"Casse l'écaille","visible":false,"categoryId":7},"170":{"id":170,"nameMaleId":"Parangon Xélor","nameFemaleId":"Parangon Xélor","visible":false,"categoryId":7},"171":{"id":171,"nameMaleId":"Parangon Sram","nameFemaleId":"Parangon Sram","visible":false,"categoryId":7},"172":{"id":172,"nameMaleId":"Parangon Iop","nameFemaleId":"Parangon Iop","visible":false,"categoryId":7},"173":{"id":173,"nameMaleId":"Parangon Sadida","nameFemaleId":"Parangon Sadida","visible":false,"categoryId":7},"174":{"id":174,"nameMaleId":"Parangon Osamodas","nameFemaleId":"Parangon Osamodas","visible":false,"categoryId":7},"175":{"id":175,"nameMaleId":"Parangon Eniripsa","nameFemaleId":"Parangon Eniripsa","visible":false,"categoryId":7},"176":{"id":176,"nameMaleId":"Parangon Ecaflip","nameFemaleId":"Parangon Ecaflip","visible":false,"categoryId":7},"177":{"id":177,"nameMaleId":"Parangon Steamer","nameFemaleId":"Parangon Steamer","visible":false,"categoryId":7},"178":{"id":178,"nameMaleId":"Parangon Zobal","nameFemaleId":"Parangon Zobal","visible":false,"categoryId":7},"179":{"id":179,"nameMaleId":"Parangon Féca","nameFemaleId":"Parangon Féca","visible":false,"categoryId":7},"180":{"id":180,"nameMaleId":"Parangon Enutrof","nameFemaleId":"Parangon Enutrof","visible":false,"categoryId":7},"181":{"id":181,"nameMaleId":"Parangon Crâ","nameFemaleId":"Parangon Crâ","visible":false,"categoryId":7},"182":{"id":182,"nameMaleId":"Parangon Pandawa","nameFemaleId":"Parangon Pandawa","visible":false,"categoryId":7},"183":{"id":183,"nameMaleId":"Parangon Roublard","nameFemaleId":"Parangon Roublard","visible":false,"categoryId":7},"184":{"id":184,"nameMaleId":"Parangon Sacrieur","nameFemaleId":"Parangon Sacrieur","visible":false,"categoryId":7},"185":{"id":185,"nameMaleId":"Grand Chambardeur","nameFemaleId":"Grande Chambardeuse","visible":false,"categoryId":1},"186":{"id":186,"nameMaleId":"Orfèvre Impérial","nameFemaleId":"Orfèvre Impériale","visible":false,"categoryId":1},"187":{"id":187,"nameMaleId":"Pourfendeur de Skeunk","nameFemaleId":"Pourfendeuse de Skeunk","visible":false,"categoryId":6},"188":{"id":188,"nameMaleId":"Forgemage talentueux","nameFemaleId":"Forgemage talentueuse","visible":false,"categoryId":1},"189":{"id":189,"nameMaleId":"Perceur de Mystères","nameFemaleId":"Perceuse de Mystères","visible":true,"categoryId":1},"190":{"id":190,"nameMaleId":"Chasseur de démons","nameFemaleId":"Chasseuse de démons","visible":true,"categoryId":1},"191":{"id":191,"nameMaleId":"Aventurier de Nowel 648","nameFemaleId":"Aventurière de Nowel 648","visible":false,"categoryId":7},"192":{"id":192,"nameMaleId":"Grimpeur de Légende 1","nameFemaleId":"Grimpeuse de Légende 1","visible":false,"categoryId":1},"193":{"id":193,"nameMaleId":"Grimpeur de Diamant 1","nameFemaleId":"Grimpeuse de Diamant 1","visible":false,"categoryId":1},"194":{"id":194,"nameMaleId":"Grimpeur de Cristal 1","nameFemaleId":"Grimpeuse de Cristal 1","visible":false,"categoryId":1},"200":{"id":200,"nameMaleId":"Champion des Bêtas","nameFemaleId":"Championne des Bêtas","visible":false,"categoryId":8},"201":{"id":201,"nameMaleId":"Bête à test","nameFemaleId":"Bête à test","visible":false,"categoryId":8},"202":{"id":202,"nameMaleId":"Désinsectiseur","nameFemaleId":"Désinsectiseuse","visible":false,"categoryId":8},"203":{"id":203,"nameMaleId":"Touche-à-tout","nameFemaleId":"Touche-à-tout","visible":false,"categoryId":8},"204":{"id":204,"nameMaleId":"Gardien de la Tablette","nameFemaleId":"Gardienne de la Tablette","visible":false,"categoryId":8},"205":{"id":205,"nameMaleId":"Senteur des îles","nameFemaleId":"Senteur des îles","visible":false,"categoryId":8}}
+{
+  "1": {
+    "id": 1,
+    "nameMaleId": "Goule",
+    "nameFemaleId": "Goule",
+    "visible": false,
+    "categoryId": 9
+  },
+  "2": {
+    "id": 2,
+    "nameMaleId": "Vampyre",
+    "nameFemaleId": "Vampyre",
+    "visible": false,
+    "categoryId": 9
+  },
+  "3": {
+    "id": 3,
+    "nameMaleId": "Vampyre Sanglant",
+    "nameFemaleId": "Vampyre Sanglante",
+    "visible": false,
+    "categoryId": 9
+  },
+  "4": {
+    "id": 4,
+    "nameMaleId": "Vampyre Maudyt",
+    "nameFemaleId": "Vampyre Maudyte",
+    "visible": false,
+    "categoryId": 9
+  },
+  "5": {
+    "id": 5,
+    "nameMaleId": "Vampyre Ultyme",
+    "nameFemaleId": "Vampyre Ultyme",
+    "visible": false,
+    "categoryId": 9
+  },
+  "6": {
+    "id": 6,
+    "nameMaleId": "Vampyre Démonyaque",
+    "nameFemaleId": "Vampyre Démonyaque",
+    "visible": false,
+    "categoryId": 9
+  },
+  "7": {
+    "id": 7,
+    "nameMaleId": "Vampyre Runyque",
+    "nameFemaleId": "Vampyre Runyque",
+    "visible": false,
+    "categoryId": 9
+  },
+  "8": {
+    "id": 8,
+    "nameMaleId": "Pourfendeur de Bworker",
+    "nameFemaleId": "Pourfendeuse de Bworker",
+    "visible": false,
+    "categoryId": 6
+  },
+  "9": {
+    "id": 9,
+    "nameMaleId": "Pourfendeur du Sphincter Cell",
+    "nameFemaleId": "Pourfendeuse du Sphincter Cell",
+    "visible": false,
+    "categoryId": 6
+  },
+  "10": {
+    "id": 10,
+    "nameMaleId": "Pourfendeur du Koulosse",
+    "nameFemaleId": "Pourfendeuse du Koulosse",
+    "visible": false,
+    "categoryId": 6
+  },
+  "11": {
+    "id": 11,
+    "nameMaleId": "Pourfendeur du Wa Wabbit",
+    "nameFemaleId": "Pourfendeuse du Wa Wabbit",
+    "visible": false,
+    "categoryId": 6
+  },
+  "12": {
+    "id": 12,
+    "nameMaleId": "Pourfendeur du Kimbo",
+    "nameFemaleId": "Pourfendeuse du Kimbo",
+    "visible": false,
+    "categoryId": 6
+  },
+  "13": {
+    "id": 13,
+    "nameMaleId": "Pourfendeur du Minotoror",
+    "nameFemaleId": "Pourfendeuse du Minotoror",
+    "visible": false,
+    "categoryId": 6
+  },
+  "14": {
+    "id": 14,
+    "nameMaleId": "Pourfendeur du Dragon Cochon",
+    "nameFemaleId": "Pourfendeuse du Dragon Cochon",
+    "visible": false,
+    "categoryId": 6
+  },
+  "15": {
+    "id": 15,
+    "nameMaleId": "Pourfendeur du Chêne Mou",
+    "nameFemaleId": "Pourfendeuse du Chêne Mou",
+    "visible": false,
+    "categoryId": 6
+  },
+  "16": {
+    "id": 16,
+    "nameMaleId": "Pourfendeur du Moon",
+    "nameFemaleId": "Pourfendeuse du Moon",
+    "visible": false,
+    "categoryId": 6
+  },
+  "17": {
+    "id": 17,
+    "nameMaleId": "Pourfendeur du Dark Vlad",
+    "nameFemaleId": "Pourfendeuse du Dark Vlad",
+    "visible": false,
+    "categoryId": 6
+  },
+  "18": {
+    "id": 18,
+    "nameMaleId": "Héros Bicentenaire",
+    "nameFemaleId": "Héroïne Bicentenaire",
+    "visible": false,
+    "categoryId": 5
+  },
+  "19": {
+    "id": 19,
+    "nameMaleId": "Chevalier HispaÑique",
+    "nameFemaleId": "Chevalier HispaÑique",
+    "visible": false,
+    "categoryId": 5
+  },
+  "20": {
+    "id": 20,
+    "nameMaleId": "Terreur de la Presqu'île",
+    "nameFemaleId": "Terreur de la Presqu'île",
+    "visible": true,
+    "categoryId": 7
+  },
+  "21": {
+    "id": 21,
+    "nameMaleId": "Dékrokilliseur",
+    "nameFemaleId": "Dékrokilliseuse",
+    "visible": true,
+    "categoryId": 7
+  },
+  "22": {
+    "id": 22,
+    "nameMaleId": "Bûcheron Primordial",
+    "nameFemaleId": "Bûcheronne Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "23": {
+    "id": 23,
+    "nameMaleId": "Forgeur d'Epées Primordial",
+    "nameFemaleId": "Forgeuse d'Epées Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "24": {
+    "id": 24,
+    "nameMaleId": "Sculpteur d'Arcs Primordial",
+    "nameFemaleId": "Sculpteuse d'Arcs Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "25": {
+    "id": 25,
+    "nameMaleId": "Forgeur de Marteaux Primordial",
+    "nameFemaleId": "Forgeuse de Marteaux Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "26": {
+    "id": 26,
+    "nameMaleId": "Cordonnier Primordial",
+    "nameFemaleId": "Cordonnière Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "27": {
+    "id": 27,
+    "nameMaleId": "Bijoutier Primordial",
+    "nameFemaleId": "Bijoutière Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "28": {
+    "id": 28,
+    "nameMaleId": "Forgeur de Dagues Primordial",
+    "nameFemaleId": "Forgeuse de Dagues Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "29": {
+    "id": 29,
+    "nameMaleId": "Sculpteur de Bâtons Primordial",
+    "nameFemaleId": "Sculpteuse de Bâtons Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "30": {
+    "id": 30,
+    "nameMaleId": "Sculpteur de Baguettes Primordial",
+    "nameFemaleId": "Sculpteuse de Baguettes Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "31": {
+    "id": 31,
+    "nameMaleId": "Forgeur de Pelles Primordial",
+    "nameFemaleId": "Forgeuse de Pelles Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "32": {
+    "id": 32,
+    "nameMaleId": "Mineur Primordial",
+    "nameFemaleId": "Mineuse Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "33": {
+    "id": 33,
+    "nameMaleId": "Boulanger Primordial",
+    "nameFemaleId": "Boulangère Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "34": {
+    "id": 34,
+    "nameMaleId": "Alchimiste Primordial",
+    "nameFemaleId": "Alchimiste Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "35": {
+    "id": 35,
+    "nameMaleId": "Tailleur Primordial",
+    "nameFemaleId": "Tailleuse Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "36": {
+    "id": 36,
+    "nameMaleId": "Paysan Primordial",
+    "nameFemaleId": "Paysanne Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "37": {
+    "id": 37,
+    "nameMaleId": "Forgeur de Haches Primordial",
+    "nameFemaleId": "Forgeuse de Haches Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "38": {
+    "id": 38,
+    "nameMaleId": "Pêcheur Primordial",
+    "nameFemaleId": "Pêcheuse Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "39": {
+    "id": 39,
+    "nameMaleId": "Chasseur Primordial",
+    "nameFemaleId": "Chasseuse Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "40": {
+    "id": 40,
+    "nameMaleId": "Forgemage de Dagues Primordial",
+    "nameFemaleId": "Forgemage de Dagues Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "41": {
+    "id": 41,
+    "nameMaleId": "Forgemage d'Epées Primordial",
+    "nameFemaleId": "Forgemage d'Epées Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "42": {
+    "id": 42,
+    "nameMaleId": "Forgemage de Marteaux Primordial",
+    "nameFemaleId": "Forgemage de Marteaux Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "43": {
+    "id": 43,
+    "nameMaleId": "Forgemage de Pelles Primordial",
+    "nameFemaleId": "Forgemage de Pelles Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "44": {
+    "id": 44,
+    "nameMaleId": "Forgemage de Haches Primordial",
+    "nameFemaleId": "Forgemage de Haches Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "45": {
+    "id": 45,
+    "nameMaleId": "Sculptemage d'Arcs Primordial",
+    "nameFemaleId": "Sculptemage d'Arcs Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "46": {
+    "id": 46,
+    "nameMaleId": "Sculptemage de Baguettes Primordial",
+    "nameFemaleId": "Sculptemage de Baguettes Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "47": {
+    "id": 47,
+    "nameMaleId": "Sculptemage de Bâtons Primordial",
+    "nameFemaleId": "Sculptemage de Bâtons Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "48": {
+    "id": 48,
+    "nameMaleId": "Boucher Primordial",
+    "nameFemaleId": "Bouchère Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "49": {
+    "id": 49,
+    "nameMaleId": "Poissonnier Primordial",
+    "nameFemaleId": "Poissonnière Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "50": {
+    "id": 50,
+    "nameMaleId": "Forgeur de Boucliers Primordial",
+    "nameFemaleId": "Forgeuse de Boucliers Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "51": {
+    "id": 51,
+    "nameMaleId": "Cordomage Primordial",
+    "nameFemaleId": "Cordomage Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "52": {
+    "id": 52,
+    "nameMaleId": "Joaillomage Primordial",
+    "nameFemaleId": "Joaillomage Primordials",
+    "visible": false,
+    "categoryId": 4
+  },
+  "53": {
+    "id": 53,
+    "nameMaleId": "Costumage Primordial",
+    "nameFemaleId": "Costumage Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "54": {
+    "id": 54,
+    "nameMaleId": "Bricoleur Primordial",
+    "nameFemaleId": "Bricoleuse Primordiale",
+    "visible": false,
+    "categoryId": 4
+  },
+  "55": {
+    "id": 55,
+    "nameMaleId": "Pourfendeur des congères",
+    "nameFemaleId": "Pourfendeuse des congères",
+    "visible": false,
+    "categoryId": 8
+  },
+  "56": {
+    "id": 56,
+    "nameMaleId": "Nettoyeur de donjon",
+    "nameFemaleId": "Nettoyeuse de donjon",
+    "visible": false,
+    "categoryId": 8
+  },
+  "57": {
+    "id": 57,
+    "nameMaleId": "Maudit par Az le Tech",
+    "nameFemaleId": "Maudite par Az le Tech",
+    "visible": false,
+    "categoryId": 1
+  },
+  "58": {
+    "id": 58,
+    "nameMaleId": "Maître des Éléments",
+    "nameFemaleId": "Maîtresse des Éléments",
+    "visible": true,
+    "categoryId": 1
+  },
+  "59": {
+    "id": 59,
+    "nameMaleId": "Grand Maître des Éléments",
+    "nameFemaleId": "Grande Maîtresse des Éléments",
+    "visible": true,
+    "categoryId": 1
+  },
+  "60": {
+    "id": 60,
+    "nameMaleId": "Initié du S.L.I.P.",
+    "nameFemaleId": "Initiée du S.L.I.P.",
+    "visible": true,
+    "categoryId": 1
+  },
+  "61": {
+    "id": 61,
+    "nameMaleId": "Conquérant de la Lumière",
+    "nameFemaleId": "Conquérante de la Lumière",
+    "visible": true,
+    "categoryId": 1
+  },
+  "62": {
+    "id": 62,
+    "nameMaleId": "Popol le Poulpe",
+    "nameFemaleId": "Popol le Poulpe",
+    "visible": false,
+    "categoryId": 8
+  },
+  "63": {
+    "id": 63,
+    "nameMaleId": "Noweliste",
+    "nameFemaleId": "Noweliste",
+    "visible": true,
+    "categoryId": 7
+  },
+  "64": {
+    "id": 64,
+    "nameMaleId": "Ballotin",
+    "nameFemaleId": "Ballotin",
+    "visible": true,
+    "categoryId": 7
+  },
+  "65": {
+    "id": 65,
+    "nameMaleId": "Ballotine",
+    "nameFemaleId": "Ballotine",
+    "visible": true,
+    "categoryId": 7
+  },
+  "66": {
+    "id": 66,
+    "nameMaleId": "Coeur à prendre",
+    "nameFemaleId": "Coeur à prendre",
+    "visible": true,
+    "categoryId": 7
+  },
+  "67": {
+    "id": 67,
+    "nameMaleId": "Grand Stratéglours",
+    "nameFemaleId": "Grande Stratéglourse",
+    "visible": false,
+    "categoryId": 8
+  },
+  "68": {
+    "id": 68,
+    "nameMaleId": "Marcheur Dimensionnel",
+    "nameFemaleId": "Marcheuse Dimensionnelle",
+    "visible": false,
+    "categoryId": 9
+  },
+  "69": {
+    "id": 69,
+    "nameMaleId": "Apprenti d'Otomaï",
+    "nameFemaleId": "Apprentie d'Otomaï",
+    "visible": true,
+    "categoryId": 1
+  },
+  "70": {
+    "id": 70,
+    "nameMaleId": "Champion du Goultarminator 639",
+    "nameFemaleId": "Championne du Goultarminator 639",
+    "visible": false,
+    "categoryId": 8
+  },
+  "71": {
+    "id": 71,
+    "nameMaleId": "Mister Amakna",
+    "nameFemaleId": "Mister Amakna",
+    "visible": false,
+    "categoryId": 8
+  },
+  "72": {
+    "id": 72,
+    "nameMaleId": "Miss Amakna",
+    "nameFemaleId": "Miss Amakna",
+    "visible": false,
+    "categoryId": 8
+  },
+  "73": {
+    "id": 73,
+    "nameMaleId": "Mister Monde des Douze",
+    "nameFemaleId": "Mister Monde des Douze",
+    "visible": false,
+    "categoryId": 8
+  },
+  "74": {
+    "id": 74,
+    "nameMaleId": "Miss Monde des Douze",
+    "nameFemaleId": "Miss Monde des Douze",
+    "visible": false,
+    "categoryId": 8
+  },
+  "75": {
+    "id": 75,
+    "nameMaleId": "Chasseur de Touristes",
+    "nameFemaleId": "Chasseuse de Touristes",
+    "visible": true,
+    "categoryId": 7
+  },
+  "76": {
+    "id": 76,
+    "nameMaleId": "Chasseur de Krokilles",
+    "nameFemaleId": "Chasseuse de Krokilles",
+    "visible": true,
+    "categoryId": 7
+  },
+  "77": {
+    "id": 77,
+    "nameMaleId": "Chasseur de Légendes",
+    "nameFemaleId": "Chasseuse de Légendes",
+    "visible": true,
+    "categoryId": 7
+  },
+  "78": {
+    "id": 78,
+    "nameMaleId": "Héroe de HispaÑia",
+    "nameFemaleId": "Héroe de HispaÑia",
+    "visible": false,
+    "categoryId": 5
+  },
+  "80": {
+    "id": 80,
+    "nameMaleId": "Marque-Page",
+    "nameFemaleId": "Marque-Page",
+    "visible": true,
+    "categoryId": 1
+  },
+  "81": {
+    "id": 81,
+    "nameMaleId": "Champion du Goultarminator 640",
+    "nameFemaleId": "Championne du Goultarminator 640",
+    "visible": false,
+    "categoryId": 8
+  },
+  "82": {
+    "id": 82,
+    "nameMaleId": "Champion du Goultarminator 641",
+    "nameFemaleId": "Championne du Goultarminator 641",
+    "visible": false,
+    "categoryId": 8
+  },
+  "83": {
+    "id": 83,
+    "nameMaleId": "Terreur de Vulkania",
+    "nameFemaleId": "Terreur de Vulkania",
+    "visible": true,
+    "categoryId": 7
+  },
+  "84": {
+    "id": 84,
+    "nameMaleId": "Noweliste Grandiloquent",
+    "nameFemaleId": "Noweliste Grandiloquente",
+    "visible": true,
+    "categoryId": 7
+  },
+  "85": {
+    "id": 85,
+    "nameMaleId": "Noweliste Décadent",
+    "nameFemaleId": "Noweliste Décadente",
+    "visible": true,
+    "categoryId": 7
+  },
+  "86": {
+    "id": 86,
+    "nameMaleId": "Disciple Pandawushuka",
+    "nameFemaleId": "Disciple Pandawushuka",
+    "visible": true,
+    "categoryId": 1
+  },
+  "87": {
+    "id": 87,
+    "nameMaleId": "Champion Azur",
+    "nameFemaleId": "Championne Azur",
+    "visible": false,
+    "categoryId": 5
+  },
+  "89": {
+    "id": 89,
+    "nameMaleId": "Protecteur des Profondeurs",
+    "nameFemaleId": "Protectrice des Profondeurs",
+    "visible": false,
+    "categoryId": 8
+  },
+  "90": {
+    "id": 90,
+    "nameMaleId": "Pwâkificateur",
+    "nameFemaleId": "Pwâkificatrice",
+    "visible": true,
+    "categoryId": 8
+  },
+  "91": {
+    "id": 91,
+    "nameMaleId": "Robill Adoptif",
+    "nameFemaleId": "Robill Adoptive",
+    "visible": true,
+    "categoryId": 1
+  },
+  "93": {
+    "id": 93,
+    "nameMaleId": "Trouffion des Neiges",
+    "nameFemaleId": "Trouffion des Neiges",
+    "visible": true,
+    "categoryId": 1
+  },
+  "95": {
+    "id": 95,
+    "nameMaleId": "Pilier de Comptoir",
+    "nameFemaleId": "Pilier de Comptoir",
+    "visible": false,
+    "categoryId": 5
+  },
+  "96": {
+    "id": 96,
+    "nameMaleId": "Mini-Mister Amakna",
+    "nameFemaleId": "Mini-Mister Amakna",
+    "visible": false,
+    "categoryId": 8
+  },
+  "97": {
+    "id": 97,
+    "nameMaleId": "Mini-Miss Amakna",
+    "nameFemaleId": "Mini-Miss Amakna",
+    "visible": false,
+    "categoryId": 8
+  },
+  "98": {
+    "id": 98,
+    "nameMaleId": "Écumeur des 107 océans",
+    "nameFemaleId": "Écumeuse des 107 océans",
+    "visible": false,
+    "categoryId": 7
+  },
+  "99": {
+    "id": 99,
+    "nameMaleId": "Farfouilleur d'Otomaï",
+    "nameFemaleId": "Farfouilleuse d'Otomaï",
+    "visible": false,
+    "categoryId": 9
+  },
+  "100": {
+    "id": 100,
+    "nameMaleId": "Citrouillard",
+    "nameFemaleId": "Citrouillarde",
+    "visible": true,
+    "categoryId": 7
+  },
+  "101": {
+    "id": 101,
+    "nameMaleId": "Champion du Goultarminator 642",
+    "nameFemaleId": "Championne du Goultarminator 642",
+    "visible": false,
+    "categoryId": 8
+  },
+  "102": {
+    "id": 102,
+    "nameMaleId": "Chevalier Doré HispaÑique",
+    "nameFemaleId": "Chevalier Doré HispaÑique",
+    "visible": false,
+    "categoryId": 5
+  },
+  "103": {
+    "id": 103,
+    "nameMaleId": "Ami de Kerubim",
+    "nameFemaleId": "Amie de Kerubim",
+    "visible": true,
+    "categoryId": 1
+  },
+  "109": {
+    "id": 109,
+    "nameMaleId": "La Machine",
+    "nameFemaleId": "La Machine",
+    "visible": true,
+    "categoryId": 1
+  },
+  "110": {
+    "id": 110,
+    "nameMaleId": "Accoucheur survolté",
+    "nameFemaleId": "Accoucheuse survoltée",
+    "visible": true,
+    "categoryId": 1
+  },
+  "111": {
+    "id": 111,
+    "nameMaleId": "Colosse aux pieds graciles",
+    "nameFemaleId": "Colosse aux pieds graciles",
+    "visible": true,
+    "categoryId": 1
+  },
+  "112": {
+    "id": 112,
+    "nameMaleId": "Aventurier de l'Avent",
+    "nameFemaleId": "Aventurière de l'Avent",
+    "visible": true,
+    "categoryId": 7
+  },
+  "113": {
+    "id": 113,
+    "nameMaleId": "Émotif",
+    "nameFemaleId": "Émotive",
+    "visible": true,
+    "categoryId": 1
+  },
+  "114": {
+    "id": 114,
+    "nameMaleId": "Tête Couronnée",
+    "nameFemaleId": "Tête Couronnée",
+    "visible": true,
+    "categoryId": 1
+  },
+  "115": {
+    "id": 115,
+    "nameMaleId": "Moissonneur des Âmes",
+    "nameFemaleId": "Moissonneuse des Âmes",
+    "visible": true,
+    "categoryId": 1
+  },
+  "116": {
+    "id": 116,
+    "nameMaleId": "Héros de l'Année",
+    "nameFemaleId": "Héroïne de l'Année",
+    "visible": true,
+    "categoryId": 1
+  },
+  "117": {
+    "id": 117,
+    "nameMaleId": "Chasseur de Primes",
+    "nameFemaleId": "Chasseuse de Primes",
+    "visible": true,
+    "categoryId": 1
+  },
+  "118": {
+    "id": 118,
+    "nameMaleId": "Chahuteur Clandestin",
+    "nameFemaleId": "Chahuteuse Clandestine",
+    "visible": true,
+    "categoryId": 1
+  },
+  "119": {
+    "id": 119,
+    "nameMaleId": "Querelleur Clandestin",
+    "nameFemaleId": "Querelleuse Clandestine",
+    "visible": true,
+    "categoryId": 1
+  },
+  "120": {
+    "id": 120,
+    "nameMaleId": "Bagarreur Clandestin",
+    "nameFemaleId": "Bagarreuse Clandestine",
+    "visible": true,
+    "categoryId": 1
+  },
+  "121": {
+    "id": 121,
+    "nameMaleId": "Lutteur Clandestin",
+    "nameFemaleId": "Lutteuse Clandestine",
+    "visible": true,
+    "categoryId": 1
+  },
+  "124": {
+    "id": 124,
+    "nameMaleId": "Lécheur de Bottes",
+    "nameFemaleId": "Lécheuse de Bottes",
+    "visible": true,
+    "categoryId": 1
+  },
+  "125": {
+    "id": 125,
+    "nameMaleId": "Bouche-trou",
+    "nameFemaleId": "Bouche-trou",
+    "visible": true,
+    "categoryId": 1
+  },
+  "126": {
+    "id": 126,
+    "nameMaleId": "Krosmonaute",
+    "nameFemaleId": "Krosmonaute",
+    "visible": true,
+    "categoryId": 1
+  },
+  "128": {
+    "id": 128,
+    "nameMaleId": "Enquêteur",
+    "nameFemaleId": "Enquêteuse",
+    "visible": true,
+    "categoryId": 1
+  },
+  "129": {
+    "id": 129,
+    "nameMaleId": "Chercheur de Vérité",
+    "nameFemaleId": "Chercheuse de Vérité",
+    "visible": true,
+    "categoryId": 1
+  },
+  "130": {
+    "id": 130,
+    "nameMaleId": "Marabout",
+    "nameFemaleId": "Marabout",
+    "visible": true,
+    "categoryId": 1
+  },
+  "134": {
+    "id": 134,
+    "nameMaleId": "Garde du Jour sans Fin",
+    "nameFemaleId": "Garde du Jour sans Fin",
+    "visible": true,
+    "categoryId": 1
+  },
+  "135": {
+    "id": 135,
+    "nameMaleId": "Bienfaiteur de Frigost",
+    "nameFemaleId": "Bienfaitrice de Frigost",
+    "visible": true,
+    "categoryId": 1
+  },
+  "136": {
+    "id": 136,
+    "nameMaleId": "Vengeur des Terres Gelées",
+    "nameFemaleId": "Vengeresse des Terres Gelées",
+    "visible": true,
+    "categoryId": 1
+  },
+  "139": {
+    "id": 139,
+    "nameMaleId": "Poursuivant de Mythes",
+    "nameFemaleId": "Poursuivante de Mythes",
+    "visible": true,
+    "categoryId": 1
+  },
+  "140": {
+    "id": 140,
+    "nameMaleId": "Jouet des Immortels",
+    "nameFemaleId": "Jouet des Immortels",
+    "visible": true,
+    "categoryId": 1
+  },
+  "142": {
+    "id": 142,
+    "nameMaleId": "Larve de Dremoan",
+    "nameFemaleId": "Larve de Dremoan",
+    "visible": true,
+    "categoryId": 1
+  },
+  "143": {
+    "id": 143,
+    "nameMaleId": "Collectionneur de trucs",
+    "nameFemaleId": "Collectionneuse de trucs",
+    "visible": true,
+    "categoryId": 1
+  },
+  "144": {
+    "id": 144,
+    "nameMaleId": "Éclaireur d'Obscurité",
+    "nameFemaleId": "Éclaireuse d'Obscurité",
+    "visible": true,
+    "categoryId": 8
+  },
+  "145": {
+    "id": 145,
+    "nameMaleId": "Cwoqueuw de Cawotte",
+    "nameFemaleId": "Cwoqueuse de Cawotte",
+    "visible": true,
+    "categoryId": 1
+  },
+  "146": {
+    "id": 146,
+    "nameMaleId": "Nettoyeur de Shushu",
+    "nameFemaleId": "Nettoyeuse de Shushu",
+    "visible": true,
+    "categoryId": 1
+  },
+  "147": {
+    "id": 147,
+    "nameMaleId": "Super-assistant",
+    "nameFemaleId": "Super-assistante",
+    "visible": true,
+    "categoryId": 1
+  },
+  "148": {
+    "id": 148,
+    "nameMaleId": "Enguirlandeur",
+    "nameFemaleId": "Enguirlandeuse",
+    "visible": false,
+    "categoryId": 7
+  },
+  "150": {
+    "id": 150,
+    "nameMaleId": "Toujours sur la brèche",
+    "nameFemaleId": "Toujours sur la brèche",
+    "visible": false,
+    "categoryId": 8
+  },
+  "151": {
+    "id": 151,
+    "nameMaleId": "Dieu de l'arène",
+    "nameFemaleId": "Déesse de l'arène",
+    "visible": false,
+    "categoryId": 8
+  },
+  "152": {
+    "id": 152,
+    "nameMaleId": "Agitateur du peuple",
+    "nameFemaleId": "Agitatrice du peuple",
+    "visible": false,
+    "categoryId": 8
+  },
+  "153": {
+    "id": 153,
+    "nameMaleId": "Pas de rats, pas de chocolat",
+    "nameFemaleId": "Pas de rats, pas de chocolat",
+    "visible": false,
+    "categoryId": 8
+  },
+  "154": {
+    "id": 154,
+    "nameMaleId": "Batailleur",
+    "nameFemaleId": "Batailleuse",
+    "visible": false,
+    "categoryId": 7
+  },
+  "155": {
+    "id": 155,
+    "nameMaleId": "Protecteur de la Cité Blanche",
+    "nameFemaleId": "Protectrice de la Cité Blanche",
+    "visible": false,
+    "categoryId": 7
+  },
+  "156": {
+    "id": 156,
+    "nameMaleId": "Protecteur de la Cité Sombre",
+    "nameFemaleId": "Protectrice de la Cité Sombre",
+    "visible": false,
+    "categoryId": 7
+  },
+  "157": {
+    "id": 157,
+    "nameMaleId": "Dieu de rechange",
+    "nameFemaleId": "Déesse de rechange",
+    "visible": false,
+    "categoryId": 8
+  },
+  "158": {
+    "id": 158,
+    "nameMaleId": "Traîne-potence",
+    "nameFemaleId": "Traîne-potence",
+    "visible": false,
+    "categoryId": 1
+  },
+  "159": {
+    "id": 159,
+    "nameMaleId": "Community Helper",
+    "nameFemaleId": "Community Helper",
+    "visible": false,
+    "categoryId": 5
+  },
+  "160": {
+    "id": 160,
+    "nameMaleId": "Nouveau Sang",
+    "nameFemaleId": "Nouveau Sang",
+    "visible": false,
+    "categoryId": 9
+  },
+  "161": {
+    "id": 161,
+    "nameMaleId": "Bête de scène",
+    "nameFemaleId": "Bête de scène",
+    "visible": false,
+    "categoryId": 1
+  },
+  "162": {
+    "id": 162,
+    "nameMaleId": "Grand Mestre",
+    "nameFemaleId": "Grande Mestra",
+    "visible": false,
+    "categoryId": 1
+  },
+  "163": {
+    "id": 163,
+    "nameMaleId": "Pourfendeur du Maître Corbac",
+    "nameFemaleId": "Pourfendeuse du Maître Corbac",
+    "visible": false,
+    "categoryId": 6
+  },
+  "164": {
+    "id": 164,
+    "nameMaleId": "Fléau des tavernes",
+    "nameFemaleId": "Fléau des tavernes",
+    "visible": false,
+    "categoryId": 7
+  },
+  "165": {
+    "id": 165,
+    "nameMaleId": "Maître des Abîmes",
+    "nameFemaleId": "Maîtresse des Abîmes",
+    "visible": false,
+    "categoryId": 8
+  },
+  "166": {
+    "id": 166,
+    "nameMaleId": "Combattant des Abîmes",
+    "nameFemaleId": "Combattante des Abîmes",
+    "visible": false,
+    "categoryId": 8
+  },
+  "167": {
+    "id": 167,
+    "nameMaleId": "Rescapé des Abîmes",
+    "nameFemaleId": "Rescapée des Abîmes",
+    "visible": false,
+    "categoryId": 8
+  },
+  "168": {
+    "id": 168,
+    "nameMaleId": "Arbitre",
+    "nameFemaleId": "Arbitre",
+    "visible": false,
+    "categoryId": 1
+  },
+  "169": {
+    "id": 169,
+    "nameMaleId": "Casse l'écaille",
+    "nameFemaleId": "Casse l'écaille",
+    "visible": false,
+    "categoryId": 7
+  },
+  "170": {
+    "id": 170,
+    "nameMaleId": "Parangon Xélor",
+    "nameFemaleId": "Parangon Xélor",
+    "visible": false,
+    "categoryId": 7
+  },
+  "171": {
+    "id": 171,
+    "nameMaleId": "Parangon Sram",
+    "nameFemaleId": "Parangon Sram",
+    "visible": false,
+    "categoryId": 7
+  },
+  "172": {
+    "id": 172,
+    "nameMaleId": "Parangon Iop",
+    "nameFemaleId": "Parangon Iop",
+    "visible": false,
+    "categoryId": 7
+  },
+  "173": {
+    "id": 173,
+    "nameMaleId": "Parangon Sadida",
+    "nameFemaleId": "Parangon Sadida",
+    "visible": false,
+    "categoryId": 7
+  },
+  "174": {
+    "id": 174,
+    "nameMaleId": "Parangon Osamodas",
+    "nameFemaleId": "Parangon Osamodas",
+    "visible": false,
+    "categoryId": 7
+  },
+  "175": {
+    "id": 175,
+    "nameMaleId": "Parangon Eniripsa",
+    "nameFemaleId": "Parangon Eniripsa",
+    "visible": false,
+    "categoryId": 7
+  },
+  "176": {
+    "id": 176,
+    "nameMaleId": "Parangon Ecaflip",
+    "nameFemaleId": "Parangon Ecaflip",
+    "visible": false,
+    "categoryId": 7
+  },
+  "177": {
+    "id": 177,
+    "nameMaleId": "Parangon Steamer",
+    "nameFemaleId": "Parangon Steamer",
+    "visible": false,
+    "categoryId": 7
+  },
+  "178": {
+    "id": 178,
+    "nameMaleId": "Parangon Zobal",
+    "nameFemaleId": "Parangon Zobal",
+    "visible": false,
+    "categoryId": 7
+  },
+  "179": {
+    "id": 179,
+    "nameMaleId": "Parangon Féca",
+    "nameFemaleId": "Parangon Féca",
+    "visible": false,
+    "categoryId": 7
+  },
+  "180": {
+    "id": 180,
+    "nameMaleId": "Parangon Enutrof",
+    "nameFemaleId": "Parangon Enutrof",
+    "visible": false,
+    "categoryId": 7
+  },
+  "181": {
+    "id": 181,
+    "nameMaleId": "Parangon Crâ",
+    "nameFemaleId": "Parangon Crâ",
+    "visible": false,
+    "categoryId": 7
+  },
+  "182": {
+    "id": 182,
+    "nameMaleId": "Parangon Pandawa",
+    "nameFemaleId": "Parangon Pandawa",
+    "visible": false,
+    "categoryId": 7
+  },
+  "183": {
+    "id": 183,
+    "nameMaleId": "Parangon Roublard",
+    "nameFemaleId": "Parangon Roublard",
+    "visible": false,
+    "categoryId": 7
+  },
+  "184": {
+    "id": 184,
+    "nameMaleId": "Parangon Sacrieur",
+    "nameFemaleId": "Parangon Sacrieur",
+    "visible": false,
+    "categoryId": 7
+  },
+  "185": {
+    "id": 185,
+    "nameMaleId": "Grand Chambardeur",
+    "nameFemaleId": "Grande Chambardeuse",
+    "visible": false,
+    "categoryId": 1
+  },
+  "186": {
+    "id": 186,
+    "nameMaleId": "Orfèvre Impérial",
+    "nameFemaleId": "Orfèvre Impériale",
+    "visible": false,
+    "categoryId": 1
+  },
+  "187": {
+    "id": 187,
+    "nameMaleId": "Pourfendeur de Skeunk",
+    "nameFemaleId": "Pourfendeuse de Skeunk",
+    "visible": false,
+    "categoryId": 6
+  },
+  "188": {
+    "id": 188,
+    "nameMaleId": "Forgemage talentueux",
+    "nameFemaleId": "Forgemage talentueuse",
+    "visible": false,
+    "categoryId": 1
+  },
+  "189": {
+    "id": 189,
+    "nameMaleId": "Perceur de Mystères",
+    "nameFemaleId": "Perceuse de Mystères",
+    "visible": true,
+    "categoryId": 1
+  },
+  "190": {
+    "id": 190,
+    "nameMaleId": "Chasseur de démons",
+    "nameFemaleId": "Chasseuse de démons",
+    "visible": true,
+    "categoryId": 1
+  },
+  "191": {
+    "id": 191,
+    "nameMaleId": "Aventurier de Nowel 648",
+    "nameFemaleId": "Aventurière de Nowel 648",
+    "visible": false,
+    "categoryId": 7
+  },
+  "192": {
+    "id": 192,
+    "nameMaleId": "Grimpeur de Légende 1",
+    "nameFemaleId": "Grimpeuse de Légende 1",
+    "visible": false,
+    "categoryId": 1
+  },
+  "193": {
+    "id": 193,
+    "nameMaleId": "Grimpeur de Diamant 1",
+    "nameFemaleId": "Grimpeuse de Diamant 1",
+    "visible": false,
+    "categoryId": 1
+  },
+  "194": {
+    "id": 194,
+    "nameMaleId": "Grimpeur de Cristal 1",
+    "nameFemaleId": "Grimpeuse de Cristal 1",
+    "visible": false,
+    "categoryId": 1
+  },
+  "200": {
+    "id": 200,
+    "nameMaleId": "Champion des Bêtas",
+    "nameFemaleId": "Championne des Bêtas",
+    "visible": false,
+    "categoryId": 8
+  },
+  "201": {
+    "id": 201,
+    "nameMaleId": "Bête à test",
+    "nameFemaleId": "Bête à test",
+    "visible": false,
+    "categoryId": 8
+  },
+  "202": {
+    "id": 202,
+    "nameMaleId": "Désinsectiseur",
+    "nameFemaleId": "Désinsectiseuse",
+    "visible": false,
+    "categoryId": 8
+  },
+  "203": {
+    "id": 203,
+    "nameMaleId": "Touche-à-tout",
+    "nameFemaleId": "Touche-à-tout",
+    "visible": false,
+    "categoryId": 8
+  },
+  "204": {
+    "id": 204,
+    "nameMaleId": "Gardien de la Tablette",
+    "nameFemaleId": "Gardienne de la Tablette",
+    "visible": false,
+    "categoryId": 8
+  },
+  "205": {
+    "id": 205,
+    "nameMaleId": "Senteur des îles",
+    "nameFemaleId": "Senteur des îles",
+    "visible": false,
+    "categoryId": 8
+  }
+}

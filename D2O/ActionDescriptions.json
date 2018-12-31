@@ -1,1 +1,2942 @@
-{"1":{"id":1,"typeId":2,"name":"AcquaintanceSearch","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"2":{"id":2,"typeId":20,"name":"AddEnemy","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"3":{"id":3,"typeId":20,"name":"AddFriend","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"4":{"id":4,"typeId":20,"name":"AddIgnored","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"5":{"id":5,"typeId":2,"name":"AgreementAgreed","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"6":{"id":6,"typeId":1,"name":"AuthorizedCommand","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"7":{"id":7,"typeId":6,"name":"BannerEmptySlotClick","trusted":false,"needInteraction":false,"maxUsePerFrame":1000,"minimalUseInterval":0,"needConfirmation":false},"8":{"id":8,"typeId":1,"name":"BasicWhoIsRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"9":{"id":9,"typeId":21,"name":"BidHouseStringSearch","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":50,"needConfirmation":false},"10":{"id":10,"typeId":21,"name":"BidSwitchToBuyerMode","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"11":{"id":11,"typeId":21,"name":"BidSwitchToSellerMode","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"12":{"id":12,"typeId":7,"name":"ChallengeTargetsListRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"13":{"id":13,"typeId":2,"name":"ChangeCharacter","trusted":true,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"14":{"id":14,"typeId":2,"name":"ChangeServer","trusted":true,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"15":{"id":15,"typeId":2,"name":"ChangelogRead","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"16":{"id":16,"typeId":4,"name":"ChannelEnabling","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"17":{"id":17,"typeId":2,"name":"CharacterCreation","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"18":{"id":18,"typeId":2,"name":"CharacterDeletion","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"19":{"id":19,"typeId":2,"name":"CharacterDeselection","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"20":{"id":20,"typeId":2,"name":"CharacterNameSuggestionRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"21":{"id":21,"typeId":2,"name":"CharacterRecolorSelection","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"22":{"id":22,"typeId":2,"name":"CharacterRenameSelection","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"23":{"id":23,"typeId":2,"name":"CharacterReplayRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"24":{"id":24,"typeId":2,"name":"CharacterReportRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"25":{"id":25,"typeId":2,"name":"CharacterSelection","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"30":{"id":30,"typeId":4,"name":"ChatCommand","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"31":{"id":31,"typeId":4,"name":"ChatLoaded","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"32":{"id":32,"typeId":4,"name":"ChatRefreshChannel","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"33":{"id":33,"typeId":4,"name":"ChatRefreshChat","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"34":{"id":34,"typeId":4,"name":"ChatReportRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"35":{"id":35,"typeId":4,"name":"ChatSmileyRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":1000,"needConfirmation":false},"36":{"id":36,"typeId":5,"name":"ChatTextOutput","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":100,"needConfirmation":false},"37":{"id":37,"typeId":6,"name":"CloseBook","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"38":{"id":38,"typeId":6,"name":"CloseInventory","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"39":{"id":39,"typeId":17,"name":"DeleteObject","trusted":false,"needInteraction":true,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":true},"40":{"id":40,"typeId":1,"name":"DisableAfk","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"41":{"id":41,"typeId":1,"name":"DisplayContextualMenu","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"43":{"id":43,"typeId":1,"name":"DownloadPart","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"44":{"id":44,"typeId":1,"name":"EmotePlayRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":1000,"needConfirmation":false},"45":{"id":45,"typeId":20,"name":"EnemiesListRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"46":{"id":46,"typeId":9,"name":"ExchangeAccept","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"47":{"id":47,"typeId":9,"name":"ExchangeBidHouseBuy","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"48":{"id":48,"typeId":9,"name":"ExchangeBidHouseList","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"49":{"id":49,"typeId":9,"name":"ExchangeBidHousePrice","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"50":{"id":50,"typeId":9,"name":"ExchangeBidHouseSearch","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"51":{"id":51,"typeId":9,"name":"ExchangeBidHouseType","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"52":{"id":52,"typeId":9,"name":"ExchangeBuy","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"53":{"id":53,"typeId":9,"name":"ExchangeHandleMountStable","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"54":{"id":54,"typeId":9,"name":"ExchangeItemGoldAddAsPayment","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"55":{"id":55,"typeId":9,"name":"ExchangeItemObjectAddAsPayment","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"56":{"id":56,"typeId":9,"name":"ExchangeMultiCraftSetCrafterCanUseHisRessources","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"57":{"id":57,"typeId":9,"name":"ExchangeObjectMove","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"58":{"id":58,"typeId":9,"name":"ExchangeObjectMoveKama","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"59":{"id":59,"typeId":9,"name":"ExchangeObjectTransfertAllFromInv","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"60":{"id":60,"typeId":9,"name":"ExchangeObjectTransfertAllToInv","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"61":{"id":61,"typeId":9,"name":"ExchangeObjectTransfertListFromInv","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"62":{"id":62,"typeId":9,"name":"ExchangeObjectTransfertListToInv","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"63":{"id":63,"typeId":9,"name":"ExchangeObjectUseInWorkshop","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"64":{"id":64,"typeId":9,"name":"ExchangeOnHumanVendorRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"65":{"id":65,"typeId":9,"name":"ExchangePlayerMultiCraftRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"66":{"id":66,"typeId":9,"name":"ExchangePlayerRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"67":{"id":67,"typeId":9,"name":"ExchangeReady","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"68":{"id":68,"typeId":9,"name":"ExchangeRefuse","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"69":{"id":69,"typeId":9,"name":"ExchangeReplay","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"70":{"id":70,"typeId":9,"name":"ExchangeReplayStop","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"71":{"id":71,"typeId":9,"name":"ExchangeRequestOnMountStock","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"72":{"id":72,"typeId":9,"name":"ExchangeRequestOnShopStock","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"73":{"id":73,"typeId":9,"name":"ExchangeRequestOnTaxCollector","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"74":{"id":74,"typeId":9,"name":"ExchangeSell","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"75":{"id":75,"typeId":9,"name":"ExchangeShopStockModifyObject","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"76":{"id":76,"typeId":9,"name":"ExchangeShopStockMouvmentAdd","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"77":{"id":77,"typeId":9,"name":"ExchangeShopStockMouvmentRemove","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"78":{"id":78,"typeId":9,"name":"ExchangeShowVendorTax","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"79":{"id":79,"typeId":9,"name":"ExchangeStartAsVendorRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"80":{"id":80,"typeId":4,"name":"FightOutput","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"81":{"id":81,"typeId":20,"name":"FriendOrGuildMemberLevelUpWarningSet","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"82":{"id":82,"typeId":20,"name":"FriendSpouseFollow","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"83":{"id":83,"typeId":20,"name":"FriendWarningSet","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"84":{"id":84,"typeId":20,"name":"FriendsListRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"85":{"id":85,"typeId":7,"name":"GameContextKick","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":true},"86":{"id":86,"typeId":7,"name":"GameContextQuit","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"87":{"id":87,"typeId":7,"name":"GameFightReady","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"88":{"id":88,"typeId":7,"name":"GameFightSpellCast","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"89":{"id":89,"typeId":7,"name":"GameFightTurnFinish","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"90":{"id":90,"typeId":1,"name":"GameRolePlayFreeSoulRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"91":{"id":91,"typeId":1,"name":"GameRolePlayTaxCollectorFightRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"93":{"id":93,"typeId":1,"name":"GetPartInfo","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"94":{"id":94,"typeId":1,"name":"GetPartsList","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"95":{"id":95,"typeId":2,"name":"GiftAssignRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"96":{"id":96,"typeId":1,"name":"GuidedModeQuitRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"97":{"id":97,"typeId":1,"name":"GuidedModeReturnRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"98":{"id":98,"typeId":10,"name":"GuildChangeMemberParameters","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"99":{"id":99,"typeId":10,"name":"GuildCharacsUpgradeRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"100":{"id":100,"typeId":10,"name":"GuildCreationValid","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"101":{"id":101,"typeId":10,"name":"GuildFarmTeleportRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"102":{"id":102,"typeId":10,"name":"GuildFightJoinRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"103":{"id":103,"typeId":10,"name":"GuildFightLeaveRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"104":{"id":104,"typeId":10,"name":"GuildGetInformations","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"105":{"id":105,"typeId":10,"name":"GuildHouseTeleportRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"107":{"id":107,"typeId":10,"name":"GuildInvitation","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"108":{"id":108,"typeId":10,"name":"GuildInvitationAnswer","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"109":{"id":109,"typeId":10,"name":"GuildInvitationByName","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"110":{"id":110,"typeId":10,"name":"GuildKickRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"111":{"id":111,"typeId":10,"name":"GuildSpellUpgradeRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"112":{"id":112,"typeId":12,"name":"HouseBuy","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"113":{"id":113,"typeId":12,"name":"HouseGuildRightsChange","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"114":{"id":114,"typeId":12,"name":"HouseGuildRightsView","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"115":{"id":115,"typeId":12,"name":"HouseGuildShare","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"116":{"id":116,"typeId":12,"name":"HouseKick","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"117":{"id":117,"typeId":12,"name":"HouseKickMerchant","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"118":{"id":118,"typeId":12,"name":"HouseLockFromInside","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"119":{"id":119,"typeId":12,"name":"HouseSell","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"120":{"id":120,"typeId":12,"name":"HouseSellFromInside","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"121":{"id":121,"typeId":12,"name":"HouseToSellFilter","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"122":{"id":122,"typeId":12,"name":"HouseToSellListRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"123":{"id":123,"typeId":1,"name":"IncreaseSpellLevel","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"124":{"id":124,"typeId":1,"name":"InteractiveElementActivation","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"125":{"id":125,"typeId":17,"name":"InventoryPresetDelete","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"126":{"id":126,"typeId":17,"name":"InventoryPresetItemUpdateRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"127":{"id":127,"typeId":17,"name":"InventoryPresetSave","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"128":{"id":128,"typeId":17,"name":"InventoryPresetUse","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"129":{"id":129,"typeId":18,"name":"JobAllowMultiCraftRequestSet","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"130":{"id":130,"typeId":18,"name":"JobCrafterContactLookRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"131":{"id":131,"typeId":18,"name":"JobCrafterDirectoryDefineSettings","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"132":{"id":132,"typeId":18,"name":"JobCrafterDirectoryEntryRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"133":{"id":133,"typeId":18,"name":"JobCrafterDirectoryListRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"134":{"id":134,"typeId":7,"name":"JoinAsSpectatorRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"135":{"id":135,"typeId":7,"name":"JoinFightRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"136":{"id":136,"typeId":20,"name":"JoinFriend","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"137":{"id":137,"typeId":20,"name":"JoinSpouse","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"138":{"id":138,"typeId":21,"name":"LeaveBidHouse","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"139":{"id":139,"typeId":1,"name":"LeaveDialog","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"140":{"id":140,"typeId":1,"name":"LeaveDialogRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"141":{"id":141,"typeId":9,"name":"LeaveExchangeMount","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"142":{"id":142,"typeId":9,"name":"LeaveShopStock","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"143":{"id":143,"typeId":17,"name":"LivingObjectChangeSkinRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"144":{"id":144,"typeId":17,"name":"LivingObjectDissociate","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"145":{"id":145,"typeId":17,"name":"LivingObjectFeed","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"146":{"id":146,"typeId":17,"name":"LivingObjectMessageRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"147":{"id":147,"typeId":12,"name":"LockableChangeCode","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"148":{"id":148,"typeId":12,"name":"LockableUseCode","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"149":{"id":149,"typeId":2,"name":"LoginValidation","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"150":{"id":150,"typeId":2,"name":"LoginValidationWithTicket","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"151":{"id":151,"typeId":7,"name":"MapRunningFightDetailsRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"152":{"id":152,"typeId":10,"name":"MemberWarningSet","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"153":{"id":153,"typeId":1,"name":"MoodSmileyRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":2000,"needConfirmation":false},"154":{"id":154,"typeId":15,"name":"MountFeedRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"155":{"id":155,"typeId":15,"name":"MountInfoRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"156":{"id":156,"typeId":15,"name":"MountInformationInPaddockRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"157":{"id":157,"typeId":15,"name":"MountReleaseRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"158":{"id":158,"typeId":15,"name":"MountRenameRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"159":{"id":159,"typeId":15,"name":"MountSetXpRatioRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"160":{"id":160,"typeId":15,"name":"MountSterilizeRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"161":{"id":161,"typeId":15,"name":"MountToggleRidingRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":1000,"needConfirmation":false},"162":{"id":162,"typeId":2,"name":"NewsLoginRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"163":{"id":163,"typeId":2,"name":"NicknameChoiceRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"164":{"id":164,"typeId":1,"name":"NotificationReset","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"165":{"id":165,"typeId":1,"name":"NotificationUpdateFlag","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"166":{"id":166,"typeId":1,"name":"NpcDialogReply","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"167":{"id":167,"typeId":1,"name":"NpcGenericActionRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"168":{"id":168,"typeId":17,"name":"ObjectDrop","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"169":{"id":169,"typeId":17,"name":"ObjectSetPosition","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"170":{"id":170,"typeId":17,"name":"ObjectUse","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":true},"171":{"id":171,"typeId":17,"name":"ObjectUseOnCell","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"172":{"id":172,"typeId":6,"name":"OpenBook","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"173":{"id":173,"typeId":17,"name":"OpenCurrentFight","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"175":{"id":175,"typeId":6,"name":"OpenInventory","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"176":{"id":176,"typeId":6,"name":"OpenMainMenu","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"177":{"id":177,"typeId":6,"name":"OpenMap","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"178":{"id":178,"typeId":6,"name":"OpenMount","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"179":{"id":179,"typeId":6,"name":"OpenServerSelection","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"180":{"id":180,"typeId":6,"name":"OpenSmileys","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"181":{"id":181,"typeId":6,"name":"OpenSocial","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"182":{"id":182,"typeId":6,"name":"OpenStats","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"183":{"id":183,"typeId":14,"name":"PaddockBuyRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"184":{"id":184,"typeId":14,"name":"PaddockMoveItemRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"185":{"id":185,"typeId":14,"name":"PaddockRemoveItemRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"186":{"id":186,"typeId":14,"name":"PaddockSellRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"187":{"id":187,"typeId":14,"name":"PaddockToSellFilter","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"188":{"id":188,"typeId":14,"name":"PaddockToSellListRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"189":{"id":189,"typeId":13,"name":"PartyAbdicateThrone","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"190":{"id":190,"typeId":13,"name":"PartyAcceptInvitation","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"191":{"id":191,"typeId":13,"name":"PartyAllFollowMember","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"192":{"id":192,"typeId":13,"name":"PartyAllStopFollowingMember","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"193":{"id":193,"typeId":13,"name":"PartyFollowMember","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"194":{"id":194,"typeId":13,"name":"PartyInvitation","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"195":{"id":195,"typeId":13,"name":"PartyKickRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":8,"minimalUseInterval":0,"needConfirmation":false},"196":{"id":196,"typeId":13,"name":"PartyLeaveRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"197":{"id":197,"typeId":13,"name":"PartyRefuseInvitation","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"198":{"id":198,"typeId":13,"name":"PartyShowMenu","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"199":{"id":199,"typeId":13,"name":"PartyStopFollowingMember","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"200":{"id":200,"typeId":1,"name":"PivotCharacter","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":500,"needConfirmation":false},"201":{"id":201,"typeId":1,"name":"PlaySound","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"202":{"id":202,"typeId":1,"name":"PlayerFightFriendlyAnswer","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"203":{"id":203,"typeId":7,"name":"PlayerFightRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"204":{"id":204,"typeId":1,"name":"PresetSetPosition","trusted":false,"needInteraction":false,"maxUsePerFrame":10,"minimalUseInterval":0,"needConfirmation":false},"205":{"id":205,"typeId":16,"name":"PrismAttackRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"208":{"id":208,"typeId":16,"name":"PrismFightJoinLeaveRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"209":{"id":209,"typeId":16,"name":"PrismFightSwapRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"210":{"id":210,"typeId":16,"name":"PrismInfoJoinLeaveRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"211":{"id":211,"typeId":16,"name":"PrismUseRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"212":{"id":212,"typeId":16,"name":"PrismsListRegister","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"213":{"id":213,"typeId":11,"name":"QuestInfosRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"214":{"id":214,"typeId":11,"name":"QuestListRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"215":{"id":215,"typeId":11,"name":"QuestObjectiveValidation","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"216":{"id":216,"typeId":11,"name":"QuestStartRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"217":{"id":217,"typeId":11,"name":"QuitGame","trusted":true,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"218":{"id":218,"typeId":20,"name":"RemoveEnemy","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"219":{"id":219,"typeId":20,"name":"RemoveFriend","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"220":{"id":220,"typeId":20,"name":"RemoveIgnored","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"221":{"id":221,"typeId":1,"name":"ResetGame","trusted":true,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"222":{"id":222,"typeId":4,"name":"SaveMessage","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"223":{"id":223,"typeId":2,"name":"ServerSelection","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"224":{"id":224,"typeId":1,"name":"SetEnablePVPRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"225":{"id":225,"typeId":1,"name":"SpellSetPosition","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"226":{"id":226,"typeId":20,"name":"SpouseRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"227":{"id":227,"typeId":1,"name":"StartZoom","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"228":{"id":228,"typeId":1,"name":"StatsUpgradeRequest","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"229":{"id":229,"typeId":7,"name":"StopToListenRunningFightRequestMessage","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"230":{"id":230,"typeId":2,"name":"SubscribersGiftListRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"231":{"id":231,"typeId":1,"name":"TabsUpdate","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"234":{"id":234,"typeId":1,"name":"TeleportRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"235":{"id":235,"typeId":7,"name":"TimelineEntityClick","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"236":{"id":236,"typeId":7,"name":"TimelineEntityOut","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"237":{"id":237,"typeId":7,"name":"TimelineEntityOver","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"238":{"id":238,"typeId":7,"name":"ToggleDematerialization","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"239":{"id":239,"typeId":7,"name":"ToggleHelpWanted","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"240":{"id":240,"typeId":7,"name":"ToggleLockFight","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"241":{"id":241,"typeId":7,"name":"ToggleLockParty","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"242":{"id":242,"typeId":7,"name":"TogglePointCell","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"243":{"id":243,"typeId":7,"name":"ToggleWitnessForbidden","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"244":{"id":244,"typeId":1,"name":"ValidateSpellForget","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"245":{"id":245,"typeId":13,"name":"OpenTeamSearch","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"246":{"id":246,"typeId":13,"name":"DungeonPartyFinderRegister","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"247":{"id":247,"typeId":13,"name":"DungeonPartyFinderListen","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"248":{"id":248,"typeId":13,"name":"DungeonPartyFinderAvailableDungeons","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"249":{"id":249,"typeId":13,"name":"PartyInvitationDetailsRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"250":{"id":250,"typeId":13,"name":"PartyCancelInvitation","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"251":{"id":251,"typeId":10,"name":"GuildFightTakePlaceRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"252":{"id":252,"typeId":7,"name":"ShowTacticMode","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"253":{"id":253,"typeId":1,"name":"ShowAllNames","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"254":{"id":254,"typeId":13,"name":"PartyPledgeLoyaltyRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"255":{"id":255,"typeId":13,"name":"OpenArena","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"256":{"id":256,"typeId":13,"name":"ArenaRegister","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"257":{"id":257,"typeId":13,"name":"ArenaUnregister","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"258":{"id":258,"typeId":13,"name":"ArenaFightAnswer","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"259":{"id":259,"typeId":4,"name":"NumericWhoIsRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"260":{"id":260,"typeId":13,"name":"TeleportToBuddyAnswer","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"261":{"id":261,"typeId":13,"name":"TeleportBuddiesAnswer","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"262":{"id":262,"typeId":1,"name":"AddBehaviorToStack","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"263":{"id":263,"typeId":1,"name":"EmptyStack","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"264":{"id":264,"typeId":1,"name":"RemoveBehaviorToStack","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"265":{"id":265,"typeId":1,"name":"SwitchCreatureMode","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"266":{"id":266,"typeId":1,"name":"BasicSwitchMode","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"267":{"id":267,"typeId":1,"name":"OpenPopup","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"268":{"id":268,"typeId":10,"name":"GuildModificationNameValid","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"269":{"id":269,"typeId":10,"name":"GuildModificationValid","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"270":{"id":270,"typeId":10,"name":"GuildModificationEmblemValid","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"271":{"id":271,"typeId":9,"name":"ExchangeObjectTransfertExistingFromInv","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"272":{"id":272,"typeId":9,"name":"ExchangeObjectTransfertExistingToInv","trusted":false,"needInteraction":true,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"273":{"id":273,"typeId":23,"name":"KrosmasterTokenRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"274":{"id":274,"typeId":23,"name":"KrosmasterInventoryRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"275":{"id":275,"typeId":23,"name":"KrosmasterTransferRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"276":{"id":276,"typeId":23,"name":"KrosmasterPlayingStatus","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"277":{"id":277,"typeId":2,"name":"CharacterRelookSelection","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"278":{"id":278,"typeId":4,"name":"ClearChat","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"279":{"id":279,"typeId":11,"name":"AchievementDetailedListRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"281":{"id":281,"typeId":11,"name":"OrnamentSelectRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"282":{"id":282,"typeId":11,"name":"TitleSelectRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"283":{"id":283,"typeId":11,"name":"TitlesAndOrnamentsListRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"284":{"id":284,"typeId":11,"name":"AchievementRewardRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"285":{"id":285,"typeId":11,"name":"AchievementDetailsRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"286":{"id":286,"typeId":20,"name":"FriendGuildSetWarnOnAchievementComplete","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"287":{"id":287,"typeId":17,"name":"InventoryPresetSaveCustom","trusted":false,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"288":{"id":288,"typeId":19,"name":"PlayerStatusUpdateRequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"289":{"id":289,"typeId":18,"name":"ExchangeSetCraftRecipe","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"290":{"id":290,"typeId":24,"name":"AllianceCreationValid","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"291":{"id":291,"typeId":24,"name":"AllianceKickRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"292":{"id":292,"typeId":24,"name":"AllianceInvitationAnswer","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"293":{"id":293,"typeId":24,"name":"AllianceInvitation","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"294":{"id":294,"typeId":24,"name":"AllianceFactsRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"295":{"id":295,"typeId":24,"name":"AllianceListRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"297":{"id":297,"typeId":24,"name":"AllianceInsiderInfoRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"298":{"id":298,"typeId":10,"name":"GuildFactsRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"299":{"id":299,"typeId":10,"name":"GuildListRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":0,"minimalUseInterval":0,"needConfirmation":false},"301":{"id":301,"typeId":1,"name":"ShowMonstersInfo","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"302":{"id":302,"typeId":24,"name":"AllianceChangeGuildRights","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"303":{"id":303,"typeId":16,"name":"PrismSettingsRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"304":{"id":304,"typeId":1,"name":"SetEnableAVARequest","trusted":false,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":true},"305":{"id":305,"typeId":24,"name":"AllianceModificationNameAndTagValid","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"306":{"id":306,"typeId":24,"name":"AllianceModificationValid","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"307":{"id":307,"typeId":24,"name":"AllianceModificationEmblemValid","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"308":{"id":308,"typeId":17,"name":"MimicryObjectEraseRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false},"309":{"id":309,"typeId":17,"name":"MimicryObjectFeedAndAssociateRequest","trusted":true,"needInteraction":false,"maxUsePerFrame":1,"minimalUseInterval":0,"needConfirmation":false}}
+{
+  "1": {
+    "id": 1,
+    "typeId": 2,
+    "name": "AcquaintanceSearch",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "2": {
+    "id": 2,
+    "typeId": 20,
+    "name": "AddEnemy",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "3": {
+    "id": 3,
+    "typeId": 20,
+    "name": "AddFriend",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "4": {
+    "id": 4,
+    "typeId": 20,
+    "name": "AddIgnored",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "5": {
+    "id": 5,
+    "typeId": 2,
+    "name": "AgreementAgreed",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "6": {
+    "id": 6,
+    "typeId": 1,
+    "name": "AuthorizedCommand",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "7": {
+    "id": 7,
+    "typeId": 6,
+    "name": "BannerEmptySlotClick",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1000,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "8": {
+    "id": 8,
+    "typeId": 1,
+    "name": "BasicWhoIsRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "9": {
+    "id": 9,
+    "typeId": 21,
+    "name": "BidHouseStringSearch",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 50,
+    "needConfirmation": false
+  },
+  "10": {
+    "id": 10,
+    "typeId": 21,
+    "name": "BidSwitchToBuyerMode",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "11": {
+    "id": 11,
+    "typeId": 21,
+    "name": "BidSwitchToSellerMode",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "12": {
+    "id": 12,
+    "typeId": 7,
+    "name": "ChallengeTargetsListRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "13": {
+    "id": 13,
+    "typeId": 2,
+    "name": "ChangeCharacter",
+    "trusted": true,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "14": {
+    "id": 14,
+    "typeId": 2,
+    "name": "ChangeServer",
+    "trusted": true,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "15": {
+    "id": 15,
+    "typeId": 2,
+    "name": "ChangelogRead",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "16": {
+    "id": 16,
+    "typeId": 4,
+    "name": "ChannelEnabling",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "17": {
+    "id": 17,
+    "typeId": 2,
+    "name": "CharacterCreation",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "18": {
+    "id": 18,
+    "typeId": 2,
+    "name": "CharacterDeletion",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "19": {
+    "id": 19,
+    "typeId": 2,
+    "name": "CharacterDeselection",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "20": {
+    "id": 20,
+    "typeId": 2,
+    "name": "CharacterNameSuggestionRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "21": {
+    "id": 21,
+    "typeId": 2,
+    "name": "CharacterRecolorSelection",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "22": {
+    "id": 22,
+    "typeId": 2,
+    "name": "CharacterRenameSelection",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "23": {
+    "id": 23,
+    "typeId": 2,
+    "name": "CharacterReplayRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "24": {
+    "id": 24,
+    "typeId": 2,
+    "name": "CharacterReportRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "25": {
+    "id": 25,
+    "typeId": 2,
+    "name": "CharacterSelection",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "30": {
+    "id": 30,
+    "typeId": 4,
+    "name": "ChatCommand",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "31": {
+    "id": 31,
+    "typeId": 4,
+    "name": "ChatLoaded",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "32": {
+    "id": 32,
+    "typeId": 4,
+    "name": "ChatRefreshChannel",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "33": {
+    "id": 33,
+    "typeId": 4,
+    "name": "ChatRefreshChat",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "34": {
+    "id": 34,
+    "typeId": 4,
+    "name": "ChatReportRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "35": {
+    "id": 35,
+    "typeId": 4,
+    "name": "ChatSmileyRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 1000,
+    "needConfirmation": false
+  },
+  "36": {
+    "id": 36,
+    "typeId": 5,
+    "name": "ChatTextOutput",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 100,
+    "needConfirmation": false
+  },
+  "37": {
+    "id": 37,
+    "typeId": 6,
+    "name": "CloseBook",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "38": {
+    "id": 38,
+    "typeId": 6,
+    "name": "CloseInventory",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "39": {
+    "id": 39,
+    "typeId": 17,
+    "name": "DeleteObject",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "40": {
+    "id": 40,
+    "typeId": 1,
+    "name": "DisableAfk",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "41": {
+    "id": 41,
+    "typeId": 1,
+    "name": "DisplayContextualMenu",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "43": {
+    "id": 43,
+    "typeId": 1,
+    "name": "DownloadPart",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "44": {
+    "id": 44,
+    "typeId": 1,
+    "name": "EmotePlayRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 1000,
+    "needConfirmation": false
+  },
+  "45": {
+    "id": 45,
+    "typeId": 20,
+    "name": "EnemiesListRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "46": {
+    "id": 46,
+    "typeId": 9,
+    "name": "ExchangeAccept",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "47": {
+    "id": 47,
+    "typeId": 9,
+    "name": "ExchangeBidHouseBuy",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "48": {
+    "id": 48,
+    "typeId": 9,
+    "name": "ExchangeBidHouseList",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "49": {
+    "id": 49,
+    "typeId": 9,
+    "name": "ExchangeBidHousePrice",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "50": {
+    "id": 50,
+    "typeId": 9,
+    "name": "ExchangeBidHouseSearch",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "51": {
+    "id": 51,
+    "typeId": 9,
+    "name": "ExchangeBidHouseType",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "52": {
+    "id": 52,
+    "typeId": 9,
+    "name": "ExchangeBuy",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "53": {
+    "id": 53,
+    "typeId": 9,
+    "name": "ExchangeHandleMountStable",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "54": {
+    "id": 54,
+    "typeId": 9,
+    "name": "ExchangeItemGoldAddAsPayment",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "55": {
+    "id": 55,
+    "typeId": 9,
+    "name": "ExchangeItemObjectAddAsPayment",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "56": {
+    "id": 56,
+    "typeId": 9,
+    "name": "ExchangeMultiCraftSetCrafterCanUseHisRessources",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "57": {
+    "id": 57,
+    "typeId": 9,
+    "name": "ExchangeObjectMove",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "58": {
+    "id": 58,
+    "typeId": 9,
+    "name": "ExchangeObjectMoveKama",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "59": {
+    "id": 59,
+    "typeId": 9,
+    "name": "ExchangeObjectTransfertAllFromInv",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "60": {
+    "id": 60,
+    "typeId": 9,
+    "name": "ExchangeObjectTransfertAllToInv",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "61": {
+    "id": 61,
+    "typeId": 9,
+    "name": "ExchangeObjectTransfertListFromInv",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "62": {
+    "id": 62,
+    "typeId": 9,
+    "name": "ExchangeObjectTransfertListToInv",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "63": {
+    "id": 63,
+    "typeId": 9,
+    "name": "ExchangeObjectUseInWorkshop",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "64": {
+    "id": 64,
+    "typeId": 9,
+    "name": "ExchangeOnHumanVendorRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "65": {
+    "id": 65,
+    "typeId": 9,
+    "name": "ExchangePlayerMultiCraftRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "66": {
+    "id": 66,
+    "typeId": 9,
+    "name": "ExchangePlayerRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "67": {
+    "id": 67,
+    "typeId": 9,
+    "name": "ExchangeReady",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "68": {
+    "id": 68,
+    "typeId": 9,
+    "name": "ExchangeRefuse",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "69": {
+    "id": 69,
+    "typeId": 9,
+    "name": "ExchangeReplay",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "70": {
+    "id": 70,
+    "typeId": 9,
+    "name": "ExchangeReplayStop",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "71": {
+    "id": 71,
+    "typeId": 9,
+    "name": "ExchangeRequestOnMountStock",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "72": {
+    "id": 72,
+    "typeId": 9,
+    "name": "ExchangeRequestOnShopStock",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "73": {
+    "id": 73,
+    "typeId": 9,
+    "name": "ExchangeRequestOnTaxCollector",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "74": {
+    "id": 74,
+    "typeId": 9,
+    "name": "ExchangeSell",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "75": {
+    "id": 75,
+    "typeId": 9,
+    "name": "ExchangeShopStockModifyObject",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "76": {
+    "id": 76,
+    "typeId": 9,
+    "name": "ExchangeShopStockMouvmentAdd",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "77": {
+    "id": 77,
+    "typeId": 9,
+    "name": "ExchangeShopStockMouvmentRemove",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "78": {
+    "id": 78,
+    "typeId": 9,
+    "name": "ExchangeShowVendorTax",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "79": {
+    "id": 79,
+    "typeId": 9,
+    "name": "ExchangeStartAsVendorRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "80": {
+    "id": 80,
+    "typeId": 4,
+    "name": "FightOutput",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "81": {
+    "id": 81,
+    "typeId": 20,
+    "name": "FriendOrGuildMemberLevelUpWarningSet",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "82": {
+    "id": 82,
+    "typeId": 20,
+    "name": "FriendSpouseFollow",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "83": {
+    "id": 83,
+    "typeId": 20,
+    "name": "FriendWarningSet",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "84": {
+    "id": 84,
+    "typeId": 20,
+    "name": "FriendsListRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "85": {
+    "id": 85,
+    "typeId": 7,
+    "name": "GameContextKick",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "86": {
+    "id": 86,
+    "typeId": 7,
+    "name": "GameContextQuit",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "87": {
+    "id": 87,
+    "typeId": 7,
+    "name": "GameFightReady",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "88": {
+    "id": 88,
+    "typeId": 7,
+    "name": "GameFightSpellCast",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "89": {
+    "id": 89,
+    "typeId": 7,
+    "name": "GameFightTurnFinish",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "90": {
+    "id": 90,
+    "typeId": 1,
+    "name": "GameRolePlayFreeSoulRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "91": {
+    "id": 91,
+    "typeId": 1,
+    "name": "GameRolePlayTaxCollectorFightRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "93": {
+    "id": 93,
+    "typeId": 1,
+    "name": "GetPartInfo",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "94": {
+    "id": 94,
+    "typeId": 1,
+    "name": "GetPartsList",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "95": {
+    "id": 95,
+    "typeId": 2,
+    "name": "GiftAssignRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "96": {
+    "id": 96,
+    "typeId": 1,
+    "name": "GuidedModeQuitRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "97": {
+    "id": 97,
+    "typeId": 1,
+    "name": "GuidedModeReturnRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "98": {
+    "id": 98,
+    "typeId": 10,
+    "name": "GuildChangeMemberParameters",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "99": {
+    "id": 99,
+    "typeId": 10,
+    "name": "GuildCharacsUpgradeRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "100": {
+    "id": 100,
+    "typeId": 10,
+    "name": "GuildCreationValid",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "101": {
+    "id": 101,
+    "typeId": 10,
+    "name": "GuildFarmTeleportRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "102": {
+    "id": 102,
+    "typeId": 10,
+    "name": "GuildFightJoinRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "103": {
+    "id": 103,
+    "typeId": 10,
+    "name": "GuildFightLeaveRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "104": {
+    "id": 104,
+    "typeId": 10,
+    "name": "GuildGetInformations",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "105": {
+    "id": 105,
+    "typeId": 10,
+    "name": "GuildHouseTeleportRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "107": {
+    "id": 107,
+    "typeId": 10,
+    "name": "GuildInvitation",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "108": {
+    "id": 108,
+    "typeId": 10,
+    "name": "GuildInvitationAnswer",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "109": {
+    "id": 109,
+    "typeId": 10,
+    "name": "GuildInvitationByName",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "110": {
+    "id": 110,
+    "typeId": 10,
+    "name": "GuildKickRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "111": {
+    "id": 111,
+    "typeId": 10,
+    "name": "GuildSpellUpgradeRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "112": {
+    "id": 112,
+    "typeId": 12,
+    "name": "HouseBuy",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "113": {
+    "id": 113,
+    "typeId": 12,
+    "name": "HouseGuildRightsChange",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "114": {
+    "id": 114,
+    "typeId": 12,
+    "name": "HouseGuildRightsView",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "115": {
+    "id": 115,
+    "typeId": 12,
+    "name": "HouseGuildShare",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "116": {
+    "id": 116,
+    "typeId": 12,
+    "name": "HouseKick",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "117": {
+    "id": 117,
+    "typeId": 12,
+    "name": "HouseKickMerchant",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "118": {
+    "id": 118,
+    "typeId": 12,
+    "name": "HouseLockFromInside",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "119": {
+    "id": 119,
+    "typeId": 12,
+    "name": "HouseSell",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "120": {
+    "id": 120,
+    "typeId": 12,
+    "name": "HouseSellFromInside",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "121": {
+    "id": 121,
+    "typeId": 12,
+    "name": "HouseToSellFilter",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "122": {
+    "id": 122,
+    "typeId": 12,
+    "name": "HouseToSellListRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "123": {
+    "id": 123,
+    "typeId": 1,
+    "name": "IncreaseSpellLevel",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "124": {
+    "id": 124,
+    "typeId": 1,
+    "name": "InteractiveElementActivation",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "125": {
+    "id": 125,
+    "typeId": 17,
+    "name": "InventoryPresetDelete",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "126": {
+    "id": 126,
+    "typeId": 17,
+    "name": "InventoryPresetItemUpdateRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "127": {
+    "id": 127,
+    "typeId": 17,
+    "name": "InventoryPresetSave",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "128": {
+    "id": 128,
+    "typeId": 17,
+    "name": "InventoryPresetUse",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "129": {
+    "id": 129,
+    "typeId": 18,
+    "name": "JobAllowMultiCraftRequestSet",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "130": {
+    "id": 130,
+    "typeId": 18,
+    "name": "JobCrafterContactLookRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "131": {
+    "id": 131,
+    "typeId": 18,
+    "name": "JobCrafterDirectoryDefineSettings",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "132": {
+    "id": 132,
+    "typeId": 18,
+    "name": "JobCrafterDirectoryEntryRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "133": {
+    "id": 133,
+    "typeId": 18,
+    "name": "JobCrafterDirectoryListRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "134": {
+    "id": 134,
+    "typeId": 7,
+    "name": "JoinAsSpectatorRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "135": {
+    "id": 135,
+    "typeId": 7,
+    "name": "JoinFightRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "136": {
+    "id": 136,
+    "typeId": 20,
+    "name": "JoinFriend",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "137": {
+    "id": 137,
+    "typeId": 20,
+    "name": "JoinSpouse",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "138": {
+    "id": 138,
+    "typeId": 21,
+    "name": "LeaveBidHouse",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "139": {
+    "id": 139,
+    "typeId": 1,
+    "name": "LeaveDialog",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "140": {
+    "id": 140,
+    "typeId": 1,
+    "name": "LeaveDialogRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "141": {
+    "id": 141,
+    "typeId": 9,
+    "name": "LeaveExchangeMount",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "142": {
+    "id": 142,
+    "typeId": 9,
+    "name": "LeaveShopStock",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "143": {
+    "id": 143,
+    "typeId": 17,
+    "name": "LivingObjectChangeSkinRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "144": {
+    "id": 144,
+    "typeId": 17,
+    "name": "LivingObjectDissociate",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "145": {
+    "id": 145,
+    "typeId": 17,
+    "name": "LivingObjectFeed",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "146": {
+    "id": 146,
+    "typeId": 17,
+    "name": "LivingObjectMessageRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "147": {
+    "id": 147,
+    "typeId": 12,
+    "name": "LockableChangeCode",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "148": {
+    "id": 148,
+    "typeId": 12,
+    "name": "LockableUseCode",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "149": {
+    "id": 149,
+    "typeId": 2,
+    "name": "LoginValidation",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "150": {
+    "id": 150,
+    "typeId": 2,
+    "name": "LoginValidationWithTicket",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "151": {
+    "id": 151,
+    "typeId": 7,
+    "name": "MapRunningFightDetailsRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "152": {
+    "id": 152,
+    "typeId": 10,
+    "name": "MemberWarningSet",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "153": {
+    "id": 153,
+    "typeId": 1,
+    "name": "MoodSmileyRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 2000,
+    "needConfirmation": false
+  },
+  "154": {
+    "id": 154,
+    "typeId": 15,
+    "name": "MountFeedRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "155": {
+    "id": 155,
+    "typeId": 15,
+    "name": "MountInfoRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "156": {
+    "id": 156,
+    "typeId": 15,
+    "name": "MountInformationInPaddockRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "157": {
+    "id": 157,
+    "typeId": 15,
+    "name": "MountReleaseRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "158": {
+    "id": 158,
+    "typeId": 15,
+    "name": "MountRenameRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "159": {
+    "id": 159,
+    "typeId": 15,
+    "name": "MountSetXpRatioRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "160": {
+    "id": 160,
+    "typeId": 15,
+    "name": "MountSterilizeRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "161": {
+    "id": 161,
+    "typeId": 15,
+    "name": "MountToggleRidingRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 1000,
+    "needConfirmation": false
+  },
+  "162": {
+    "id": 162,
+    "typeId": 2,
+    "name": "NewsLoginRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "163": {
+    "id": 163,
+    "typeId": 2,
+    "name": "NicknameChoiceRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "164": {
+    "id": 164,
+    "typeId": 1,
+    "name": "NotificationReset",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "165": {
+    "id": 165,
+    "typeId": 1,
+    "name": "NotificationUpdateFlag",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "166": {
+    "id": 166,
+    "typeId": 1,
+    "name": "NpcDialogReply",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "167": {
+    "id": 167,
+    "typeId": 1,
+    "name": "NpcGenericActionRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "168": {
+    "id": 168,
+    "typeId": 17,
+    "name": "ObjectDrop",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "169": {
+    "id": 169,
+    "typeId": 17,
+    "name": "ObjectSetPosition",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "170": {
+    "id": 170,
+    "typeId": 17,
+    "name": "ObjectUse",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "171": {
+    "id": 171,
+    "typeId": 17,
+    "name": "ObjectUseOnCell",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "172": {
+    "id": 172,
+    "typeId": 6,
+    "name": "OpenBook",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "173": {
+    "id": 173,
+    "typeId": 17,
+    "name": "OpenCurrentFight",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "175": {
+    "id": 175,
+    "typeId": 6,
+    "name": "OpenInventory",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "176": {
+    "id": 176,
+    "typeId": 6,
+    "name": "OpenMainMenu",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "177": {
+    "id": 177,
+    "typeId": 6,
+    "name": "OpenMap",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "178": {
+    "id": 178,
+    "typeId": 6,
+    "name": "OpenMount",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "179": {
+    "id": 179,
+    "typeId": 6,
+    "name": "OpenServerSelection",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "180": {
+    "id": 180,
+    "typeId": 6,
+    "name": "OpenSmileys",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "181": {
+    "id": 181,
+    "typeId": 6,
+    "name": "OpenSocial",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "182": {
+    "id": 182,
+    "typeId": 6,
+    "name": "OpenStats",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "183": {
+    "id": 183,
+    "typeId": 14,
+    "name": "PaddockBuyRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "184": {
+    "id": 184,
+    "typeId": 14,
+    "name": "PaddockMoveItemRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "185": {
+    "id": 185,
+    "typeId": 14,
+    "name": "PaddockRemoveItemRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "186": {
+    "id": 186,
+    "typeId": 14,
+    "name": "PaddockSellRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "187": {
+    "id": 187,
+    "typeId": 14,
+    "name": "PaddockToSellFilter",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "188": {
+    "id": 188,
+    "typeId": 14,
+    "name": "PaddockToSellListRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "189": {
+    "id": 189,
+    "typeId": 13,
+    "name": "PartyAbdicateThrone",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "190": {
+    "id": 190,
+    "typeId": 13,
+    "name": "PartyAcceptInvitation",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "191": {
+    "id": 191,
+    "typeId": 13,
+    "name": "PartyAllFollowMember",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "192": {
+    "id": 192,
+    "typeId": 13,
+    "name": "PartyAllStopFollowingMember",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "193": {
+    "id": 193,
+    "typeId": 13,
+    "name": "PartyFollowMember",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "194": {
+    "id": 194,
+    "typeId": 13,
+    "name": "PartyInvitation",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "195": {
+    "id": 195,
+    "typeId": 13,
+    "name": "PartyKickRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 8,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "196": {
+    "id": 196,
+    "typeId": 13,
+    "name": "PartyLeaveRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "197": {
+    "id": 197,
+    "typeId": 13,
+    "name": "PartyRefuseInvitation",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "198": {
+    "id": 198,
+    "typeId": 13,
+    "name": "PartyShowMenu",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "199": {
+    "id": 199,
+    "typeId": 13,
+    "name": "PartyStopFollowingMember",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "200": {
+    "id": 200,
+    "typeId": 1,
+    "name": "PivotCharacter",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 500,
+    "needConfirmation": false
+  },
+  "201": {
+    "id": 201,
+    "typeId": 1,
+    "name": "PlaySound",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "202": {
+    "id": 202,
+    "typeId": 1,
+    "name": "PlayerFightFriendlyAnswer",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "203": {
+    "id": 203,
+    "typeId": 7,
+    "name": "PlayerFightRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "204": {
+    "id": 204,
+    "typeId": 1,
+    "name": "PresetSetPosition",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 10,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "205": {
+    "id": 205,
+    "typeId": 16,
+    "name": "PrismAttackRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "208": {
+    "id": 208,
+    "typeId": 16,
+    "name": "PrismFightJoinLeaveRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "209": {
+    "id": 209,
+    "typeId": 16,
+    "name": "PrismFightSwapRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "210": {
+    "id": 210,
+    "typeId": 16,
+    "name": "PrismInfoJoinLeaveRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "211": {
+    "id": 211,
+    "typeId": 16,
+    "name": "PrismUseRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "212": {
+    "id": 212,
+    "typeId": 16,
+    "name": "PrismsListRegister",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "213": {
+    "id": 213,
+    "typeId": 11,
+    "name": "QuestInfosRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "214": {
+    "id": 214,
+    "typeId": 11,
+    "name": "QuestListRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "215": {
+    "id": 215,
+    "typeId": 11,
+    "name": "QuestObjectiveValidation",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "216": {
+    "id": 216,
+    "typeId": 11,
+    "name": "QuestStartRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "217": {
+    "id": 217,
+    "typeId": 11,
+    "name": "QuitGame",
+    "trusted": true,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "218": {
+    "id": 218,
+    "typeId": 20,
+    "name": "RemoveEnemy",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "219": {
+    "id": 219,
+    "typeId": 20,
+    "name": "RemoveFriend",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "220": {
+    "id": 220,
+    "typeId": 20,
+    "name": "RemoveIgnored",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "221": {
+    "id": 221,
+    "typeId": 1,
+    "name": "ResetGame",
+    "trusted": true,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "222": {
+    "id": 222,
+    "typeId": 4,
+    "name": "SaveMessage",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "223": {
+    "id": 223,
+    "typeId": 2,
+    "name": "ServerSelection",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "224": {
+    "id": 224,
+    "typeId": 1,
+    "name": "SetEnablePVPRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "225": {
+    "id": 225,
+    "typeId": 1,
+    "name": "SpellSetPosition",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "226": {
+    "id": 226,
+    "typeId": 20,
+    "name": "SpouseRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "227": {
+    "id": 227,
+    "typeId": 1,
+    "name": "StartZoom",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "228": {
+    "id": 228,
+    "typeId": 1,
+    "name": "StatsUpgradeRequest",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "229": {
+    "id": 229,
+    "typeId": 7,
+    "name": "StopToListenRunningFightRequestMessage",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "230": {
+    "id": 230,
+    "typeId": 2,
+    "name": "SubscribersGiftListRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "231": {
+    "id": 231,
+    "typeId": 1,
+    "name": "TabsUpdate",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "234": {
+    "id": 234,
+    "typeId": 1,
+    "name": "TeleportRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "235": {
+    "id": 235,
+    "typeId": 7,
+    "name": "TimelineEntityClick",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "236": {
+    "id": 236,
+    "typeId": 7,
+    "name": "TimelineEntityOut",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "237": {
+    "id": 237,
+    "typeId": 7,
+    "name": "TimelineEntityOver",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "238": {
+    "id": 238,
+    "typeId": 7,
+    "name": "ToggleDematerialization",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "239": {
+    "id": 239,
+    "typeId": 7,
+    "name": "ToggleHelpWanted",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "240": {
+    "id": 240,
+    "typeId": 7,
+    "name": "ToggleLockFight",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "241": {
+    "id": 241,
+    "typeId": 7,
+    "name": "ToggleLockParty",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "242": {
+    "id": 242,
+    "typeId": 7,
+    "name": "TogglePointCell",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "243": {
+    "id": 243,
+    "typeId": 7,
+    "name": "ToggleWitnessForbidden",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "244": {
+    "id": 244,
+    "typeId": 1,
+    "name": "ValidateSpellForget",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "245": {
+    "id": 245,
+    "typeId": 13,
+    "name": "OpenTeamSearch",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "246": {
+    "id": 246,
+    "typeId": 13,
+    "name": "DungeonPartyFinderRegister",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "247": {
+    "id": 247,
+    "typeId": 13,
+    "name": "DungeonPartyFinderListen",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "248": {
+    "id": 248,
+    "typeId": 13,
+    "name": "DungeonPartyFinderAvailableDungeons",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "249": {
+    "id": 249,
+    "typeId": 13,
+    "name": "PartyInvitationDetailsRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "250": {
+    "id": 250,
+    "typeId": 13,
+    "name": "PartyCancelInvitation",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "251": {
+    "id": 251,
+    "typeId": 10,
+    "name": "GuildFightTakePlaceRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "252": {
+    "id": 252,
+    "typeId": 7,
+    "name": "ShowTacticMode",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "253": {
+    "id": 253,
+    "typeId": 1,
+    "name": "ShowAllNames",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "254": {
+    "id": 254,
+    "typeId": 13,
+    "name": "PartyPledgeLoyaltyRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "255": {
+    "id": 255,
+    "typeId": 13,
+    "name": "OpenArena",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "256": {
+    "id": 256,
+    "typeId": 13,
+    "name": "ArenaRegister",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "257": {
+    "id": 257,
+    "typeId": 13,
+    "name": "ArenaUnregister",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "258": {
+    "id": 258,
+    "typeId": 13,
+    "name": "ArenaFightAnswer",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "259": {
+    "id": 259,
+    "typeId": 4,
+    "name": "NumericWhoIsRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "260": {
+    "id": 260,
+    "typeId": 13,
+    "name": "TeleportToBuddyAnswer",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "261": {
+    "id": 261,
+    "typeId": 13,
+    "name": "TeleportBuddiesAnswer",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "262": {
+    "id": 262,
+    "typeId": 1,
+    "name": "AddBehaviorToStack",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "263": {
+    "id": 263,
+    "typeId": 1,
+    "name": "EmptyStack",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "264": {
+    "id": 264,
+    "typeId": 1,
+    "name": "RemoveBehaviorToStack",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "265": {
+    "id": 265,
+    "typeId": 1,
+    "name": "SwitchCreatureMode",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "266": {
+    "id": 266,
+    "typeId": 1,
+    "name": "BasicSwitchMode",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "267": {
+    "id": 267,
+    "typeId": 1,
+    "name": "OpenPopup",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "268": {
+    "id": 268,
+    "typeId": 10,
+    "name": "GuildModificationNameValid",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "269": {
+    "id": 269,
+    "typeId": 10,
+    "name": "GuildModificationValid",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "270": {
+    "id": 270,
+    "typeId": 10,
+    "name": "GuildModificationEmblemValid",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "271": {
+    "id": 271,
+    "typeId": 9,
+    "name": "ExchangeObjectTransfertExistingFromInv",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "272": {
+    "id": 272,
+    "typeId": 9,
+    "name": "ExchangeObjectTransfertExistingToInv",
+    "trusted": false,
+    "needInteraction": true,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "273": {
+    "id": 273,
+    "typeId": 23,
+    "name": "KrosmasterTokenRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "274": {
+    "id": 274,
+    "typeId": 23,
+    "name": "KrosmasterInventoryRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "275": {
+    "id": 275,
+    "typeId": 23,
+    "name": "KrosmasterTransferRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "276": {
+    "id": 276,
+    "typeId": 23,
+    "name": "KrosmasterPlayingStatus",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "277": {
+    "id": 277,
+    "typeId": 2,
+    "name": "CharacterRelookSelection",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "278": {
+    "id": 278,
+    "typeId": 4,
+    "name": "ClearChat",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "279": {
+    "id": 279,
+    "typeId": 11,
+    "name": "AchievementDetailedListRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "281": {
+    "id": 281,
+    "typeId": 11,
+    "name": "OrnamentSelectRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "282": {
+    "id": 282,
+    "typeId": 11,
+    "name": "TitleSelectRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "283": {
+    "id": 283,
+    "typeId": 11,
+    "name": "TitlesAndOrnamentsListRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "284": {
+    "id": 284,
+    "typeId": 11,
+    "name": "AchievementRewardRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "285": {
+    "id": 285,
+    "typeId": 11,
+    "name": "AchievementDetailsRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "286": {
+    "id": 286,
+    "typeId": 20,
+    "name": "FriendGuildSetWarnOnAchievementComplete",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "287": {
+    "id": 287,
+    "typeId": 17,
+    "name": "InventoryPresetSaveCustom",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "288": {
+    "id": 288,
+    "typeId": 19,
+    "name": "PlayerStatusUpdateRequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "289": {
+    "id": 289,
+    "typeId": 18,
+    "name": "ExchangeSetCraftRecipe",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "290": {
+    "id": 290,
+    "typeId": 24,
+    "name": "AllianceCreationValid",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "291": {
+    "id": 291,
+    "typeId": 24,
+    "name": "AllianceKickRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "292": {
+    "id": 292,
+    "typeId": 24,
+    "name": "AllianceInvitationAnswer",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "293": {
+    "id": 293,
+    "typeId": 24,
+    "name": "AllianceInvitation",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "294": {
+    "id": 294,
+    "typeId": 24,
+    "name": "AllianceFactsRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "295": {
+    "id": 295,
+    "typeId": 24,
+    "name": "AllianceListRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "297": {
+    "id": 297,
+    "typeId": 24,
+    "name": "AllianceInsiderInfoRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "298": {
+    "id": 298,
+    "typeId": 10,
+    "name": "GuildFactsRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "299": {
+    "id": 299,
+    "typeId": 10,
+    "name": "GuildListRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 0,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "301": {
+    "id": 301,
+    "typeId": 1,
+    "name": "ShowMonstersInfo",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "302": {
+    "id": 302,
+    "typeId": 24,
+    "name": "AllianceChangeGuildRights",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "303": {
+    "id": 303,
+    "typeId": 16,
+    "name": "PrismSettingsRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "304": {
+    "id": 304,
+    "typeId": 1,
+    "name": "SetEnableAVARequest",
+    "trusted": false,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": true
+  },
+  "305": {
+    "id": 305,
+    "typeId": 24,
+    "name": "AllianceModificationNameAndTagValid",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "306": {
+    "id": 306,
+    "typeId": 24,
+    "name": "AllianceModificationValid",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "307": {
+    "id": 307,
+    "typeId": 24,
+    "name": "AllianceModificationEmblemValid",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "308": {
+    "id": 308,
+    "typeId": 17,
+    "name": "MimicryObjectEraseRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  },
+  "309": {
+    "id": 309,
+    "typeId": 17,
+    "name": "MimicryObjectFeedAndAssociateRequest",
+    "trusted": true,
+    "needInteraction": false,
+    "maxUsePerFrame": 1,
+    "minimalUseInterval": 0,
+    "needConfirmation": false
+  }
+}

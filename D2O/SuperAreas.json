@@ -1,1 +1,4 @@
-{"0":{"id":0,"nameId":"Continent Amaknien","worldmapId":1},"3":{"id":3,"nameId":"Zone de départ","worldmapId":2}}
+{
+  "0": { "id": 0, "nameId": "Continent Amaknien", "worldmapId": 1 },
+  "3": { "id": 3, "nameId": "Zone de départ", "worldmapId": 2 }
+}

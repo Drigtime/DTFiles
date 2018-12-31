@@ -1,1 +1,7 @@
-{"0":{"id":0,"nameId":"Recommandé","weight":1},"1":{"id":1,"nameId":"Moyenne","weight":2},"2":{"id":2,"nameId":"Elevée","weight":3},"3":{"id":3,"nameId":"Coming soon","weight":99},"4":{"id":4,"nameId":"Complet","weight":4}}
+{
+  "0": { "id": 0, "nameId": "Recommandé", "weight": 1 },
+  "1": { "id": 1, "nameId": "Moyenne", "weight": 2 },
+  "2": { "id": 2, "nameId": "Elevée", "weight": 3 },
+  "3": { "id": 3, "nameId": "Coming soon", "weight": 99 },
+  "4": { "id": 4, "nameId": "Complet", "weight": 4 }
+}
