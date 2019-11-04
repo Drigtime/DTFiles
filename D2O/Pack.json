@@ -1,5 +1,1 @@
-{
-  "0": { "id": 0, "name": "base", "hasSubAreas": true },
-  "1": { "id": 1, "name": "all", "hasSubAreas": true },
-  "11": { "id": 11, "name": "subscribed", "hasSubAreas": true }
-}
+{"0":{"id":0,"name":"base","hasSubAreas":true},"1":{"id":1,"name":"all","hasSubAreas":true},"11":{"id":11,"name":"subscribed","hasSubAreas":true}}
