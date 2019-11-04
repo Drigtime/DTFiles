@@ -12,19 +12,19 @@ const worlds = [
     label: "amakna",
     worldId: 1,
     zooms: [
-      { label: "1", maxHorizontalTile: 40, maxVerticalTile: 32 },
-      { label: "0.6", maxHorizontalTile: 24, maxVerticalTile: 20 },
-      { label: "0.4", maxHorizontalTile: 16, maxVerticalTile: 13 },
-      { label: "0.2", maxHorizontalTile: 8, maxVerticalTile: 7 }
+      { label: "1", maxHorizontalTile: 40, maxVerticalTile: 32 }
+      // { label: "0.6", maxHorizontalTile: 24, maxVerticalTile: 20 },
+      // { label: "0.4", maxHorizontalTile: 16, maxVerticalTile: 13 },
+      // { label: "0.2", maxHorizontalTile: 8, maxVerticalTile: 7 }
     ]
   },
   {
     label: "incarnam",
     worldId: 2,
     zooms: [
-      { label: "1", maxHorizontalTile: 20, maxVerticalTile: 12 },
-      { label: "0.5", maxHorizontalTile: 10, maxVerticalTile: 6 },
-      { label: "0.25", maxHorizontalTile: 5, maxVerticalTile: 3 }
+      { label: "1", maxHorizontalTile: 20, maxVerticalTile: 12 }
+      // { label: "0.5", maxHorizontalTile: 10, maxVerticalTile: 6 },
+      // { label: "0.25", maxHorizontalTile: 5, maxVerticalTile: 3 }
     ]
   }
 ];
@@ -53,7 +53,6 @@ const getMapTile = (world, zoom, col, path) => {
 
 worlds.forEach(world => {
   world.zooms.forEach(zoom => {
-    console.log(zoom.label);
     if (!fs.existsSync(`./map`)) fs.mkdirSync(`./map`);
     if (!fs.existsSync(`./map/${world.label}`))
       fs.mkdirSync(`./map/${world.label}`);
