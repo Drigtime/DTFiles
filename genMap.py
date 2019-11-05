@@ -8,20 +8,28 @@ worlds = [
     'incarnam'
 ]
 
+def normalizeListDir(path, exclude = True):
+    array = os.listdir(path)
+    array = list(filter(lambda x: not '.jpg' in x, array)) if exclude  else list(filter(lambda x: '.jpg' in x, array))
+    array.sort()
+    return array
+
 print('Get map titles')
 subprocess.run(["node", "getMapTiles"])
 
 print('Generating columns from tiles')
 for world in worlds:
-    for zoom in os.listdir(f"./map/{world}/"):
-        listDir = os.listdir(f"./map/{world}/{zoom}/")
-        listDir = filter(lambda x: not '.jpg' in x, listDir)
+    zoomList = normalizeListDir(f"./map/{world}/")
+    for zoom in zoomList:
+        listDir = normalizeListDir(f"./map/{world}/{zoom}/")
         for foldername in listDir:
             colPath = f"./map/{world}/{zoom}/{foldername}.jpg"
             if os.path.exists(colPath):
                 os.remove(colPath)
             tilePath = []
-            for filename in os.listdir(f"./map/{world}/{zoom}/{foldername}/"):
+            fileList = os.listdir(f"./map/{world}/{zoom}/{foldername}/")
+            fileList.sort()
+            for filename in fileList:
                 tilePath.append(
                     f"./map/{world}/{zoom}/{foldername}/{filename}"
                 )
@@ -31,9 +39,9 @@ for world in worlds:
 
 print('Generating full map from columns')
 for world in worlds:
-    for zoom in os.listdir(f"./map/{world}/"):
-        listDir = os.listdir(f"./map/{world}/{zoom}/")
-        listDir = filter(lambda x: '.jpg' in x, listDir)
+    zoomList = normalizeListDir(f"./map/{world}/")
+    for zoom in zoomList:
+        listDir = normalizeListDir(f"./map/{world}/{zoom}/", False)
         fullMapPath = f"./map/{world}/full.jpg"
         if os.path.exists(fullMapPath):
             os.remove(fullMapPath)

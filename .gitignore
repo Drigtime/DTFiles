@@ -3,3 +3,6 @@ map
 D2P
 D2O
 resources
+.vscode
+.yarn.error.log
+.yarn.lock

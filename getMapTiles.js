@@ -40,12 +40,11 @@ const getMapTile = (world, zoom, col, path) => {
         const stream = fs.createWriteStream(filePath);
         const req = res.body.pipe(stream);
         req.on("finish", () => {
-          console.log(filePath);
+          console.log(filePath, 'downloaded');
           resolve(filePath);
         });
       })
-      .catch(res => {
-        console.log(`${res} downloaded`);
+      .catch(() => {
         reject();
       });
   });
