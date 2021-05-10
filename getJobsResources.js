@@ -1,53 +1,103 @@
+const axios = require("axios").default;
+const fse = require("fs-extra");
+const https = require("https");
+const Path = require("path");
 const Jobs = require("./D2O/Jobs.json");
 const Skills = require("./D2O/Skills.json");
+const Interactives = require("./D2O/Interactives.json");
 const Items = require("./D2O/Items.json");
-const fs = require("fs");
-const request = require("request");
-const JobsResources = [];
 
-function download(uri, filename, callback) {
-  request.head(uri, function() {
-    request(uri).pipe(fs.createWriteStream(filename));
-    // .on("finish", callback);
+https.globalAgent.maxSockets = 250;
+
+const JobsResources = {};
+
+function downloadImage(url, dirname, filename) {
+  return new Promise(async (resolve, reject) => {
+    const path = Path.resolve(__dirname, dirname, filename);
+    try {
+      await fse.stat(dirname);
+    } catch (err) {
+      await fse.mkdirp(dirname);
+    }
+    const writer = fse.createWriteStream(path);
+
+    try {
+      const response = await axios({
+        url,
+        method: "GET",
+        responseType: "stream",
+      });
+
+      response.data.pipe(writer);
+
+      writer.on("finish", resolve);
+      writer.on("error", reject);
+    } catch (err) {
+      resolve();
+    }
   });
 }
 
-Object.values(Jobs).forEach(job => {
-  download(
-    `https://ankama.akamaized.net/games/dofus-tablette/assets/2.28.4_T99'1'Q2hkeFvVmjPpzcjlR7I*d2eWg*/gfx/jobs/${job.iconId}.png`,
-    `./resources/jobIcon/${job.iconId}.png`,
-    () => {}
-  );
-  const jobResources = [];
-  Object.values(Skills).forEach(skill => {
-    if (skill.parentJobId === job.id && skill.gatheredRessourceItem !== -1) {
-      if (!fs.existsSync(`./resources/assets/${job.nameId}`))
-        fs.mkdirSync(`./resources/assets/${job.nameId}`);
-      if (Items[skill.gatheredRessourceItem]) {
-        const currentItem = Items[skill.gatheredRessourceItem];
-        download(
-          `https://ankama.akamaized.net/games/dofus-tablette/assets/2.28.4_T99'1'Q2hkeFvVmjPpzcjlR7I*d2eWg*/gfx/items/${currentItem.iconId}.png`,
-          `./resources/assets/${job.nameId}/${currentItem.id}.png`,
-          () => {}
-        );
-        jobResources.push({
-          id: currentItem.id,
-          nameId: currentItem.nameId,
-          iconId: currentItem.iconId,
-          level: currentItem.level
-        });
-      }
-    }
-  });
-  if (jobResources.length > 0)
-    JobsResources.push({
-      name: job.nameId,
-      id: job.id,
-      resources: jobResources.sort((a, b) => a.level - b.level)
-    });
-});
+axios
+  .get("https://proxyconnection.touch.dofus.com/config.json?lang=fr")
+  .then(async (res) => {
+    const assetsUrl = res.data.assetsUrl;
+    await Promise.all(
+      Object.values(Jobs).map(
+        (job) =>
+          new Promise(async (resolve) => {
+            await downloadImage(
+              `${assetsUrl}/gfx/jobs/${job.iconId}.png`,
+              `./resources/jobIcon/`,
+              `${job.iconId}.png`
+            );
 
-fs.writeFileSync(
-  "./resources/JobsResources.json",
-  JSON.stringify(JobsResources, null, "\t")
-);
+            await Promise.all(
+              Object.values(Skills).map(
+                (skill) =>
+                  new Promise(async (resolve) => {
+                    if (
+                      skill.parentJobId === job.id &&
+                      skill.gatheredRessourceItem !== -1
+                    ) {
+                      if (Interactives[skill.interactiveId]) {
+                        const interactive = Interactives[skill.interactiveId];
+                        const item = Items[skill.gatheredRessourceItem];
+                        if (item) {
+                          await downloadImage(
+                            `${assetsUrl}/gfx/items/${item.iconId}.png`,
+                            `./resources/assets/${job.nameId}/`,
+                            `${item.iconId}.png`
+                          );
+                        }
+                        JobsResources[job.id] = JobsResources[job.id] || {
+                          id: job.id,
+                          nameId: job.nameId,
+                          iconId: job.iconId,
+                          specializationOfId: job.specializationOfId,
+                          toolIds: job.toolIds,
+                          resources: [],
+                        };
+                        JobsResources[job.id].resources.push({
+                          id: interactive.id,
+                          nameId: interactive.nameId,
+                          iconId: item ? item.iconId : null,
+                          level: skill.levelMin,
+                        });
+                      }
+                    }
+
+                    resolve();
+                  })
+              )
+            );
+
+            resolve();
+          })
+      )
+    );
+
+    await fse.outputJSON("./resources/JobsResources.json", JobsResources, {
+      spaces: 1,
+    });
+  });

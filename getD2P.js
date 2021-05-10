@@ -1,34 +1,33 @@
-const fs = require('graceful-fs');
-const request = require('request')
+const axios = require("axios").default;
+const fse = require("fs-extra");
+const https = require("https");
+const D2O = require("./D2O/MapPositions.json");
 
-const https = require('https');
+const D2OKeys = Object.keys(D2O);
+let progress = 0;
+
 https.globalAgent.maxSockets = 250;
 
-const D2O = JSON.parse(fs.readFileSync('./D2O/MapPositions.json'))
-const D2OKeys = Object.keys(D2O);
-
-D2OKeys.forEach((map, index) => {
-    // console.log(`Downloading ${map}.json`);
-    
-    fs.exists(`./D2P/${map}.json`, (exists) => {      
-        if (!exists) {
-            request({
-                method: 'GET',
-                url: `https://ankama.akamaized.net/games/dofus-tablette/assets/2.28.4_T99'1'Q2hkeFvVmjPpzcjlR7I*d2eWg*/maps/${map}.json`,
-                Headers: {
-                    "Content-Type": "application/json"
-                }
-            }, (err, response, body) => {
-                if (!err && response.statusCode == 200) {
-                    fs.writeFile(`./D2P/${map}.json`, body, () => {
-                        console.log(`${map} downloaded`);
-                        console.log(`${index} / ${D2OKeys.length}`)
-                    });
-                }
-            });
-        } else {
-            console.log(`${map} already exist`);
-            console.log(`${index} / ${D2OKeys.length}`)
-        }
-    })
-})
+axios
+  .get("https://proxyconnection.touch.dofus.com/config.json?lang=fr")
+  .then(async (res) => {
+    const assetsUrl = res.data.assetsUrl;
+    await Promise.all(
+      D2OKeys.map(
+        (map, index) =>
+          new Promise(async (resolve) => {
+            let D2P;
+            try {
+              D2P = await axios.get(`${assetsUrl}/maps/${map}.json`);
+              await fse.outputJSON(`./D2P/${map}.json`, D2P.data);
+              progress++;
+              console.log(`${progress} / ${D2OKeys.length}`);
+              resolve();
+            } catch (error) {
+              progress++;
+              resolve();
+            }
+          })
+      )
+    );
+  });

@@ -1,5 +1,5 @@
-const fs = require('graceful-fs');
-const request = require('request')
+const axios = require("axios").default;
+const fse = require("fs-extra");
 
 const classes = [
   "AbuseReasons",
@@ -26,8 +26,8 @@ const classes = [
   "Challenge",
   "ChatChannels",
   "CompanionCharacteristics",
-  "CompanionSpells",
   "Companions",
+  "CompanionSpells",
   "CreatureBonesOverrides",
   "CreatureBonesTypes",
   "Documents",
@@ -46,9 +46,9 @@ const classes = [
   "IncarnationLevels",
   "InfoMessages",
   "Interactives",
+  "Items",
   "ItemSets",
   "ItemTypes",
-  "Items",
   "Jobs",
   "LegendaryTreasureHunts",
   "LivingObjectSkinJntMood",
@@ -58,8 +58,8 @@ const classes = [
   "MapScrollActions",
   "MonsterMiniBoss",
   "MonsterRaces",
-  "MonsterSuperRaces",
   "Monsters",
+  "MonsterSuperRaces",
   "Months",
   "MountBehaviors",
   "MountBones",
@@ -77,11 +77,11 @@ const classes = [
   "PointOfInterestCategory",
   "PresetIcons",
   "QuestCategory",
-  "QuestObjectiveTypes",
   "QuestObjectives",
+  "QuestObjectiveTypes",
+  "Quests",
   "QuestStepRewards",
   "QuestSteps",
-  "Quests",
   "RankNames",
   "Recipes",
   "RideFood",
@@ -89,6 +89,7 @@ const classes = [
   "ServerGameTypes",
   "ServerPopulations",
   "Servers",
+  "ShieldModelsLevels",
   "SkillNames",
   "Skills",
   "SkinMappings",
@@ -102,12 +103,12 @@ const classes = [
   "SpellBombs",
   "SpellLevels",
   "SpellPairs",
+  "Spells",
   "SpellStates",
   "SpellTypes",
-  "Spells",
   "StealthBones",
-  "SubAreaIdPerCoordinate",
   "SubAreas",
+  "SubAreaIdPerCoordinate",
   "SubAreasWorldMapData",
   "SuperAreas",
   "TaxCollectorFirstnames",
@@ -115,26 +116,35 @@ const classes = [
   "Tips",
   "TitleCategories",
   "Titles",
+  "ToaRank",
   "TypeActions",
   "Url",
   "Waypoints",
   "WorldMaps",
-  "isCacheComplete"
 ];
 
-classes.forEach((cls) => {
-  request({
-    method: 'POST',
-    url: 'https://proxyconnection.touch.dofus.com/data/map?lang=en&v=1.43.10',
-    Headers: {
-      "Content-Type": "application/json"
-    },
-    form: {
-      class: cls
-    }
-  }, (err, response, body) => {
-    if (!err && response.statusCode == 200) {
-      fs.writeFileSync(`./D2O/${cls}.json`, body);
-    }
-  })
-})
+axios
+  .get("https://proxyconnection.touch.dofus.com/config.json?lang=fr")
+  .then(async (res) => {
+    const assetsUrl = res.data.assetsUrl;
+    const dataUrl = res.data.dataUrl;
+    await Promise.all(
+      classes.map(
+        (classe) =>
+          new Promise(async (resolve, reject) => {
+            let D2O;
+            try {
+              D2O = await axios.post(`${dataUrl}/data/map`, {
+                class: classe,
+              });
+              await fse.outputJSON(`./D2O/${classe}.json`, D2O.data);
+              resolve();
+            } catch (error) {
+              console.error(error);
+              console.error(classe);
+              resolve();
+            }
+          })
+      )
+    );
+  });
